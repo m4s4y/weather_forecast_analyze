@@ -1,0 +1,8377 @@
+{
+    "美国": {
+        "prec_no": 16,
+        "block_no": 51,
+        "pref_name": "後志地方"
+    },
+    "余市": {
+        "prec_no": 16,
+        "block_no": 52,
+        "pref_name": "後志地方"
+    },
+    "小樽": {
+        "prec_no": 16,
+        "block_no": 47411,
+        "pref_name": "後志地方"
+    },
+    "共和": {
+        "prec_no": 16,
+        "block_no": 54,
+        "pref_name": "後志地方"
+    },
+    "蘭越": {
+        "prec_no": 16,
+        "block_no": 55,
+        "pref_name": "後志地方"
+    },
+    "倶知安": {
+        "prec_no": 16,
+        "block_no": 47433,
+        "pref_name": "後志地方"
+    },
+    "脇方台地": {
+        "prec_no": 16,
+        "block_no": 57,
+        "pref_name": "後志地方"
+    },
+    "寿都": {
+        "prec_no": 16,
+        "block_no": 47421,
+        "pref_name": "後志地方"
+    },
+    "桂台": {
+        "prec_no": 16,
+        "block_no": 59,
+        "pref_name": "後志地方"
+    },
+    "喜茂別": {
+        "prec_no": 16,
+        "block_no": 60,
+        "pref_name": "後志地方"
+    },
+    "黒松内": {
+        "prec_no": 16,
+        "block_no": 61,
+        "pref_name": "後志地方"
+    },
+    "真狩": {
+        "prec_no": 16,
+        "block_no": 1072,
+        "pref_name": "後志地方"
+    },
+    "赤井川": {
+        "prec_no": 16,
+        "block_no": 1091,
+        "pref_name": "後志地方"
+    },
+    "神恵内": {
+        "prec_no": 16,
+        "block_no": 1208,
+        "pref_name": "後志地方"
+    },
+    "後志地方全地点": {
+        "prec_no": 16,
+        "block_no": 0,
+        "pref_name": "後志地方"
+    },
+    "ニセコ": {
+        "prec_no": 16,
+        "block_no": 1615,
+        "pref_name": "後志地方"
+    },
+    "安平": {
+        "prec_no": 21,
+        "block_no": 123,
+        "pref_name": "胆振地方"
+    },
+    "厚真": {
+        "prec_no": 21,
+        "block_no": 124,
+        "pref_name": "胆振地方"
+    },
+    "穂別": {
+        "prec_no": 21,
+        "block_no": 125,
+        "pref_name": "胆振地方"
+    },
+    "森野": {
+        "prec_no": 21,
+        "block_no": 126,
+        "pref_name": "胆振地方"
+    },
+    "苫小牧": {
+        "prec_no": 21,
+        "block_no": 47424,
+        "pref_name": "胆振地方"
+    },
+    "大岸": {
+        "prec_no": 21,
+        "block_no": 128,
+        "pref_name": "胆振地方"
+    },
+    "有珠山": {
+        "prec_no": 21,
+        "block_no": 129,
+        "pref_name": "胆振地方"
+    },
+    "白老": {
+        "prec_no": 21,
+        "block_no": 130,
+        "pref_name": "胆振地方"
+    },
+    "鵡川": {
+        "prec_no": 21,
+        "block_no": 131,
+        "pref_name": "胆振地方"
+    },
+    "伊達": {
+        "prec_no": 21,
+        "block_no": 132,
+        "pref_name": "胆振地方"
+    },
+    "登別山": {
+        "prec_no": 21,
+        "block_no": 133,
+        "pref_name": "胆振地方"
+    },
+    "登別": {
+        "prec_no": 21,
+        "block_no": 134,
+        "pref_name": "胆振地方"
+    },
+    "室蘭": {
+        "prec_no": 21,
+        "block_no": 47423,
+        "pref_name": "胆振地方"
+    },
+    "大滝": {
+        "prec_no": 21,
+        "block_no": 1067,
+        "pref_name": "胆振地方"
+    },
+    "洞爺湖温泉": {
+        "prec_no": 21,
+        "block_no": 1329,
+        "pref_name": "胆振地方"
+    },
+    "カルルス": {
+        "prec_no": 21,
+        "block_no": 1429,
+        "pref_name": "胆振地方"
+    },
+    "豊浦": {
+        "prec_no": 21,
+        "block_no": 1496,
+        "pref_name": "胆振地方"
+    },
+    "花和": {
+        "prec_no": 21,
+        "block_no": 1498,
+        "pref_name": "胆振地方"
+    },
+    "虻田": {
+        "prec_no": 21,
+        "block_no": 1499,
+        "pref_name": "胆振地方"
+    },
+    "壮瞥": {
+        "prec_no": 21,
+        "block_no": 1500,
+        "pref_name": "胆振地方"
+    },
+    "入江": {
+        "prec_no": 21,
+        "block_no": 1501,
+        "pref_name": "胆振地方"
+    },
+    "月浦": {
+        "prec_no": 21,
+        "block_no": 1502,
+        "pref_name": "胆振地方"
+    },
+    "北有珠": {
+        "prec_no": 21,
+        "block_no": 1503,
+        "pref_name": "胆振地方"
+    },
+    "洞爺湖畔": {
+        "prec_no": 21,
+        "block_no": 1504,
+        "pref_name": "胆振地方"
+    },
+    "胆振地方全地点": {
+        "prec_no": 21,
+        "block_no": 0,
+        "pref_name": "胆振地方"
+    },
+    "厚真幌内": {
+        "prec_no": 21,
+        "block_no": 1665,
+        "pref_name": "胆振地方"
+    },
+    "西郷": {
+        "prec_no": 68,
+        "block_no": 47740,
+        "pref_name": "島根県"
+    },
+    "西ノ島": {
+        "prec_no": 68,
+        "block_no": 692,
+        "pref_name": "島根県"
+    },
+    "鹿島": {
+        "prec_no": 15,
+        "block_no": 1401,
+        "pref_name": "空知地方"
+    },
+    "斐川": {
+        "prec_no": 68,
+        "block_no": 694,
+        "pref_name": "島根県"
+    },
+    "松江": {
+        "prec_no": 68,
+        "block_no": 47741,
+        "pref_name": "島根県"
+    },
+    "大東": {
+        "prec_no": 33,
+        "block_no": 1557,
+        "pref_name": "岩手県"
+    },
+    "大田": {
+        "prec_no": 68,
+        "block_no": 697,
+        "pref_name": "島根県"
+    },
+    "掛合": {
+        "prec_no": 68,
+        "block_no": 698,
+        "pref_name": "島根県"
+    },
+    "横田": {
+        "prec_no": 68,
+        "block_no": 699,
+        "pref_name": "島根県"
+    },
+    "吾妻山": {
+        "prec_no": 36,
+        "block_no": 283,
+        "pref_name": "福島県"
+    },
+    "川本": {
+        "prec_no": 68,
+        "block_no": 701,
+        "pref_name": "島根県"
+    },
+    "浜田": {
+        "prec_no": 68,
+        "block_no": 47755,
+        "pref_name": "島根県"
+    },
+    "三隅": {
+        "prec_no": 68,
+        "block_no": 703,
+        "pref_name": "島根県"
+    },
+    "益田": {
+        "prec_no": 68,
+        "block_no": 704,
+        "pref_name": "島根県"
+    },
+    "聖山": {
+        "prec_no": 68,
+        "block_no": 705,
+        "pref_name": "島根県"
+    },
+    "十種峯": {
+        "prec_no": 68,
+        "block_no": 706,
+        "pref_name": "島根県"
+    },
+    "津和野": {
+        "prec_no": 68,
+        "block_no": 707,
+        "pref_name": "島根県"
+    },
+    "佐田": {
+        "prec_no": 68,
+        "block_no": 954,
+        "pref_name": "島根県"
+    },
+    "桜江": {
+        "prec_no": 68,
+        "block_no": 1093,
+        "pref_name": "島根県"
+    },
+    "瑞穂": {
+        "prec_no": 12,
+        "block_no": 17,
+        "pref_name": "上川地方"
+    },
+    "伯太": {
+        "prec_no": 68,
+        "block_no": 1095,
+        "pref_name": "島根県"
+    },
+    "波佐": {
+        "prec_no": 68,
+        "block_no": 1175,
+        "pref_name": "島根県"
+    },
+    "匹見": {
+        "prec_no": 68,
+        "block_no": 1176,
+        "pref_name": "島根県"
+    },
+    "海士": {
+        "prec_no": 68,
+        "block_no": 1307,
+        "pref_name": "島根県"
+    },
+    "出雲": {
+        "prec_no": 68,
+        "block_no": 1310,
+        "pref_name": "島根県"
+    },
+    "赤名": {
+        "prec_no": 68,
+        "block_no": 1320,
+        "pref_name": "島根県"
+    },
+    "弥栄": {
+        "prec_no": 68,
+        "block_no": 1321,
+        "pref_name": "島根県"
+    },
+    "六日市": {
+        "prec_no": 68,
+        "block_no": 1322,
+        "pref_name": "島根県"
+    },
+    "福光": {
+        "prec_no": 68,
+        "block_no": 1336,
+        "pref_name": "島根県"
+    },
+    "原山": {
+        "prec_no": 68,
+        "block_no": 1362,
+        "pref_name": "島根県"
+    },
+    "西郷岬": {
+        "prec_no": 68,
+        "block_no": 1473,
+        "pref_name": "島根県"
+    },
+    "高津": {
+        "prec_no": 68,
+        "block_no": 1474,
+        "pref_name": "島根県"
+    },
+    "吉賀": {
+        "prec_no": 68,
+        "block_no": 1592,
+        "pref_name": "島根県"
+    },
+    "島根県全地点": {
+        "prec_no": 68,
+        "block_no": 0,
+        "pref_name": "島根県"
+    },
+    "朝日": {
+        "prec_no": 12,
+        "block_no": 1047,
+        "pref_name": "上川地方"
+    },
+    "魚津": {
+        "prec_no": 55,
+        "block_no": 547,
+        "pref_name": "富山県"
+    },
+    "宇奈月": {
+        "prec_no": 55,
+        "block_no": 1412,
+        "pref_name": "富山県"
+    },
+    "嘉例沢": {
+        "prec_no": 55,
+        "block_no": 549,
+        "pref_name": "富山県"
+    },
+    "伏木": {
+        "prec_no": 83,
+        "block_no": 797,
+        "pref_name": "大分県"
+    },
+    "富山": {
+        "prec_no": 55,
+        "block_no": 47607,
+        "pref_name": "富山県"
+    },
+    "砺波": {
+        "prec_no": 55,
+        "block_no": 552,
+        "pref_name": "富山県"
+    },
+    "上市": {
+        "prec_no": 55,
+        "block_no": 553,
+        "pref_name": "富山県"
+    },
+    "南砺高宮": {
+        "prec_no": 55,
+        "block_no": 554,
+        "pref_name": "富山県"
+    },
+    "八尾": {
+        "prec_no": 62,
+        "block_no": 1470,
+        "pref_name": "大阪府"
+    },
+    "小谷": {
+        "prec_no": 48,
+        "block_no": 1411,
+        "pref_name": "長野県"
+    },
+    "立山": {
+        "prec_no": 55,
+        "block_no": 557,
+        "pref_name": "富山県"
+    },
+    "細尾峠": {
+        "prec_no": 55,
+        "block_no": 558,
+        "pref_name": "富山県"
+    },
+    "谷折": {
+        "prec_no": 55,
+        "block_no": 559,
+        "pref_name": "富山県"
+    },
+    "氷見": {
+        "prec_no": 55,
+        "block_no": 1309,
+        "pref_name": "富山県"
+    },
+    "平": {
+        "prec_no": 36,
+        "block_no": 310,
+        "pref_name": "福島県"
+    },
+    "大山": {
+        "prec_no": 50,
+        "block_no": 446,
+        "pref_name": "静岡県"
+    },
+    "細入": {
+        "prec_no": 55,
+        "block_no": 1415,
+        "pref_name": "富山県"
+    },
+    "猪谷": {
+        "prec_no": 55,
+        "block_no": 1455,
+        "pref_name": "富山県"
+    },
+    "秋ヶ島": {
+        "prec_no": 55,
+        "block_no": 1533,
+        "pref_name": "富山県"
+    },
+    "五箇山": {
+        "prec_no": 55,
+        "block_no": 1553,
+        "pref_name": "富山県"
+    },
+    "富山県全地点": {
+        "prec_no": 55,
+        "block_no": 0,
+        "pref_name": "富山県"
+    },
+    "立山芦峅": {
+        "prec_no": 55,
+        "block_no": 1621,
+        "pref_name": "富山県"
+    },
+    "野沢温泉": {
+        "prec_no": 48,
+        "block_no": 393,
+        "pref_name": "長野県"
+    },
+    "信濃町": {
+        "prec_no": 48,
+        "block_no": 394,
+        "pref_name": "長野県"
+    },
+    "飯山": {
+        "prec_no": 48,
+        "block_no": 395,
+        "pref_name": "長野県"
+    },
+    "白馬": {
+        "prec_no": 48,
+        "block_no": 396,
+        "pref_name": "長野県"
+    },
+    "長野": {
+        "prec_no": 48,
+        "block_no": 47610,
+        "pref_name": "長野県"
+    },
+    "笠岳": {
+        "prec_no": 48,
+        "block_no": 398,
+        "pref_name": "長野県"
+    },
+    "大町": {
+        "prec_no": 85,
+        "block_no": 1667,
+        "pref_name": "佐賀県"
+    },
+    "信州新町": {
+        "prec_no": 48,
+        "block_no": 400,
+        "pref_name": "長野県"
+    },
+    "四阿屋山": {
+        "prec_no": 48,
+        "block_no": 401,
+        "pref_name": "長野県"
+    },
+    "上田": {
+        "prec_no": 48,
+        "block_no": 402,
+        "pref_name": "長野県"
+    },
+    "燕岳": {
+        "prec_no": 48,
+        "block_no": 403,
+        "pref_name": "長野県"
+    },
+    "穂高": {
+        "prec_no": 48,
+        "block_no": 404,
+        "pref_name": "長野県"
+    },
+    "軽井沢": {
+        "prec_no": 48,
+        "block_no": 47622,
+        "pref_name": "長野県"
+    },
+    "松本": {
+        "prec_no": 48,
+        "block_no": 47618,
+        "pref_name": "長野県"
+    },
+    "鹿教湯": {
+        "prec_no": 48,
+        "block_no": 407,
+        "pref_name": "長野県"
+    },
+    "佐久": {
+        "prec_no": 48,
+        "block_no": 408,
+        "pref_name": "長野県"
+    },
+    "高ボッチ": {
+        "prec_no": 48,
+        "block_no": 409,
+        "pref_name": "長野県"
+    },
+    "茂来山": {
+        "prec_no": 48,
+        "block_no": 410,
+        "pref_name": "長野県"
+    },
+    "諏訪": {
+        "prec_no": 48,
+        "block_no": 47620,
+        "pref_name": "長野県"
+    },
+    "八ケ岳": {
+        "prec_no": 48,
+        "block_no": 412,
+        "pref_name": "長野県"
+    },
+    "木曽平沢": {
+        "prec_no": 48,
+        "block_no": 413,
+        "pref_name": "長野県"
+    },
+    "原村": {
+        "prec_no": 48,
+        "block_no": 414,
+        "pref_name": "長野県"
+    },
+    "野辺山": {
+        "prec_no": 48,
+        "block_no": 415,
+        "pref_name": "長野県"
+    },
+    "御嶽山": {
+        "prec_no": 48,
+        "block_no": 416,
+        "pref_name": "長野県"
+    },
+    "木曽福島": {
+        "prec_no": 48,
+        "block_no": 417,
+        "pref_name": "長野県"
+    },
+    "高遠": {
+        "prec_no": 48,
+        "block_no": 1551,
+        "pref_name": "長野県"
+    },
+    "入笠山": {
+        "prec_no": 48,
+        "block_no": 419,
+        "pref_name": "長野県"
+    },
+    "宮田高原": {
+        "prec_no": 48,
+        "block_no": 420,
+        "pref_name": "長野県"
+    },
+    "松峯": {
+        "prec_no": 48,
+        "block_no": 421,
+        "pref_name": "長野県"
+    },
+    "須原": {
+        "prec_no": 48,
+        "block_no": 422,
+        "pref_name": "長野県"
+    },
+    "摺古木山": {
+        "prec_no": 48,
+        "block_no": 423,
+        "pref_name": "長野県"
+    },
+    "飯島": {
+        "prec_no": 48,
+        "block_no": 424,
+        "pref_name": "長野県"
+    },
+    "笹山": {
+        "prec_no": 22,
+        "block_no": 139,
+        "pref_name": "日高地方"
+    },
+    "飯田": {
+        "prec_no": 48,
+        "block_no": 47637,
+        "pref_name": "長野県"
+    },
+    "恵那山": {
+        "prec_no": 48,
+        "block_no": 427,
+        "pref_name": "長野県"
+    },
+    "鶯巣": {
+        "prec_no": 48,
+        "block_no": 428,
+        "pref_name": "長野県"
+    },
+    "菅平": {
+        "prec_no": 48,
+        "block_no": 992,
+        "pref_name": "長野県"
+    },
+    "東御": {
+        "prec_no": 48,
+        "block_no": 993,
+        "pref_name": "長野県"
+    },
+    "上高地": {
+        "prec_no": 48,
+        "block_no": 994,
+        "pref_name": "長野県"
+    },
+    "南木曽": {
+        "prec_no": 48,
+        "block_no": 1022,
+        "pref_name": "長野県"
+    },
+    "南小谷": {
+        "prec_no": 48,
+        "block_no": 1090,
+        "pref_name": "長野県"
+    },
+    "鬼無里": {
+        "prec_no": 48,
+        "block_no": 1162,
+        "pref_name": "長野県"
+    },
+    "立科": {
+        "prec_no": 48,
+        "block_no": 1300,
+        "pref_name": "長野県"
+    },
+    "奈川": {
+        "prec_no": 48,
+        "block_no": 1312,
+        "pref_name": "長野県"
+    },
+    "開田高原": {
+        "prec_no": 48,
+        "block_no": 1314,
+        "pref_name": "長野県"
+    },
+    "浪合": {
+        "prec_no": 48,
+        "block_no": 1317,
+        "pref_name": "長野県"
+    },
+    "辰野": {
+        "prec_no": 48,
+        "block_no": 1319,
+        "pref_name": "長野県"
+    },
+    "南信濃": {
+        "prec_no": 48,
+        "block_no": 1323,
+        "pref_name": "長野県"
+    },
+    "阿南": {
+        "prec_no": 48,
+        "block_no": 1339,
+        "pref_name": "長野県"
+    },
+    "聖高原": {
+        "prec_no": 48,
+        "block_no": 1360,
+        "pref_name": "長野県"
+    },
+    "網掛山": {
+        "prec_no": 48,
+        "block_no": 1392,
+        "pref_name": "長野県"
+    },
+    "大鹿": {
+        "prec_no": 48,
+        "block_no": 1394,
+        "pref_name": "長野県"
+    },
+    "杉島": {
+        "prec_no": 48,
+        "block_no": 1397,
+        "pref_name": "長野県"
+    },
+    "十石峠": {
+        "prec_no": 48,
+        "block_no": 1399,
+        "pref_name": "長野県"
+    },
+    "伊那": {
+        "prec_no": 48,
+        "block_no": 1445,
+        "pref_name": "長野県"
+    },
+    "松本今井": {
+        "prec_no": 48,
+        "block_no": 1529,
+        "pref_name": "長野県"
+    },
+    "北相木": {
+        "prec_no": 48,
+        "block_no": 1549,
+        "pref_name": "長野県"
+    },
+    "白樺湖": {
+        "prec_no": 48,
+        "block_no": 1550,
+        "pref_name": "長野県"
+    },
+    "宮田": {
+        "prec_no": 48,
+        "block_no": 1591,
+        "pref_name": "長野県"
+    },
+    "長野県全地点": {
+        "prec_no": 48,
+        "block_no": 0,
+        "pref_name": "長野県"
+    },
+    "王滝大又": {
+        "prec_no": 48,
+        "block_no": 1659,
+        "pref_name": "長野県"
+    },
+    "木祖薮原": {
+        "prec_no": 48,
+        "block_no": 1666,
+        "pref_name": "長野県"
+    },
+    "佐須奈": {
+        "prec_no": 84,
+        "block_no": 811,
+        "pref_name": "長崎県"
+    },
+    "厳原": {
+        "prec_no": 84,
+        "block_no": 47800,
+        "pref_name": "長崎県"
+    },
+    "平戸": {
+        "prec_no": 84,
+        "block_no": 47805,
+        "pref_name": "長崎県"
+    },
+    "松浦": {
+        "prec_no": 84,
+        "block_no": 814,
+        "pref_name": "長崎県"
+    },
+    "国見山": {
+        "prec_no": 53,
+        "block_no": 508,
+        "pref_name": "三重県"
+    },
+    "佐世保": {
+        "prec_no": 84,
+        "block_no": 47812,
+        "pref_name": "長崎県"
+    },
+    "大瀬戸": {
+        "prec_no": 84,
+        "block_no": 817,
+        "pref_name": "長崎県"
+    },
+    "長浦岳": {
+        "prec_no": 84,
+        "block_no": 818,
+        "pref_name": "長崎県"
+    },
+    "五家原岳": {
+        "prec_no": 84,
+        "block_no": 819,
+        "pref_name": "長崎県"
+    },
+    "諫早": {
+        "prec_no": 84,
+        "block_no": 820,
+        "pref_name": "長崎県"
+    },
+    "長崎": {
+        "prec_no": 84,
+        "block_no": 47817,
+        "pref_name": "長崎県"
+    },
+    "雲仙岳": {
+        "prec_no": 84,
+        "block_no": 47818,
+        "pref_name": "長崎県"
+    },
+    "福江": {
+        "prec_no": 84,
+        "block_no": 47843,
+        "pref_name": "長崎県"
+    },
+    "口之津": {
+        "prec_no": 84,
+        "block_no": 922,
+        "pref_name": "長崎県"
+    },
+    "島原": {
+        "prec_no": 84,
+        "block_no": 962,
+        "pref_name": "長崎県"
+    },
+    "有川": {
+        "prec_no": 84,
+        "block_no": 1138,
+        "pref_name": "長崎県"
+    },
+    "大村": {
+        "prec_no": 84,
+        "block_no": 1084,
+        "pref_name": "長崎県"
+    },
+    "芦辺": {
+        "prec_no": 84,
+        "block_no": 1144,
+        "pref_name": "長崎県"
+    },
+    "野母崎": {
+        "prec_no": 84,
+        "block_no": 1441,
+        "pref_name": "長崎県"
+    },
+    "深江": {
+        "prec_no": 84,
+        "block_no": 1442,
+        "pref_name": "長崎県"
+    },
+    "普賢岳": {
+        "prec_no": 84,
+        "block_no": 1446,
+        "pref_name": "長崎県"
+    },
+    "百花台": {
+        "prec_no": 84,
+        "block_no": 1451,
+        "pref_name": "長崎県"
+    },
+    "千々石": {
+        "prec_no": 84,
+        "block_no": 1452,
+        "pref_name": "長崎県"
+    },
+    "鰐浦": {
+        "prec_no": 84,
+        "block_no": 1453,
+        "pref_name": "長崎県"
+    },
+    "石田": {
+        "prec_no": 84,
+        "block_no": 1478,
+        "pref_name": "長崎県"
+    },
+    "上大津": {
+        "prec_no": 84,
+        "block_no": 1479,
+        "pref_name": "長崎県"
+    },
+    "小値賀": {
+        "prec_no": 84,
+        "block_no": 1535,
+        "pref_name": "長崎県"
+    },
+    "頭ヶ島": {
+        "prec_no": 84,
+        "block_no": 1536,
+        "pref_name": "長崎県"
+    },
+    "美津島": {
+        "prec_no": 84,
+        "block_no": 1538,
+        "pref_name": "長崎県"
+    },
+    "長崎県全地点": {
+        "prec_no": 84,
+        "block_no": 0,
+        "pref_name": "長崎県"
+    },
+    "脇岬": {
+        "prec_no": 84,
+        "block_no": 1670,
+        "pref_name": "長崎県"
+    },
+    "西海": {
+        "prec_no": 84,
+        "block_no": 1672,
+        "pref_name": "長崎県"
+    },
+    "絹笠山": {
+        "prec_no": 84,
+        "block_no": 1676,
+        "pref_name": "長崎県"
+    },
+    "阿曽岩": {
+        "prec_no": 14,
+        "block_no": 29,
+        "pref_name": "石狩地方"
+    },
+    "新篠津": {
+        "prec_no": 14,
+        "block_no": 30,
+        "pref_name": "石狩地方"
+    },
+    "山口": {
+        "prec_no": 81,
+        "block_no": 47784,
+        "pref_name": "山口県"
+    },
+    "手稲山": {
+        "prec_no": 14,
+        "block_no": 32,
+        "pref_name": "石狩地方"
+    },
+    "札幌": {
+        "prec_no": 14,
+        "block_no": 47412,
+        "pref_name": "石狩地方"
+    },
+    "小金湯": {
+        "prec_no": 14,
+        "block_no": 34,
+        "pref_name": "石狩地方"
+    },
+    "恵庭島松": {
+        "prec_no": 14,
+        "block_no": 35,
+        "pref_name": "石狩地方"
+    },
+    "島松山": {
+        "prec_no": 14,
+        "block_no": 36,
+        "pref_name": "石狩地方"
+    },
+    "支笏湖畔": {
+        "prec_no": 14,
+        "block_no": 37,
+        "pref_name": "石狩地方"
+    },
+    "西野幌": {
+        "prec_no": 14,
+        "block_no": 1076,
+        "pref_name": "石狩地方"
+    },
+    "石狩": {
+        "prec_no": 14,
+        "block_no": 1085,
+        "pref_name": "石狩地方"
+    },
+    "浜益": {
+        "prec_no": 14,
+        "block_no": 1193,
+        "pref_name": "石狩地方"
+    },
+    "厚田": {
+        "prec_no": 14,
+        "block_no": 1194,
+        "pref_name": "石狩地方"
+    },
+    "千歳": {
+        "prec_no": 14,
+        "block_no": 1459,
+        "pref_name": "石狩地方"
+    },
+    "江別": {
+        "prec_no": 14,
+        "block_no": 1507,
+        "pref_name": "石狩地方"
+    },
+    "石狩地方全地点": {
+        "prec_no": 14,
+        "block_no": 0,
+        "pref_name": "石狩地方"
+    },
+    "枝去木": {
+        "prec_no": 85,
+        "block_no": 824,
+        "pref_name": "佐賀県"
+    },
+    "和多田": {
+        "prec_no": 85,
+        "block_no": 825,
+        "pref_name": "佐賀県"
+    },
+    "権現山": {
+        "prec_no": 52,
+        "block_no": 489,
+        "pref_name": "岐阜県"
+    },
+    "八幡岳": {
+        "prec_no": 85,
+        "block_no": 827,
+        "pref_name": "佐賀県"
+    },
+    "佐賀": {
+        "prec_no": 74,
+        "block_no": 1233,
+        "pref_name": "高知県"
+    },
+    "白石": {
+        "prec_no": 34,
+        "block_no": 256,
+        "pref_name": "宮城県"
+    },
+    "嬉野": {
+        "prec_no": 85,
+        "block_no": 830,
+        "pref_name": "佐賀県"
+    },
+    "多良岳": {
+        "prec_no": 85,
+        "block_no": 831,
+        "pref_name": "佐賀県"
+    },
+    "伊万里": {
+        "prec_no": 85,
+        "block_no": 1075,
+        "pref_name": "佐賀県"
+    },
+    "川副": {
+        "prec_no": 85,
+        "block_no": 1480,
+        "pref_name": "佐賀県"
+    },
+    "佐賀県全地点": {
+        "prec_no": 85,
+        "block_no": 0,
+        "pref_name": "佐賀県"
+    },
+    "唐津": {
+        "prec_no": 85,
+        "block_no": 1610,
+        "pref_name": "佐賀県"
+    },
+    "鳥栖": {
+        "prec_no": 85,
+        "block_no": 1612,
+        "pref_name": "佐賀県"
+    },
+    "北山": {
+        "prec_no": 85,
+        "block_no": 1616,
+        "pref_name": "佐賀県"
+    },
+    "天塩": {
+        "prec_no": 13,
+        "block_no": 24,
+        "pref_name": "留萌地方"
+    },
+    "遠別": {
+        "prec_no": 13,
+        "block_no": 25,
+        "pref_name": "留萌地方"
+    },
+    "羽幌": {
+        "prec_no": 13,
+        "block_no": 47404,
+        "pref_name": "留萌地方"
+    },
+    "留萌": {
+        "prec_no": 13,
+        "block_no": 47406,
+        "pref_name": "留萌地方"
+    },
+    "増毛": {
+        "prec_no": 13,
+        "block_no": 28,
+        "pref_name": "留萌地方"
+    },
+    "古丹別": {
+        "prec_no": 13,
+        "block_no": 1112,
+        "pref_name": "留萌地方"
+    },
+    "焼尻": {
+        "prec_no": 13,
+        "block_no": 1213,
+        "pref_name": "留萌地方"
+    },
+    "初山別": {
+        "prec_no": 13,
+        "block_no": 1216,
+        "pref_name": "留萌地方"
+    },
+    "達布": {
+        "prec_no": 13,
+        "block_no": 1217,
+        "pref_name": "留萌地方"
+    },
+    "幌糠": {
+        "prec_no": 13,
+        "block_no": 1218,
+        "pref_name": "留萌地方"
+    },
+    "留萌地方全地点": {
+        "prec_no": 13,
+        "block_no": 0,
+        "pref_name": "留萌地方"
+    },
+    "内海": {
+        "prec_no": 72,
+        "block_no": 726,
+        "pref_name": "香川県"
+    },
+    "高松": {
+        "prec_no": 23,
+        "block_no": 1462,
+        "pref_name": "渡島地方"
+    },
+    "多度津": {
+        "prec_no": 72,
+        "block_no": 47890,
+        "pref_name": "香川県"
+    },
+    "滝宮": {
+        "prec_no": 72,
+        "block_no": 729,
+        "pref_name": "香川県"
+    },
+    "引田": {
+        "prec_no": 72,
+        "block_no": 730,
+        "pref_name": "香川県"
+    },
+    "竜王山": {
+        "prec_no": 72,
+        "block_no": 731,
+        "pref_name": "香川県"
+    },
+    "財田": {
+        "prec_no": 72,
+        "block_no": 1239,
+        "pref_name": "香川県"
+    },
+    "香南": {
+        "prec_no": 72,
+        "block_no": 1475,
+        "pref_name": "香川県"
+    },
+    "香川県全地点": {
+        "prec_no": 72,
+        "block_no": 0,
+        "pref_name": "香川県"
+    },
+    "奥": {
+        "prec_no": 91,
+        "block_no": 901,
+        "pref_name": "沖縄県"
+    },
+    "与那覇岳": {
+        "prec_no": 91,
+        "block_no": 902,
+        "pref_name": "沖縄県"
+    },
+    "呉我山": {
+        "prec_no": 91,
+        "block_no": 903,
+        "pref_name": "沖縄県"
+    },
+    "名護": {
+        "prec_no": 91,
+        "block_no": 47940,
+        "pref_name": "沖縄県"
+    },
+    "名嘉真": {
+        "prec_no": 91,
+        "block_no": 905,
+        "pref_name": "沖縄県"
+    },
+    "読谷": {
+        "prec_no": 91,
+        "block_no": 906,
+        "pref_name": "沖縄県"
+    },
+    "胡屋": {
+        "prec_no": 91,
+        "block_no": 907,
+        "pref_name": "沖縄県"
+    },
+    "那覇": {
+        "prec_no": 91,
+        "block_no": 47936,
+        "pref_name": "沖縄県"
+    },
+    "糸数": {
+        "prec_no": 91,
+        "block_no": 909,
+        "pref_name": "沖縄県"
+    },
+    "金武": {
+        "prec_no": 91,
+        "block_no": 1064,
+        "pref_name": "沖縄県"
+    },
+    "石垣島": {
+        "prec_no": 91,
+        "block_no": 47918,
+        "pref_name": "沖縄県"
+    },
+    "伊原間": {
+        "prec_no": 91,
+        "block_no": 1145,
+        "pref_name": "沖縄県"
+    },
+    "伊是名": {
+        "prec_no": 91,
+        "block_no": 1147,
+        "pref_name": "沖縄県"
+    },
+    "宮古島": {
+        "prec_no": 91,
+        "block_no": 47927,
+        "pref_name": "沖縄県"
+    },
+    "久米島": {
+        "prec_no": 91,
+        "block_no": 47929,
+        "pref_name": "沖縄県"
+    },
+    "渡嘉敷": {
+        "prec_no": 91,
+        "block_no": 1152,
+        "pref_name": "沖縄県"
+    },
+    "伊良部": {
+        "prec_no": 91,
+        "block_no": 1246,
+        "pref_name": "沖縄県"
+    },
+    "多良間": {
+        "prec_no": 91,
+        "block_no": 1247,
+        "pref_name": "沖縄県"
+    },
+    "城辺": {
+        "prec_no": 91,
+        "block_no": 1248,
+        "pref_name": "沖縄県"
+    },
+    "川平": {
+        "prec_no": 91,
+        "block_no": 1250,
+        "pref_name": "沖縄県"
+    },
+    "大原": {
+        "prec_no": 91,
+        "block_no": 1251,
+        "pref_name": "沖縄県"
+    },
+    "西表島": {
+        "prec_no": 91,
+        "block_no": 47917,
+        "pref_name": "沖縄県"
+    },
+    "与那国島": {
+        "prec_no": 91,
+        "block_no": 47912,
+        "pref_name": "沖縄県"
+    },
+    "波照間": {
+        "prec_no": 91,
+        "block_no": 1354,
+        "pref_name": "沖縄県"
+    },
+    "南大東（南大東島）": {
+        "prec_no": 91,
+        "block_no": 47945,
+        "pref_name": "沖縄県"
+    },
+    "本部": {
+        "prec_no": 91,
+        "block_no": 1373,
+        "pref_name": "沖縄県"
+    },
+    "東": {
+        "prec_no": 91,
+        "block_no": 1374,
+        "pref_name": "沖縄県"
+    },
+    "安次嶺": {
+        "prec_no": 91,
+        "block_no": 1482,
+        "pref_name": "沖縄県"
+    },
+    "鏡原": {
+        "prec_no": 91,
+        "block_no": 1483,
+        "pref_name": "沖縄県"
+    },
+    "真栄里": {
+        "prec_no": 91,
+        "block_no": 1484,
+        "pref_name": "沖縄県"
+    },
+    "下地島": {
+        "prec_no": 91,
+        "block_no": 1490,
+        "pref_name": "沖縄県"
+    },
+    "仲筋": {
+        "prec_no": 91,
+        "block_no": 1491,
+        "pref_name": "沖縄県"
+    },
+    "所野": {
+        "prec_no": 91,
+        "block_no": 1493,
+        "pref_name": "沖縄県"
+    },
+    "志多阿原": {
+        "prec_no": 91,
+        "block_no": 1494,
+        "pref_name": "沖縄県"
+    },
+    "粟国": {
+        "prec_no": 91,
+        "block_no": 1515,
+        "pref_name": "沖縄県"
+    },
+    "慶良間": {
+        "prec_no": 91,
+        "block_no": 1516,
+        "pref_name": "沖縄県"
+    },
+    "北大東": {
+        "prec_no": 91,
+        "block_no": 1517,
+        "pref_name": "沖縄県"
+    },
+    "旧東": {
+        "prec_no": 91,
+        "block_no": 1518,
+        "pref_name": "沖縄県"
+    },
+    "北原": {
+        "prec_no": 91,
+        "block_no": 1534,
+        "pref_name": "沖縄県"
+    },
+    "国頭": {
+        "prec_no": 91,
+        "block_no": 1586,
+        "pref_name": "沖縄県"
+    },
+    "沖縄県全地点": {
+        "prec_no": 91,
+        "block_no": 0,
+        "pref_name": "沖縄県"
+    },
+    "宮城島": {
+        "prec_no": 91,
+        "block_no": 1596,
+        "pref_name": "沖縄県"
+    },
+    "盛山": {
+        "prec_no": 91,
+        "block_no": 1639,
+        "pref_name": "沖縄県"
+    },
+    "渡名喜": {
+        "prec_no": 91,
+        "block_no": 1651,
+        "pref_name": "沖縄県"
+    },
+    "せたな": {
+        "prec_no": 24,
+        "block_no": 153,
+        "pref_name": "檜山地方"
+    },
+    "今金": {
+        "prec_no": 24,
+        "block_no": 154,
+        "pref_name": "檜山地方"
+    },
+    "潮見": {
+        "prec_no": 24,
+        "block_no": 156,
+        "pref_name": "檜山地方"
+    },
+    "江差": {
+        "prec_no": 24,
+        "block_no": 47428,
+        "pref_name": "檜山地方"
+    },
+    "奥尻": {
+        "prec_no": 24,
+        "block_no": 1199,
+        "pref_name": "檜山地方"
+    },
+    "鶉": {
+        "prec_no": 24,
+        "block_no": 1200,
+        "pref_name": "檜山地方"
+    },
+    "石崎": {
+        "prec_no": 24,
+        "block_no": 1205,
+        "pref_name": "檜山地方"
+    },
+    "米岡": {
+        "prec_no": 24,
+        "block_no": 1513,
+        "pref_name": "檜山地方"
+    },
+    "檜山地方全地点": {
+        "prec_no": 24,
+        "block_no": 0,
+        "pref_name": "檜山地方"
+    },
+    "須佐": {
+        "prec_no": 81,
+        "block_no": 765,
+        "pref_name": "山口県"
+    },
+    "萩": {
+        "prec_no": 81,
+        "block_no": 47754,
+        "pref_name": "山口県"
+    },
+    "徳佐": {
+        "prec_no": 81,
+        "block_no": 767,
+        "pref_name": "山口県"
+    },
+    "鍋提峠": {
+        "prec_no": 81,
+        "block_no": 768,
+        "pref_name": "山口県"
+    },
+    "秋吉台": {
+        "prec_no": 81,
+        "block_no": 769,
+        "pref_name": "山口県"
+    },
+    "瀬戸原": {
+        "prec_no": 81,
+        "block_no": 770,
+        "pref_name": "山口県"
+    },
+    "広瀬": {
+        "prec_no": 81,
+        "block_no": 771,
+        "pref_name": "山口県"
+    },
+    "豊田": {
+        "prec_no": 51,
+        "block_no": 464,
+        "pref_name": "愛知県"
+    },
+    "桜山": {
+        "prec_no": 15,
+        "block_no": 1271,
+        "pref_name": "空知地方"
+    },
+    "防府": {
+        "prec_no": 81,
+        "block_no": 775,
+        "pref_name": "山口県"
+    },
+    "下松": {
+        "prec_no": 81,
+        "block_no": 776,
+        "pref_name": "山口県"
+    },
+    "下関": {
+        "prec_no": 54,
+        "block_no": 1060,
+        "pref_name": "新潟県"
+    },
+    "宇部": {
+        "prec_no": 81,
+        "block_no": 778,
+        "pref_name": "山口県"
+    },
+    "安下庄": {
+        "prec_no": 81,
+        "block_no": 779,
+        "pref_name": "山口県"
+    },
+    "玖珂": {
+        "prec_no": 81,
+        "block_no": 913,
+        "pref_name": "山口県"
+    },
+    "油谷": {
+        "prec_no": 81,
+        "block_no": 939,
+        "pref_name": "山口県"
+    },
+    "岩国": {
+        "prec_no": 81,
+        "block_no": 940,
+        "pref_name": "山口県"
+    },
+    "周東": {
+        "prec_no": 81,
+        "block_no": 941,
+        "pref_name": "山口県"
+    },
+    "柳井": {
+        "prec_no": 81,
+        "block_no": 942,
+        "pref_name": "山口県"
+    },
+    "羅漢山": {
+        "prec_no": 81,
+        "block_no": 1100,
+        "pref_name": "山口県"
+    },
+    "長野山": {
+        "prec_no": 81,
+        "block_no": 1101,
+        "pref_name": "山口県"
+    },
+    "和田": {
+        "prec_no": 81,
+        "block_no": 1261,
+        "pref_name": "山口県"
+    },
+    "篠生": {
+        "prec_no": 81,
+        "block_no": 1367,
+        "pref_name": "山口県"
+    },
+    "山口県全地点": {
+        "prec_no": 81,
+        "block_no": 0,
+        "pref_name": "山口県"
+    },
+    "鹿野": {
+        "prec_no": 69,
+        "block_no": 1391,
+        "pref_name": "鳥取県"
+    },
+    "東厚保": {
+        "prec_no": 81,
+        "block_no": 1620,
+        "pref_name": "山口県"
+    },
+    "鹿北": {
+        "prec_no": 86,
+        "block_no": 832,
+        "pref_name": "熊本県"
+    },
+    "南小国": {
+        "prec_no": 86,
+        "block_no": 833,
+        "pref_name": "熊本県"
+    },
+    "岱明": {
+        "prec_no": 86,
+        "block_no": 834,
+        "pref_name": "熊本県"
+    },
+    "菊池": {
+        "prec_no": 86,
+        "block_no": 835,
+        "pref_name": "熊本県"
+    },
+    "鞍岳": {
+        "prec_no": 86,
+        "block_no": 836,
+        "pref_name": "熊本県"
+    },
+    "熊本": {
+        "prec_no": 86,
+        "block_no": 47819,
+        "pref_name": "熊本県"
+    },
+    "俵山": {
+        "prec_no": 86,
+        "block_no": 838,
+        "pref_name": "熊本県"
+    },
+    "阿蘇山": {
+        "prec_no": 86,
+        "block_no": 47821,
+        "pref_name": "熊本県"
+    },
+    "高森": {
+        "prec_no": 86,
+        "block_no": 840,
+        "pref_name": "熊本県"
+    },
+    "間の谷山": {
+        "prec_no": 86,
+        "block_no": 841,
+        "pref_name": "熊本県"
+    },
+    "甲佐": {
+        "prec_no": 86,
+        "block_no": 842,
+        "pref_name": "熊本県"
+    },
+    "松島": {
+        "prec_no": 86,
+        "block_no": 843,
+        "pref_name": "熊本県"
+    },
+    "大金峰": {
+        "prec_no": 86,
+        "block_no": 844,
+        "pref_name": "熊本県"
+    },
+    "本渡": {
+        "prec_no": 86,
+        "block_no": 845,
+        "pref_name": "熊本県"
+    },
+    "八代": {
+        "prec_no": 86,
+        "block_no": 846,
+        "pref_name": "熊本県"
+    },
+    "人吉": {
+        "prec_no": 86,
+        "block_no": 47824,
+        "pref_name": "熊本県"
+    },
+    "牛深": {
+        "prec_no": 86,
+        "block_no": 47838,
+        "pref_name": "熊本県"
+    },
+    "一里山": {
+        "prec_no": 86,
+        "block_no": 850,
+        "pref_name": "熊本県"
+    },
+    "白髪岳": {
+        "prec_no": 86,
+        "block_no": 851,
+        "pref_name": "熊本県"
+    },
+    "益城": {
+        "prec_no": 86,
+        "block_no": 923,
+        "pref_name": "熊本県"
+    },
+    "水俣": {
+        "prec_no": 86,
+        "block_no": 924,
+        "pref_name": "熊本県"
+    },
+    "多良木": {
+        "prec_no": 86,
+        "block_no": 925,
+        "pref_name": "熊本県"
+    },
+    "上": {
+        "prec_no": 86,
+        "block_no": 926,
+        "pref_name": "熊本県"
+    },
+    "田浦": {
+        "prec_no": 86,
+        "block_no": 946,
+        "pref_name": "熊本県"
+    },
+    "三角": {
+        "prec_no": 86,
+        "block_no": 1081,
+        "pref_name": "熊本県"
+    },
+    "湯前横谷": {
+        "prec_no": 86,
+        "block_no": 1086,
+        "pref_name": "熊本県"
+    },
+    "茶臼峠": {
+        "prec_no": 86,
+        "block_no": 1088,
+        "pref_name": "熊本県"
+    },
+    "屋形山": {
+        "prec_no": 86,
+        "block_no": 1156,
+        "pref_name": "熊本県"
+    },
+    "五家荘": {
+        "prec_no": 86,
+        "block_no": 1158,
+        "pref_name": "熊本県"
+    },
+    "阿蘇乙姫": {
+        "prec_no": 86,
+        "block_no": 1240,
+        "pref_name": "熊本県"
+    },
+    "五木": {
+        "prec_no": 86,
+        "block_no": 1368,
+        "pref_name": "熊本県"
+    },
+    "山江": {
+        "prec_no": 86,
+        "block_no": 1435,
+        "pref_name": "熊本県"
+    },
+    "宇土": {
+        "prec_no": 86,
+        "block_no": 1580,
+        "pref_name": "熊本県"
+    },
+    "一勝地": {
+        "prec_no": 86,
+        "block_no": 1581,
+        "pref_name": "熊本県"
+    },
+    "熊本県全地点": {
+        "prec_no": 86,
+        "block_no": 0,
+        "pref_name": "熊本県"
+    },
+    "戦山": {
+        "prec_no": 86,
+        "block_no": 847,
+        "pref_name": "熊本県"
+    },
+    "山都": {
+        "prec_no": 86,
+        "block_no": 1613,
+        "pref_name": "熊本県"
+    },
+    "南阿蘇": {
+        "prec_no": 86,
+        "block_no": 1660,
+        "pref_name": "熊本県"
+    },
+    "阿久根": {
+        "prec_no": 88,
+        "block_no": 47823,
+        "pref_name": "鹿児島県"
+    },
+    "古原野": {
+        "prec_no": 88,
+        "block_no": 874,
+        "pref_name": "鹿児島県"
+    },
+    "大口": {
+        "prec_no": 88,
+        "block_no": 875,
+        "pref_name": "鹿児島県"
+    },
+    "魚野越": {
+        "prec_no": 88,
+        "block_no": 876,
+        "pref_name": "鹿児島県"
+    },
+    "紫尾山": {
+        "prec_no": 88,
+        "block_no": 877,
+        "pref_name": "鹿児島県"
+    },
+    "さつま柏原": {
+        "prec_no": 88,
+        "block_no": 878,
+        "pref_name": "鹿児島県"
+    },
+    "中甑": {
+        "prec_no": 88,
+        "block_no": 879,
+        "pref_name": "鹿児島県"
+    },
+    "川内": {
+        "prec_no": 36,
+        "block_no": 1129,
+        "pref_name": "福島県"
+    },
+    "溝辺": {
+        "prec_no": 88,
+        "block_no": 881,
+        "pref_name": "鹿児島県"
+    },
+    "八重山": {
+        "prec_no": 88,
+        "block_no": 882,
+        "pref_name": "鹿児島県"
+    },
+    "東市来": {
+        "prec_no": 88,
+        "block_no": 883,
+        "pref_name": "鹿児島県"
+    },
+    "権現ケ尾": {
+        "prec_no": 88,
+        "block_no": 884,
+        "pref_name": "鹿児島県"
+    },
+    "鹿児島": {
+        "prec_no": 88,
+        "block_no": 47827,
+        "pref_name": "鹿児島県"
+    },
+    "高峠": {
+        "prec_no": 88,
+        "block_no": 886,
+        "pref_name": "鹿児島県"
+    },
+    "加世田": {
+        "prec_no": 88,
+        "block_no": 887,
+        "pref_name": "鹿児島県"
+    },
+    "吉ケ別府": {
+        "prec_no": 88,
+        "block_no": 888,
+        "pref_name": "鹿児島県"
+    },
+    "喜入": {
+        "prec_no": 88,
+        "block_no": 890,
+        "pref_name": "鹿児島県"
+    },
+    "肝属川": {
+        "prec_no": 88,
+        "block_no": 891,
+        "pref_name": "鹿児島県"
+    },
+    "枕崎": {
+        "prec_no": 88,
+        "block_no": 47831,
+        "pref_name": "鹿児島県"
+    },
+    "指宿": {
+        "prec_no": 88,
+        "block_no": 893,
+        "pref_name": "鹿児島県"
+    },
+    "甫与志岳": {
+        "prec_no": 88,
+        "block_no": 894,
+        "pref_name": "鹿児島県"
+    },
+    "内之浦": {
+        "prec_no": 88,
+        "block_no": 895,
+        "pref_name": "鹿児島県"
+    },
+    "種子島": {
+        "prec_no": 88,
+        "block_no": 47837,
+        "pref_name": "鹿児島県"
+    },
+    "中種子": {
+        "prec_no": 88,
+        "block_no": 897,
+        "pref_name": "鹿児島県"
+    },
+    "上中": {
+        "prec_no": 88,
+        "block_no": 898,
+        "pref_name": "鹿児島県"
+    },
+    "尾之間": {
+        "prec_no": 88,
+        "block_no": 899,
+        "pref_name": "鹿児島県"
+    },
+    "名瀬": {
+        "prec_no": 88,
+        "block_no": 47909,
+        "pref_name": "鹿児島県"
+    },
+    "屋久島": {
+        "prec_no": 88,
+        "block_no": 47836,
+        "pref_name": "鹿児島県"
+    },
+    "沖永良部": {
+        "prec_no": 88,
+        "block_no": 47942,
+        "pref_name": "鹿児島県"
+    },
+    "出水": {
+        "prec_no": 88,
+        "block_no": 934,
+        "pref_name": "鹿児島県"
+    },
+    "牧之原": {
+        "prec_no": 88,
+        "block_no": 935,
+        "pref_name": "鹿児島県"
+    },
+    "志布志": {
+        "prec_no": 88,
+        "block_no": 936,
+        "pref_name": "鹿児島県"
+    },
+    "鹿屋": {
+        "prec_no": 88,
+        "block_no": 937,
+        "pref_name": "鹿児島県"
+    },
+    "古仁屋": {
+        "prec_no": 88,
+        "block_no": 980,
+        "pref_name": "鹿児島県"
+    },
+    "矢止岳": {
+        "prec_no": 88,
+        "block_no": 1104,
+        "pref_name": "鹿児島県"
+    },
+    "田代": {
+        "prec_no": 42,
+        "block_no": 348,
+        "pref_name": "群馬県"
+    },
+    "伊仙": {
+        "prec_no": 88,
+        "block_no": 1139,
+        "pref_name": "鹿児島県"
+    },
+    "輝北": {
+        "prec_no": 88,
+        "block_no": 1146,
+        "pref_name": "鹿児島県"
+    },
+    "大隅": {
+        "prec_no": 88,
+        "block_no": 1149,
+        "pref_name": "鹿児島県"
+    },
+    "佐多": {
+        "prec_no": 88,
+        "block_no": 1161,
+        "pref_name": "鹿児島県"
+    },
+    "肝付前田": {
+        "prec_no": 88,
+        "block_no": 1181,
+        "pref_name": "鹿児島県"
+    },
+    "与論島": {
+        "prec_no": 88,
+        "block_no": 1277,
+        "pref_name": "鹿児島県"
+    },
+    "喜界島": {
+        "prec_no": 88,
+        "block_no": 1296,
+        "pref_name": "鹿児島県"
+    },
+    "笠利": {
+        "prec_no": 88,
+        "block_no": 1520,
+        "pref_name": "鹿児島県"
+    },
+    "中之島": {
+        "prec_no": 88,
+        "block_no": 1540,
+        "pref_name": "鹿児島県"
+    },
+    "天城": {
+        "prec_no": 88,
+        "block_no": 1542,
+        "pref_name": "鹿児島県"
+    },
+    "鹿児島県全地点": {
+        "prec_no": 88,
+        "block_no": 0,
+        "pref_name": "鹿児島県"
+    },
+    "宝島": {
+        "prec_no": 88,
+        "block_no": 1647,
+        "pref_name": "鹿児島県"
+    },
+    "諏訪之瀬島": {
+        "prec_no": 88,
+        "block_no": 1654,
+        "pref_name": "鹿児島県"
+    },
+    "小宝島": {
+        "prec_no": 88,
+        "block_no": 1655,
+        "pref_name": "鹿児島県"
+    },
+    "平島": {
+        "prec_no": 88,
+        "block_no": 1658,
+        "pref_name": "鹿児島県"
+    },
+    "霧島牧園": {
+        "prec_no": 88,
+        "block_no": 1625,
+        "pref_name": "鹿児島県"
+    },
+    "熊谷": {
+        "prec_no": 43,
+        "block_no": 47626,
+        "pref_name": "埼玉県"
+    },
+    "久喜": {
+        "prec_no": 43,
+        "block_no": 359,
+        "pref_name": "埼玉県"
+    },
+    "秩父": {
+        "prec_no": 43,
+        "block_no": 47641,
+        "pref_name": "埼玉県"
+    },
+    "堂平": {
+        "prec_no": 43,
+        "block_no": 361,
+        "pref_name": "埼玉県"
+    },
+    "飯能": {
+        "prec_no": 43,
+        "block_no": 362,
+        "pref_name": "埼玉県"
+    },
+    "さいたま": {
+        "prec_no": 43,
+        "block_no": 363,
+        "pref_name": "埼玉県"
+    },
+    "越谷": {
+        "prec_no": 43,
+        "block_no": 364,
+        "pref_name": "埼玉県"
+    },
+    "三峰": {
+        "prec_no": 43,
+        "block_no": 1000,
+        "pref_name": "埼玉県"
+    },
+    "寄居": {
+        "prec_no": 43,
+        "block_no": 1009,
+        "pref_name": "埼玉県"
+    },
+    "鴻巣": {
+        "prec_no": 43,
+        "block_no": 1069,
+        "pref_name": "埼玉県"
+    },
+    "所沢": {
+        "prec_no": 43,
+        "block_no": 1070,
+        "pref_name": "埼玉県"
+    },
+    "浦山": {
+        "prec_no": 43,
+        "block_no": 1159,
+        "pref_name": "埼玉県"
+    },
+    "上吉田": {
+        "prec_no": 43,
+        "block_no": 1182,
+        "pref_name": "埼玉県"
+    },
+    "鳩山": {
+        "prec_no": 43,
+        "block_no": 1232,
+        "pref_name": "埼玉県"
+    },
+    "ときがわ": {
+        "prec_no": 43,
+        "block_no": 1497,
+        "pref_name": "埼玉県"
+    },
+    "埼玉県全地点": {
+        "prec_no": 43,
+        "block_no": 0,
+        "pref_name": "埼玉県"
+    },
+    "一宮": {
+        "prec_no": 63,
+        "block_no": 615,
+        "pref_name": "兵庫県"
+    },
+    "豊山": {
+        "prec_no": 51,
+        "block_no": 461,
+        "pref_name": "愛知県"
+    },
+    "茶臼山": {
+        "prec_no": 51,
+        "block_no": 462,
+        "pref_name": "愛知県"
+    },
+    "名古屋": {
+        "prec_no": 51,
+        "block_no": 47636,
+        "pref_name": "愛知県"
+    },
+    "東海": {
+        "prec_no": 51,
+        "block_no": 465,
+        "pref_name": "愛知県"
+    },
+    "出来山": {
+        "prec_no": 51,
+        "block_no": 466,
+        "pref_name": "愛知県"
+    },
+    "岡崎": {
+        "prec_no": 51,
+        "block_no": 467,
+        "pref_name": "愛知県"
+    },
+    "作手": {
+        "prec_no": 51,
+        "block_no": 468,
+        "pref_name": "愛知県"
+    },
+    "一色": {
+        "prec_no": 51,
+        "block_no": 469,
+        "pref_name": "愛知県"
+    },
+    "豊橋": {
+        "prec_no": 51,
+        "block_no": 470,
+        "pref_name": "愛知県"
+    },
+    "伊良湖": {
+        "prec_no": 51,
+        "block_no": 47653,
+        "pref_name": "愛知県"
+    },
+    "田原": {
+        "prec_no": 51,
+        "block_no": 472,
+        "pref_name": "愛知県"
+    },
+    "稲武": {
+        "prec_no": 51,
+        "block_no": 982,
+        "pref_name": "愛知県"
+    },
+    "蟹江": {
+        "prec_no": 51,
+        "block_no": 983,
+        "pref_name": "愛知県"
+    },
+    "南知多": {
+        "prec_no": 51,
+        "block_no": 984,
+        "pref_name": "愛知県"
+    },
+    "小原": {
+        "prec_no": 51,
+        "block_no": 1166,
+        "pref_name": "愛知県"
+    },
+    "鳳来": {
+        "prec_no": 51,
+        "block_no": 1341,
+        "pref_name": "愛知県"
+    },
+    "蒲郡": {
+        "prec_no": 51,
+        "block_no": 1344,
+        "pref_name": "愛知県"
+    },
+    "愛西": {
+        "prec_no": 51,
+        "block_no": 1346,
+        "pref_name": "愛知県"
+    },
+    "新城": {
+        "prec_no": 15,
+        "block_no": 1419,
+        "pref_name": "空知地方"
+    },
+    "セントレア": {
+        "prec_no": 51,
+        "block_no": 1555,
+        "pref_name": "愛知県"
+    },
+    "阿蔵": {
+        "prec_no": 51,
+        "block_no": 1576,
+        "pref_name": "愛知県"
+    },
+    "愛知県全地点": {
+        "prec_no": 51,
+        "block_no": 0,
+        "pref_name": "愛知県"
+    },
+    "大府": {
+        "prec_no": 51,
+        "block_no": 1638,
+        "pref_name": "愛知県"
+    },
+    "高千穂": {
+        "prec_no": 87,
+        "block_no": 852,
+        "pref_name": "宮崎県"
+    },
+    "大中尾": {
+        "prec_no": 87,
+        "block_no": 853,
+        "pref_name": "宮崎県"
+    },
+    "中小屋": {
+        "prec_no": 87,
+        "block_no": 854,
+        "pref_name": "宮崎県"
+    },
+    "延岡": {
+        "prec_no": 87,
+        "block_no": 47822,
+        "pref_name": "宮崎県"
+    },
+    "猪原": {
+        "prec_no": 87,
+        "block_no": 856,
+        "pref_name": "宮崎県"
+    },
+    "日向": {
+        "prec_no": 87,
+        "block_no": 857,
+        "pref_name": "宮崎県"
+    },
+    "矢櫃岳": {
+        "prec_no": 87,
+        "block_no": 858,
+        "pref_name": "宮崎県"
+    },
+    "高鍋": {
+        "prec_no": 87,
+        "block_no": 859,
+        "pref_name": "宮崎県"
+    },
+    "加久藤": {
+        "prec_no": 87,
+        "block_no": 860,
+        "pref_name": "宮崎県"
+    },
+    "西都": {
+        "prec_no": 87,
+        "block_no": 861,
+        "pref_name": "宮崎県"
+    },
+    "えびの高原": {
+        "prec_no": 87,
+        "block_no": 862,
+        "pref_name": "宮崎県"
+    },
+    "小林": {
+        "prec_no": 87,
+        "block_no": 863,
+        "pref_name": "宮崎県"
+    },
+    "野尻": {
+        "prec_no": 87,
+        "block_no": 864,
+        "pref_name": "宮崎県"
+    },
+    "国富": {
+        "prec_no": 87,
+        "block_no": 865,
+        "pref_name": "宮崎県"
+    },
+    "宮崎": {
+        "prec_no": 87,
+        "block_no": 47830,
+        "pref_name": "宮崎県"
+    },
+    "霧島御池": {
+        "prec_no": 87,
+        "block_no": 867,
+        "pref_name": "宮崎県"
+    },
+    "青島": {
+        "prec_no": 87,
+        "block_no": 868,
+        "pref_name": "宮崎県"
+    },
+    "都城": {
+        "prec_no": 87,
+        "block_no": 47829,
+        "pref_name": "宮崎県"
+    },
+    "鰐塚山": {
+        "prec_no": 87,
+        "block_no": 870,
+        "pref_name": "宮崎県"
+    },
+    "油津": {
+        "prec_no": 87,
+        "block_no": 47835,
+        "pref_name": "宮崎県"
+    },
+    "串間": {
+        "prec_no": 87,
+        "block_no": 872,
+        "pref_name": "宮崎県"
+    },
+    "古江": {
+        "prec_no": 87,
+        "block_no": 1135,
+        "pref_name": "宮崎県"
+    },
+    "酒谷": {
+        "prec_no": 87,
+        "block_no": 1164,
+        "pref_name": "宮崎県"
+    },
+    "見立": {
+        "prec_no": 87,
+        "block_no": 1275,
+        "pref_name": "宮崎県"
+    },
+    "諸塚": {
+        "prec_no": 87,
+        "block_no": 1343,
+        "pref_name": "宮崎県"
+    },
+    "西米良": {
+        "prec_no": 87,
+        "block_no": 1345,
+        "pref_name": "宮崎県"
+    },
+    "鞍岡": {
+        "prec_no": 87,
+        "block_no": 1348,
+        "pref_name": "宮崎県"
+    },
+    "神門": {
+        "prec_no": 87,
+        "block_no": 1353,
+        "pref_name": "宮崎県"
+    },
+    "北方": {
+        "prec_no": 87,
+        "block_no": 1432,
+        "pref_name": "宮崎県"
+    },
+    "上椎葉": {
+        "prec_no": 87,
+        "block_no": 1433,
+        "pref_name": "宮崎県"
+    },
+    "赤江": {
+        "prec_no": 87,
+        "block_no": 1481,
+        "pref_name": "宮崎県"
+    },
+    "宮崎県全地点": {
+        "prec_no": 87,
+        "block_no": 0,
+        "pref_name": "宮崎県"
+    },
+    "都農": {
+        "prec_no": 87,
+        "block_no": 1608,
+        "pref_name": "宮崎県"
+    },
+    "日之影": {
+        "prec_no": 87,
+        "block_no": 1609,
+        "pref_name": "宮崎県"
+    },
+    "高原": {
+        "prec_no": 87,
+        "block_no": 1623,
+        "pref_name": "宮崎県"
+    },
+    "山田": {
+        "prec_no": 36,
+        "block_no": 1607,
+        "pref_name": "福島県"
+    },
+    "椎葉": {
+        "prec_no": 87,
+        "block_no": 1636,
+        "pref_name": "宮崎県"
+    },
+    "田野": {
+        "prec_no": 74,
+        "block_no": 955,
+        "pref_name": "高知県"
+    },
+    "剣ノ峰": {
+        "prec_no": 49,
+        "block_no": 429,
+        "pref_name": "山梨県"
+    },
+    "日向山": {
+        "prec_no": 49,
+        "block_no": 430,
+        "pref_name": "山梨県"
+    },
+    "大菩薩": {
+        "prec_no": 49,
+        "block_no": 431,
+        "pref_name": "山梨県"
+    },
+    "甲府": {
+        "prec_no": 49,
+        "block_no": 47638,
+        "pref_name": "山梨県"
+    },
+    "勝沼": {
+        "prec_no": 49,
+        "block_no": 433,
+        "pref_name": "山梨県"
+    },
+    "大月": {
+        "prec_no": 49,
+        "block_no": 434,
+        "pref_name": "山梨県"
+    },
+    "八町山": {
+        "prec_no": 49,
+        "block_no": 435,
+        "pref_name": "山梨県"
+    },
+    "古関": {
+        "prec_no": 49,
+        "block_no": 436,
+        "pref_name": "山梨県"
+    },
+    "河口湖": {
+        "prec_no": 49,
+        "block_no": 47640,
+        "pref_name": "山梨県"
+    },
+    "山中": {
+        "prec_no": 49,
+        "block_no": 438,
+        "pref_name": "山梨県"
+    },
+    "南部": {
+        "prec_no": 49,
+        "block_no": 439,
+        "pref_name": "山梨県"
+    },
+    "大泉": {
+        "prec_no": 49,
+        "block_no": 1023,
+        "pref_name": "山梨県"
+    },
+    "韮崎": {
+        "prec_no": 49,
+        "block_no": 1024,
+        "pref_name": "山梨県"
+    },
+    "上野原": {
+        "prec_no": 49,
+        "block_no": 1165,
+        "pref_name": "山梨県"
+    },
+    "切石": {
+        "prec_no": 49,
+        "block_no": 1234,
+        "pref_name": "山梨県"
+    },
+    "富士山": {
+        "prec_no": 50,
+        "block_no": 47639,
+        "pref_name": "静岡県"
+    },
+    "山梨県全地点": {
+        "prec_no": 49,
+        "block_no": 0,
+        "pref_name": "山梨県"
+    },
+    "乙女湖": {
+        "prec_no": 49,
+        "block_no": 1599,
+        "pref_name": "山梨県"
+    },
+    "富士川": {
+        "prec_no": 49,
+        "block_no": 1640,
+        "pref_name": "山梨県"
+    },
+    "田代岳": {
+        "prec_no": 32,
+        "block_no": 180,
+        "pref_name": "秋田県"
+    },
+    "陣場": {
+        "prec_no": 32,
+        "block_no": 181,
+        "pref_name": "秋田県"
+    },
+    "杉沢山": {
+        "prec_no": 32,
+        "block_no": 182,
+        "pref_name": "秋田県"
+    },
+    "能代": {
+        "prec_no": 32,
+        "block_no": 183,
+        "pref_name": "秋田県"
+    },
+    "鷹巣": {
+        "prec_no": 32,
+        "block_no": 184,
+        "pref_name": "秋田県"
+    },
+    "鹿角": {
+        "prec_no": 32,
+        "block_no": 185,
+        "pref_name": "秋田県"
+    },
+    "湯瀬": {
+        "prec_no": 32,
+        "block_no": 186,
+        "pref_name": "秋田県"
+    },
+    "森吉山": {
+        "prec_no": 32,
+        "block_no": 187,
+        "pref_name": "秋田県"
+    },
+    "五城目": {
+        "prec_no": 32,
+        "block_no": 188,
+        "pref_name": "秋田県"
+    },
+    "男鹿本山": {
+        "prec_no": 32,
+        "block_no": 189,
+        "pref_name": "秋田県"
+    },
+    "秋田": {
+        "prec_no": 32,
+        "block_no": 47582,
+        "pref_name": "秋田県"
+    },
+    "太平山": {
+        "prec_no": 35,
+        "block_no": 261,
+        "pref_name": "山形県"
+    },
+    "岩見三内": {
+        "prec_no": 32,
+        "block_no": 192,
+        "pref_name": "秋田県"
+    },
+    "角館": {
+        "prec_no": 32,
+        "block_no": 193,
+        "pref_name": "秋田県"
+    },
+    "田沢湖": {
+        "prec_no": 32,
+        "block_no": 194,
+        "pref_name": "秋田県"
+    },
+    "大曲": {
+        "prec_no": 32,
+        "block_no": 195,
+        "pref_name": "秋田県"
+    },
+    "本荘": {
+        "prec_no": 32,
+        "block_no": 196,
+        "pref_name": "秋田県"
+    },
+    "保呂羽山": {
+        "prec_no": 32,
+        "block_no": 197,
+        "pref_name": "秋田県"
+    },
+    "横手": {
+        "prec_no": 32,
+        "block_no": 198,
+        "pref_name": "秋田県"
+    },
+    "にかほ": {
+        "prec_no": 32,
+        "block_no": 199,
+        "pref_name": "秋田県"
+    },
+    "矢島": {
+        "prec_no": 32,
+        "block_no": 200,
+        "pref_name": "秋田県"
+    },
+    "三森山": {
+        "prec_no": 52,
+        "block_no": 498,
+        "pref_name": "岐阜県"
+    },
+    "湯沢": {
+        "prec_no": 54,
+        "block_no": 544,
+        "pref_name": "新潟県"
+    },
+    "姥井戸山": {
+        "prec_no": 32,
+        "block_no": 203,
+        "pref_name": "秋田県"
+    },
+    "湯の岱": {
+        "prec_no": 32,
+        "block_no": 204,
+        "pref_name": "秋田県"
+    },
+    "大館": {
+        "prec_no": 32,
+        "block_no": 912,
+        "pref_name": "秋田県"
+    },
+    "大潟": {
+        "prec_no": 54,
+        "block_no": 1302,
+        "pref_name": "新潟県"
+    },
+    "男鹿": {
+        "prec_no": 32,
+        "block_no": 1036,
+        "pref_name": "秋田県"
+    },
+    "八森": {
+        "prec_no": 32,
+        "block_no": 1043,
+        "pref_name": "秋田県"
+    },
+    "大正寺": {
+        "prec_no": 32,
+        "block_no": 1050,
+        "pref_name": "秋田県"
+    },
+    "東成瀬": {
+        "prec_no": 32,
+        "block_no": 1109,
+        "pref_name": "秋田県"
+    },
+    "比立内": {
+        "prec_no": 32,
+        "block_no": 1115,
+        "pref_name": "秋田県"
+    },
+    "東由利": {
+        "prec_no": 32,
+        "block_no": 1117,
+        "pref_name": "秋田県"
+    },
+    "阿仁合": {
+        "prec_no": 32,
+        "block_no": 1131,
+        "pref_name": "秋田県"
+    },
+    "鎧畑": {
+        "prec_no": 32,
+        "block_no": 1167,
+        "pref_name": "秋田県"
+    },
+    "藤里": {
+        "prec_no": 32,
+        "block_no": 1273,
+        "pref_name": "秋田県"
+    },
+    "桧木内": {
+        "prec_no": 32,
+        "block_no": 1278,
+        "pref_name": "秋田県"
+    },
+    "八幡平": {
+        "prec_no": 32,
+        "block_no": 1289,
+        "pref_name": "秋田県"
+    },
+    "笹子": {
+        "prec_no": 32,
+        "block_no": 1407,
+        "pref_name": "秋田県"
+    },
+    "藤原": {
+        "prec_no": 42,
+        "block_no": 1222,
+        "pref_name": "群馬県"
+    },
+    "男鹿真山": {
+        "prec_no": 32,
+        "block_no": 1422,
+        "pref_name": "秋田県"
+    },
+    "仁別": {
+        "prec_no": 32,
+        "block_no": 1425,
+        "pref_name": "秋田県"
+    },
+    "脇神": {
+        "prec_no": 32,
+        "block_no": 1463,
+        "pref_name": "秋田県"
+    },
+    "雄和": {
+        "prec_no": 32,
+        "block_no": 1511,
+        "pref_name": "秋田県"
+    },
+    "秋田県全地点": {
+        "prec_no": 32,
+        "block_no": 0,
+        "pref_name": "秋田県"
+    },
+    "田沢湖高原": {
+        "prec_no": 32,
+        "block_no": 1652,
+        "pref_name": "秋田県"
+    },
+    "北勢": {
+        "prec_no": 53,
+        "block_no": 499,
+        "pref_name": "三重県"
+    },
+    "桑名": {
+        "prec_no": 53,
+        "block_no": 500,
+        "pref_name": "三重県"
+    },
+    "雲母峰": {
+        "prec_no": 53,
+        "block_no": 501,
+        "pref_name": "三重県"
+    },
+    "四日市": {
+        "prec_no": 53,
+        "block_no": 47684,
+        "pref_name": "三重県"
+    },
+    "亀山": {
+        "prec_no": 53,
+        "block_no": 503,
+        "pref_name": "三重県"
+    },
+    "上野": {
+        "prec_no": 53,
+        "block_no": 47649,
+        "pref_name": "三重県"
+    },
+    "笠取山": {
+        "prec_no": 53,
+        "block_no": 505,
+        "pref_name": "三重県"
+    },
+    "津": {
+        "prec_no": 53,
+        "block_no": 47651,
+        "pref_name": "三重県"
+    },
+    "名張": {
+        "prec_no": 53,
+        "block_no": 507,
+        "pref_name": "三重県"
+    },
+    "小俣": {
+        "prec_no": 53,
+        "block_no": 509,
+        "pref_name": "三重県"
+    },
+    "粥見": {
+        "prec_no": 53,
+        "block_no": 510,
+        "pref_name": "三重県"
+    },
+    "藤坂峠": {
+        "prec_no": 53,
+        "block_no": 511,
+        "pref_name": "三重県"
+    },
+    "尾鷲": {
+        "prec_no": 53,
+        "block_no": 47663,
+        "pref_name": "三重県"
+    },
+    "八幡峠": {
+        "prec_no": 53,
+        "block_no": 513,
+        "pref_name": "三重県"
+    },
+    "熊野": {
+        "prec_no": 53,
+        "block_no": 514,
+        "pref_name": "三重県"
+    },
+    "大台": {
+        "prec_no": 53,
+        "block_no": 918,
+        "pref_name": "三重県"
+    },
+    "松阪": {
+        "prec_no": 53,
+        "block_no": 990,
+        "pref_name": "三重県"
+    },
+    "磯部": {
+        "prec_no": 53,
+        "block_no": 991,
+        "pref_name": "三重県"
+    },
+    "鳥羽": {
+        "prec_no": 53,
+        "block_no": 1230,
+        "pref_name": "三重県"
+    },
+    "宮川": {
+        "prec_no": 53,
+        "block_no": 1255,
+        "pref_name": "三重県"
+    },
+    "南伊勢": {
+        "prec_no": 53,
+        "block_no": 1258,
+        "pref_name": "三重県"
+    },
+    "紀伊長島": {
+        "prec_no": 53,
+        "block_no": 1349,
+        "pref_name": "三重県"
+    },
+    "白山": {
+        "prec_no": 53,
+        "block_no": 1356,
+        "pref_name": "三重県"
+    },
+    "阿児": {
+        "prec_no": 53,
+        "block_no": 1381,
+        "pref_name": "三重県"
+    },
+    "御浜": {
+        "prec_no": 53,
+        "block_no": 1423,
+        "pref_name": "三重県"
+    },
+    "熊野新鹿": {
+        "prec_no": 53,
+        "block_no": 1532,
+        "pref_name": "三重県"
+    },
+    "三重県全地点": {
+        "prec_no": 53,
+        "block_no": 0,
+        "pref_name": "三重県"
+    },
+    "香取": {
+        "prec_no": 45,
+        "block_no": 375,
+        "pref_name": "千葉県"
+    },
+    "我孫子": {
+        "prec_no": 45,
+        "block_no": 376,
+        "pref_name": "千葉県"
+    },
+    "東庄": {
+        "prec_no": 45,
+        "block_no": 377,
+        "pref_name": "千葉県"
+    },
+    "成田": {
+        "prec_no": 45,
+        "block_no": 378,
+        "pref_name": "千葉県"
+    },
+    "銚子": {
+        "prec_no": 45,
+        "block_no": 47648,
+        "pref_name": "千葉県"
+    },
+    "千葉": {
+        "prec_no": 45,
+        "block_no": 47682,
+        "pref_name": "千葉県"
+    },
+    "茂原": {
+        "prec_no": 45,
+        "block_no": 381,
+        "pref_name": "千葉県"
+    },
+    "木更津": {
+        "prec_no": 45,
+        "block_no": 382,
+        "pref_name": "千葉県"
+    },
+    "鋸南": {
+        "prec_no": 45,
+        "block_no": 383,
+        "pref_name": "千葉県"
+    },
+    "鴨川": {
+        "prec_no": 45,
+        "block_no": 384,
+        "pref_name": "千葉県"
+    },
+    "勝浦": {
+        "prec_no": 45,
+        "block_no": 47674,
+        "pref_name": "千葉県"
+    },
+    "館山": {
+        "prec_no": 45,
+        "block_no": 47672,
+        "pref_name": "千葉県"
+    },
+    "佐倉": {
+        "prec_no": 45,
+        "block_no": 916,
+        "pref_name": "千葉県"
+    },
+    "横芝光": {
+        "prec_no": 45,
+        "block_no": 1003,
+        "pref_name": "千葉県"
+    },
+    "大多喜": {
+        "prec_no": 45,
+        "block_no": 1004,
+        "pref_name": "千葉県"
+    },
+    "船橋": {
+        "prec_no": 45,
+        "block_no": 1236,
+        "pref_name": "千葉県"
+    },
+    "牛久": {
+        "prec_no": 45,
+        "block_no": 1238,
+        "pref_name": "千葉県"
+    },
+    "坂畑": {
+        "prec_no": 45,
+        "block_no": 1241,
+        "pref_name": "千葉県"
+    },
+    "千葉県全地点": {
+        "prec_no": 45,
+        "block_no": 0,
+        "pref_name": "千葉県"
+    },
+    "本山": {
+        "prec_no": 74,
+        "block_no": 746,
+        "pref_name": "高知県"
+    },
+    "繁藤": {
+        "prec_no": 74,
+        "block_no": 747,
+        "pref_name": "高知県"
+    },
+    "佐川": {
+        "prec_no": 74,
+        "block_no": 748,
+        "pref_name": "高知県"
+    },
+    "成山": {
+        "prec_no": 74,
+        "block_no": 749,
+        "pref_name": "高知県"
+    },
+    "高知": {
+        "prec_no": 74,
+        "block_no": 47893,
+        "pref_name": "高知県"
+    },
+    "南国": {
+        "prec_no": 74,
+        "block_no": 751,
+        "pref_name": "高知県"
+    },
+    "芸西": {
+        "prec_no": 74,
+        "block_no": 752,
+        "pref_name": "高知県"
+    },
+    "鳥形山": {
+        "prec_no": 74,
+        "block_no": 753,
+        "pref_name": "高知県"
+    },
+    "船戸": {
+        "prec_no": 74,
+        "block_no": 754,
+        "pref_name": "高知県"
+    },
+    "安芸": {
+        "prec_no": 74,
+        "block_no": 755,
+        "pref_name": "高知県"
+    },
+    "須崎": {
+        "prec_no": 74,
+        "block_no": 756,
+        "pref_name": "高知県"
+    },
+    "佐喜浜": {
+        "prec_no": 74,
+        "block_no": 757,
+        "pref_name": "高知県"
+    },
+    "窪川": {
+        "prec_no": 74,
+        "block_no": 758,
+        "pref_name": "高知県"
+    },
+    "室戸岬": {
+        "prec_no": 74,
+        "block_no": 47899,
+        "pref_name": "高知県"
+    },
+    "堂ケ森": {
+        "prec_no": 74,
+        "block_no": 760,
+        "pref_name": "高知県"
+    },
+    "大正": {
+        "prec_no": 74,
+        "block_no": 761,
+        "pref_name": "高知県"
+    },
+    "宿毛": {
+        "prec_no": 74,
+        "block_no": 47897,
+        "pref_name": "高知県"
+    },
+    "中村": {
+        "prec_no": 74,
+        "block_no": 763,
+        "pref_name": "高知県"
+    },
+    "清水": {
+        "prec_no": 50,
+        "block_no": 1243,
+        "pref_name": "静岡県"
+    },
+    "梼原": {
+        "prec_no": 74,
+        "block_no": 921,
+        "pref_name": "高知県"
+    },
+    "池川": {
+        "prec_no": 74,
+        "block_no": 1179,
+        "pref_name": "高知県"
+    },
+    "大栃": {
+        "prec_no": 74,
+        "block_no": 1229,
+        "pref_name": "高知県"
+    },
+    "江川崎": {
+        "prec_no": 74,
+        "block_no": 1235,
+        "pref_name": "高知県"
+    },
+    "後免": {
+        "prec_no": 74,
+        "block_no": 1249,
+        "pref_name": "高知県"
+    },
+    "魚梁瀬": {
+        "prec_no": 74,
+        "block_no": 1281,
+        "pref_name": "高知県"
+    },
+    "本川": {
+        "prec_no": 74,
+        "block_no": 1351,
+        "pref_name": "高知県"
+    },
+    "南国日章": {
+        "prec_no": 74,
+        "block_no": 1476,
+        "pref_name": "高知県"
+    },
+    "三崎": {
+        "prec_no": 73,
+        "block_no": 960,
+        "pref_name": "愛媛県"
+    },
+    "高知県全地点": {
+        "prec_no": 74,
+        "block_no": 0,
+        "pref_name": "高知県"
+    },
+    "長万部": {
+        "prec_no": 23,
+        "block_no": 143,
+        "pref_name": "渡島地方"
+    },
+    "八雲": {
+        "prec_no": 23,
+        "block_no": 144,
+        "pref_name": "渡島地方"
+    },
+    "森": {
+        "prec_no": 23,
+        "block_no": 145,
+        "pref_name": "渡島地方"
+    },
+    "大沼": {
+        "prec_no": 23,
+        "block_no": 146,
+        "pref_name": "渡島地方"
+    },
+    "川汲": {
+        "prec_no": 23,
+        "block_no": 147,
+        "pref_name": "渡島地方"
+    },
+    "北斗": {
+        "prec_no": 23,
+        "block_no": 148,
+        "pref_name": "渡島地方"
+    },
+    "函館": {
+        "prec_no": 23,
+        "block_no": 47430,
+        "pref_name": "渡島地方"
+    },
+    "汐首": {
+        "prec_no": 23,
+        "block_no": 150,
+        "pref_name": "渡島地方"
+    },
+    "小谷石": {
+        "prec_no": 23,
+        "block_no": 151,
+        "pref_name": "渡島地方"
+    },
+    "松前": {
+        "prec_no": 23,
+        "block_no": 152,
+        "pref_name": "渡島地方"
+    },
+    "木古内": {
+        "prec_no": 23,
+        "block_no": 917,
+        "pref_name": "渡島地方"
+    },
+    "千軒": {
+        "prec_no": 23,
+        "block_no": 1265,
+        "pref_name": "渡島地方"
+    },
+    "蛾眉野": {
+        "prec_no": 23,
+        "block_no": 1416,
+        "pref_name": "渡島地方"
+    },
+    "戸井泊": {
+        "prec_no": 23,
+        "block_no": 1543,
+        "pref_name": "渡島地方"
+    },
+    "知内": {
+        "prec_no": 23,
+        "block_no": 1552,
+        "pref_name": "渡島地方"
+    },
+    "熊石": {
+        "prec_no": 23,
+        "block_no": 155,
+        "pref_name": "渡島地方"
+    },
+    "渡島地方全地点": {
+        "prec_no": 23,
+        "block_no": 0,
+        "pref_name": "渡島地方"
+    },
+    "能勢": {
+        "prec_no": 62,
+        "block_no": 600,
+        "pref_name": "大阪府"
+    },
+    "箕面": {
+        "prec_no": 62,
+        "block_no": 601,
+        "pref_name": "大阪府"
+    },
+    "豊中": {
+        "prec_no": 62,
+        "block_no": 602,
+        "pref_name": "大阪府"
+    },
+    "大阪": {
+        "prec_no": 62,
+        "block_no": 47772,
+        "pref_name": "大阪府"
+    },
+    "生駒山": {
+        "prec_no": 62,
+        "block_no": 604,
+        "pref_name": "大阪府"
+    },
+    "河内長野": {
+        "prec_no": 62,
+        "block_no": 605,
+        "pref_name": "大阪府"
+    },
+    "熊取": {
+        "prec_no": 62,
+        "block_no": 606,
+        "pref_name": "大阪府"
+    },
+    "堺": {
+        "prec_no": 62,
+        "block_no": 1062,
+        "pref_name": "大阪府"
+    },
+    "枚方": {
+        "prec_no": 62,
+        "block_no": 1065,
+        "pref_name": "大阪府"
+    },
+    "関空島": {
+        "prec_no": 62,
+        "block_no": 1471,
+        "pref_name": "大阪府"
+    },
+    "大阪府全地点": {
+        "prec_no": 62,
+        "block_no": 0,
+        "pref_name": "大阪府"
+    },
+    "茨木": {
+        "prec_no": 62,
+        "block_no": 1602,
+        "pref_name": "大阪府"
+    },
+    "八幡": {
+        "prec_no": 67,
+        "block_no": 1262,
+        "pref_name": "広島県"
+    },
+    "小倉": {
+        "prec_no": 82,
+        "block_no": 781,
+        "pref_name": "福岡県"
+    },
+    "行橋": {
+        "prec_no": 82,
+        "block_no": 782,
+        "pref_name": "福岡県"
+    },
+    "篠栗": {
+        "prec_no": 82,
+        "block_no": 783,
+        "pref_name": "福岡県"
+    },
+    "飯塚": {
+        "prec_no": 82,
+        "block_no": 47809,
+        "pref_name": "福岡県"
+    },
+    "前原": {
+        "prec_no": 82,
+        "block_no": 785,
+        "pref_name": "福岡県"
+    },
+    "福岡": {
+        "prec_no": 82,
+        "block_no": 47807,
+        "pref_name": "福岡県"
+    },
+    "九千部山": {
+        "prec_no": 82,
+        "block_no": 787,
+        "pref_name": "福岡県"
+    },
+    "朝倉": {
+        "prec_no": 82,
+        "block_no": 788,
+        "pref_name": "福岡県"
+    },
+    "英彦山": {
+        "prec_no": 82,
+        "block_no": 789,
+        "pref_name": "福岡県"
+    },
+    "久留米": {
+        "prec_no": 82,
+        "block_no": 790,
+        "pref_name": "福岡県"
+    },
+    "耳納山": {
+        "prec_no": 82,
+        "block_no": 791,
+        "pref_name": "福岡県"
+    },
+    "黒木": {
+        "prec_no": 82,
+        "block_no": 792,
+        "pref_name": "福岡県"
+    },
+    "大牟田": {
+        "prec_no": 82,
+        "block_no": 793,
+        "pref_name": "福岡県"
+    },
+    "宗像": {
+        "prec_no": 82,
+        "block_no": 943,
+        "pref_name": "福岡県"
+    },
+    "頂吉": {
+        "prec_no": 82,
+        "block_no": 944,
+        "pref_name": "福岡県"
+    },
+    "柳川": {
+        "prec_no": 82,
+        "block_no": 945,
+        "pref_name": "福岡県"
+    },
+    "添田": {
+        "prec_no": 82,
+        "block_no": 1046,
+        "pref_name": "福岡県"
+    },
+    "太宰府": {
+        "prec_no": 82,
+        "block_no": 1141,
+        "pref_name": "福岡県"
+    },
+    "博多": {
+        "prec_no": 82,
+        "block_no": 1477,
+        "pref_name": "福岡県"
+    },
+    "曽根": {
+        "prec_no": 82,
+        "block_no": 1527,
+        "pref_name": "福岡県"
+    },
+    "空港北町": {
+        "prec_no": 82,
+        "block_no": 1590,
+        "pref_name": "福岡県"
+    },
+    "福岡県全地点": {
+        "prec_no": 82,
+        "block_no": 0,
+        "pref_name": "福岡県"
+    },
+    "早良脇山": {
+        "prec_no": 82,
+        "block_no": 1611,
+        "pref_name": "福岡県"
+    },
+    "東谷": {
+        "prec_no": 82,
+        "block_no": 1637,
+        "pref_name": "福岡県"
+    },
+    "小呂島": {
+        "prec_no": 82,
+        "block_no": 1657,
+        "pref_name": "福岡県"
+    },
+    "奈良": {
+        "prec_no": 64,
+        "block_no": 47780,
+        "pref_name": "奈良県"
+    },
+    "針": {
+        "prec_no": 64,
+        "block_no": 630,
+        "pref_name": "奈良県"
+    },
+    "田原本": {
+        "prec_no": 64,
+        "block_no": 631,
+        "pref_name": "奈良県"
+    },
+    "曽爾": {
+        "prec_no": 64,
+        "block_no": 632,
+        "pref_name": "奈良県"
+    },
+    "大宇陀": {
+        "prec_no": 64,
+        "block_no": 633,
+        "pref_name": "奈良県"
+    },
+    "高見山": {
+        "prec_no": 64,
+        "block_no": 634,
+        "pref_name": "奈良県"
+    },
+    "五條": {
+        "prec_no": 64,
+        "block_no": 635,
+        "pref_name": "奈良県"
+    },
+    "天辻": {
+        "prec_no": 64,
+        "block_no": 636,
+        "pref_name": "奈良県"
+    },
+    "山上ケ岳": {
+        "prec_no": 64,
+        "block_no": 637,
+        "pref_name": "奈良県"
+    },
+    "荒神岳": {
+        "prec_no": 64,
+        "block_no": 638,
+        "pref_name": "奈良県"
+    },
+    "日出岳": {
+        "prec_no": 64,
+        "block_no": 639,
+        "pref_name": "奈良県"
+    },
+    "上野地": {
+        "prec_no": 64,
+        "block_no": 640,
+        "pref_name": "奈良県"
+    },
+    "玉置山": {
+        "prec_no": 64,
+        "block_no": 641,
+        "pref_name": "奈良県"
+    },
+    "上北山": {
+        "prec_no": 64,
+        "block_no": 957,
+        "pref_name": "奈良県"
+    },
+    "風屋": {
+        "prec_no": 64,
+        "block_no": 1228,
+        "pref_name": "奈良県"
+    },
+    "高見": {
+        "prec_no": 64,
+        "block_no": 1366,
+        "pref_name": "奈良県"
+    },
+    "葛城": {
+        "prec_no": 64,
+        "block_no": 1376,
+        "pref_name": "奈良県"
+    },
+    "壷坂": {
+        "prec_no": 64,
+        "block_no": 1377,
+        "pref_name": "奈良県"
+    },
+    "吉野": {
+        "prec_no": 64,
+        "block_no": 1439,
+        "pref_name": "奈良県"
+    },
+    "奈良県全地点": {
+        "prec_no": 64,
+        "block_no": 0,
+        "pref_name": "奈良県"
+    },
+    "天川": {
+        "prec_no": 64,
+        "block_no": 1619,
+        "pref_name": "奈良県"
+    },
+    "下北山": {
+        "prec_no": 64,
+        "block_no": 1649,
+        "pref_name": "奈良県"
+    },
+    "葛川": {
+        "prec_no": 64,
+        "block_no": 1669,
+        "pref_name": "奈良県"
+    },
+    "境": {
+        "prec_no": 69,
+        "block_no": 47742,
+        "pref_name": "鳥取県"
+    },
+    "鳥取": {
+        "prec_no": 69,
+        "block_no": 47746,
+        "pref_name": "鳥取県"
+    },
+    "米子": {
+        "prec_no": 69,
+        "block_no": 47744,
+        "pref_name": "鳥取県"
+    },
+    "鳥取県全地点": {
+        "prec_no": 69,
+        "block_no": 0,
+        "pref_name": "鳥取県"
+    },
+    "青谷": {
+        "prec_no": 69,
+        "block_no": 709,
+        "pref_name": "鳥取県"
+    },
+    "岩井": {
+        "prec_no": 69,
+        "block_no": 711,
+        "pref_name": "鳥取県"
+    },
+    "倉吉": {
+        "prec_no": 69,
+        "block_no": 713,
+        "pref_name": "鳥取県"
+    },
+    "菅俵原": {
+        "prec_no": 69,
+        "block_no": 714,
+        "pref_name": "鳥取県"
+    },
+    "霊石山": {
+        "prec_no": 69,
+        "block_no": 715,
+        "pref_name": "鳥取県"
+    },
+    "古峠山": {
+        "prec_no": 69,
+        "block_no": 717,
+        "pref_name": "鳥取県"
+    },
+    "智頭": {
+        "prec_no": 69,
+        "block_no": 718,
+        "pref_name": "鳥取県"
+    },
+    "日南": {
+        "prec_no": 69,
+        "block_no": 938,
+        "pref_name": "鳥取県"
+    },
+    "関金": {
+        "prec_no": 69,
+        "block_no": 1177,
+        "pref_name": "鳥取県"
+    },
+    "若桜": {
+        "prec_no": 69,
+        "block_no": 1178,
+        "pref_name": "鳥取県"
+    },
+    "塩津": {
+        "prec_no": 69,
+        "block_no": 1231,
+        "pref_name": "鳥取県"
+    },
+    "茶屋": {
+        "prec_no": 69,
+        "block_no": 1304,
+        "pref_name": "鳥取県"
+    },
+    "佐治": {
+        "prec_no": 69,
+        "block_no": 1385,
+        "pref_name": "鳥取県"
+    },
+    "江尾": {
+        "prec_no": 69,
+        "block_no": 1389,
+        "pref_name": "鳥取県"
+    },
+    "湖山": {
+        "prec_no": 69,
+        "block_no": 1519,
+        "pref_name": "鳥取県"
+    },
+    "美深": {
+        "prec_no": 12,
+        "block_no": 6,
+        "pref_name": "上川地方"
+    },
+    "ピヤシリ山": {
+        "prec_no": 12,
+        "block_no": 7,
+        "pref_name": "上川地方"
+    },
+    "名寄": {
+        "prec_no": 12,
+        "block_no": 8,
+        "pref_name": "上川地方"
+    },
+    "西風連": {
+        "prec_no": 12,
+        "block_no": 9,
+        "pref_name": "上川地方"
+    },
+    "下川": {
+        "prec_no": 12,
+        "block_no": 10,
+        "pref_name": "上川地方"
+    },
+    "士別": {
+        "prec_no": 12,
+        "block_no": 11,
+        "pref_name": "上川地方"
+    },
+    "犬牛別峠": {
+        "prec_no": 12,
+        "block_no": 12,
+        "pref_name": "上川地方"
+    },
+    "雄鷹峰": {
+        "prec_no": 12,
+        "block_no": 13,
+        "pref_name": "上川地方"
+    },
+    "蓬莱山": {
+        "prec_no": 12,
+        "block_no": 14,
+        "pref_name": "上川地方"
+    },
+    "上川": {
+        "prec_no": 12,
+        "block_no": 15,
+        "pref_name": "上川地方"
+    },
+    "旭川": {
+        "prec_no": 12,
+        "block_no": 47407,
+        "pref_name": "上川地方"
+    },
+    "終沢": {
+        "prec_no": 12,
+        "block_no": 18,
+        "pref_name": "上川地方"
+    },
+    "旭岳": {
+        "prec_no": 12,
+        "block_no": 19,
+        "pref_name": "上川地方"
+    },
+    "白金": {
+        "prec_no": 12,
+        "block_no": 20,
+        "pref_name": "上川地方"
+    },
+    "富良野": {
+        "prec_no": 12,
+        "block_no": 21,
+        "pref_name": "上川地方"
+    },
+    "前富良野岳": {
+        "prec_no": 12,
+        "block_no": 22,
+        "pref_name": "上川地方"
+    },
+    "前時雨山": {
+        "prec_no": 12,
+        "block_no": 23,
+        "pref_name": "上川地方"
+    },
+    "比布": {
+        "prec_no": 12,
+        "block_no": 1048,
+        "pref_name": "上川地方"
+    },
+    "層雲峡": {
+        "prec_no": 12,
+        "block_no": 1049,
+        "pref_name": "上川地方"
+    },
+    "美瑛": {
+        "prec_no": 12,
+        "block_no": 1052,
+        "pref_name": "上川地方"
+    },
+    "和寒": {
+        "prec_no": 12,
+        "block_no": 1055,
+        "pref_name": "上川地方"
+    },
+    "東川": {
+        "prec_no": 12,
+        "block_no": 1184,
+        "pref_name": "上川地方"
+    },
+    "志比内": {
+        "prec_no": 12,
+        "block_no": 1185,
+        "pref_name": "上川地方"
+    },
+    "幾寅": {
+        "prec_no": 12,
+        "block_no": 1188,
+        "pref_name": "上川地方"
+    },
+    "占冠": {
+        "prec_no": 12,
+        "block_no": 1189,
+        "pref_name": "上川地方"
+    },
+    "上富良野": {
+        "prec_no": 12,
+        "block_no": 1190,
+        "pref_name": "上川地方"
+    },
+    "江丹別": {
+        "prec_no": 12,
+        "block_no": 1191,
+        "pref_name": "上川地方"
+    },
+    "音威子府": {
+        "prec_no": 12,
+        "block_no": 1197,
+        "pref_name": "上川地方"
+    },
+    "中川": {
+        "prec_no": 12,
+        "block_no": 1201,
+        "pref_name": "上川地方"
+    },
+    "麓郷": {
+        "prec_no": 12,
+        "block_no": 1280,
+        "pref_name": "上川地方"
+    },
+    "東神楽": {
+        "prec_no": 12,
+        "block_no": 1458,
+        "pref_name": "上川地方"
+    },
+    "小車": {
+        "prec_no": 12,
+        "block_no": 1570,
+        "pref_name": "上川地方"
+    },
+    "剣淵": {
+        "prec_no": 12,
+        "block_no": 1572,
+        "pref_name": "上川地方"
+    },
+    "金山": {
+        "prec_no": 35,
+        "block_no": 262,
+        "pref_name": "山形県"
+    },
+    "上川地方全地点": {
+        "prec_no": 12,
+        "block_no": 0,
+        "pref_name": "上川地方"
+    },
+    "幌加内": {
+        "prec_no": 12,
+        "block_no": 1053,
+        "pref_name": "上川地方"
+    },
+    "朱鞠内": {
+        "prec_no": 12,
+        "block_no": 1279,
+        "pref_name": "上川地方"
+    },
+    "種市": {
+        "prec_no": 33,
+        "block_no": 205,
+        "pref_name": "岩手県"
+    },
+    "軽米": {
+        "prec_no": 33,
+        "block_no": 206,
+        "pref_name": "岩手県"
+    },
+    "二戸": {
+        "prec_no": 33,
+        "block_no": 207,
+        "pref_name": "岩手県"
+    },
+    "折爪岳": {
+        "prec_no": 33,
+        "block_no": 208,
+        "pref_name": "岩手県"
+    },
+    "久慈": {
+        "prec_no": 33,
+        "block_no": 209,
+        "pref_name": "岩手県"
+    },
+    "西岳": {
+        "prec_no": 33,
+        "block_no": 210,
+        "pref_name": "岩手県"
+    },
+    "葛巻": {
+        "prec_no": 33,
+        "block_no": 211,
+        "pref_name": "岩手県"
+    },
+    "袖山": {
+        "prec_no": 33,
+        "block_no": 212,
+        "pref_name": "岩手県"
+    },
+    "茶臼岳": {
+        "prec_no": 33,
+        "block_no": 213,
+        "pref_name": "岩手県"
+    },
+    "岩手松尾": {
+        "prec_no": 33,
+        "block_no": 214,
+        "pref_name": "岩手県"
+    },
+    "岩手山": {
+        "prec_no": 33,
+        "block_no": 215,
+        "pref_name": "岩手県"
+    },
+    "岩洞": {
+        "prec_no": 33,
+        "block_no": 216,
+        "pref_name": "岩手県"
+    },
+    "大森山": {
+        "prec_no": 33,
+        "block_no": 217,
+        "pref_name": "岩手県"
+    },
+    "岩泉": {
+        "prec_no": 33,
+        "block_no": 218,
+        "pref_name": "岩手県"
+    },
+    "駒ケ岳": {
+        "prec_no": 33,
+        "block_no": 219,
+        "pref_name": "岩手県"
+    },
+    "害鷹森": {
+        "prec_no": 33,
+        "block_no": 220,
+        "pref_name": "岩手県"
+    },
+    "雫石": {
+        "prec_no": 33,
+        "block_no": 221,
+        "pref_name": "岩手県"
+    },
+    "盛岡": {
+        "prec_no": 33,
+        "block_no": 47584,
+        "pref_name": "岩手県"
+    },
+    "宮古": {
+        "prec_no": 33,
+        "block_no": 47585,
+        "pref_name": "岩手県"
+    },
+    "薬師岳": {
+        "prec_no": 33,
+        "block_no": 224,
+        "pref_name": "岩手県"
+    },
+    "黒森山": {
+        "prec_no": 33,
+        "block_no": 225,
+        "pref_name": "岩手県"
+    },
+    "豊沢": {
+        "prec_no": 33,
+        "block_no": 226,
+        "pref_name": "岩手県"
+    },
+    "花巻": {
+        "prec_no": 33,
+        "block_no": 227,
+        "pref_name": "岩手県"
+    },
+    "大迫": {
+        "prec_no": 33,
+        "block_no": 228,
+        "pref_name": "岩手県"
+    },
+    "湯田": {
+        "prec_no": 33,
+        "block_no": 229,
+        "pref_name": "岩手県"
+    },
+    "北上": {
+        "prec_no": 33,
+        "block_no": 230,
+        "pref_name": "岩手県"
+    },
+    "遠野": {
+        "prec_no": 33,
+        "block_no": 231,
+        "pref_name": "岩手県"
+    },
+    "五葉山": {
+        "prec_no": 33,
+        "block_no": 232,
+        "pref_name": "岩手県"
+    },
+    "釜石": {
+        "prec_no": 33,
+        "block_no": 233,
+        "pref_name": "岩手県"
+    },
+    "岳山": {
+        "prec_no": 33,
+        "block_no": 234,
+        "pref_name": "岩手県"
+    },
+    "若柳": {
+        "prec_no": 33,
+        "block_no": 235,
+        "pref_name": "岩手県"
+    },
+    "江刺": {
+        "prec_no": 33,
+        "block_no": 236,
+        "pref_name": "岩手県"
+    },
+    "大船渡": {
+        "prec_no": 33,
+        "block_no": 47512,
+        "pref_name": "岩手県"
+    },
+    "一関": {
+        "prec_no": 33,
+        "block_no": 238,
+        "pref_name": "岩手県"
+    },
+    "千厩": {
+        "prec_no": 33,
+        "block_no": 239,
+        "pref_name": "岩手県"
+    },
+    "室根山": {
+        "prec_no": 33,
+        "block_no": 240,
+        "pref_name": "岩手県"
+    },
+    "祭畤": {
+        "prec_no": 33,
+        "block_no": 1028,
+        "pref_name": "岩手県"
+    },
+    "好摩": {
+        "prec_no": 33,
+        "block_no": 1032,
+        "pref_name": "岩手県"
+    },
+    "大野": {
+        "prec_no": 57,
+        "block_no": 573,
+        "pref_name": "福井県"
+    },
+    "衣川": {
+        "prec_no": 33,
+        "block_no": 1045,
+        "pref_name": "岩手県"
+    },
+    "薮川": {
+        "prec_no": 33,
+        "block_no": 1078,
+        "pref_name": "岩手県"
+    },
+    "米里": {
+        "prec_no": 33,
+        "block_no": 1113,
+        "pref_name": "岩手県"
+    },
+    "沢内": {
+        "prec_no": 33,
+        "block_no": 1118,
+        "pref_name": "岩手県"
+    },
+    "荒屋": {
+        "prec_no": 33,
+        "block_no": 1120,
+        "pref_name": "岩手県"
+    },
+    "普代": {
+        "prec_no": 33,
+        "block_no": 1123,
+        "pref_name": "岩手県"
+    },
+    "紫波": {
+        "prec_no": 33,
+        "block_no": 1128,
+        "pref_name": "岩手県"
+    },
+    "葛根田": {
+        "prec_no": 33,
+        "block_no": 1168,
+        "pref_name": "岩手県"
+    },
+    "住田": {
+        "prec_no": 33,
+        "block_no": 1206,
+        "pref_name": "岩手県"
+    },
+    "小本": {
+        "prec_no": 33,
+        "block_no": 1212,
+        "pref_name": "岩手県"
+    },
+    "奥中山": {
+        "prec_no": 33,
+        "block_no": 1215,
+        "pref_name": "岩手県"
+    },
+    "山形": {
+        "prec_no": 35,
+        "block_no": 47588,
+        "pref_name": "山形県"
+    },
+    "川井": {
+        "prec_no": 33,
+        "block_no": 1224,
+        "pref_name": "岩手県"
+    },
+    "門馬": {
+        "prec_no": 33,
+        "block_no": 1225,
+        "pref_name": "岩手県"
+    },
+    "下戸鎖": {
+        "prec_no": 33,
+        "block_no": 1332,
+        "pref_name": "岩手県"
+    },
+    "区界": {
+        "prec_no": 33,
+        "block_no": 1447,
+        "pref_name": "岩手県"
+    },
+    "大槌": {
+        "prec_no": 33,
+        "block_no": 1508,
+        "pref_name": "岩手県"
+    },
+    "金ケ崎": {
+        "prec_no": 33,
+        "block_no": 1558,
+        "pref_name": "岩手県"
+    },
+    "滝沢": {
+        "prec_no": 33,
+        "block_no": 1560,
+        "pref_name": "岩手県"
+    },
+    "附馬牛": {
+        "prec_no": 33,
+        "block_no": 1563,
+        "pref_name": "岩手県"
+    },
+    "岩手県全地点": {
+        "prec_no": 33,
+        "block_no": 0,
+        "pref_name": "岩手県"
+    },
+    "厳美": {
+        "prec_no": 33,
+        "block_no": 1598,
+        "pref_name": "岩手県"
+    },
+    "刈屋": {
+        "prec_no": 33,
+        "block_no": 1627,
+        "pref_name": "岩手県"
+    },
+    "新町": {
+        "prec_no": 33,
+        "block_no": 1628,
+        "pref_name": "岩手県"
+    },
+    "陸前高田": {
+        "prec_no": 33,
+        "block_no": 1629,
+        "pref_name": "岩手県"
+    },
+    "一方井": {
+        "prec_no": 33,
+        "block_no": 1653,
+        "pref_name": "岩手県"
+    },
+    "軍艦山": {
+        "prec_no": 20,
+        "block_no": 100,
+        "pref_name": "十勝地方"
+    },
+    "陸別": {
+        "prec_no": 20,
+        "block_no": 101,
+        "pref_name": "十勝地方"
+    },
+    "殖産高地": {
+        "prec_no": 20,
+        "block_no": 102,
+        "pref_name": "十勝地方"
+    },
+    "ぬかびら源泉郷": {
+        "prec_no": 20,
+        "block_no": 103,
+        "pref_name": "十勝地方"
+    },
+    "小坂山": {
+        "prec_no": 20,
+        "block_no": 104,
+        "pref_name": "十勝地方"
+    },
+    "上足寄": {
+        "prec_no": 20,
+        "block_no": 105,
+        "pref_name": "十勝地方"
+    },
+    "西ヌプカウシ山": {
+        "prec_no": 20,
+        "block_no": 106,
+        "pref_name": "十勝地方"
+    },
+    "上士幌": {
+        "prec_no": 20,
+        "block_no": 107,
+        "pref_name": "十勝地方"
+    },
+    "幌安山": {
+        "prec_no": 20,
+        "block_no": 108,
+        "pref_name": "十勝地方"
+    },
+    "足寄": {
+        "prec_no": 20,
+        "block_no": 109,
+        "pref_name": "十勝地方"
+    },
+    "佐幌岳": {
+        "prec_no": 20,
+        "block_no": 110,
+        "pref_name": "十勝地方"
+    },
+    "三角山": {
+        "prec_no": 20,
+        "block_no": 111,
+        "pref_name": "十勝地方"
+    },
+    "本別": {
+        "prec_no": 20,
+        "block_no": 112,
+        "pref_name": "十勝地方"
+    },
+    "新得": {
+        "prec_no": 20,
+        "block_no": 113,
+        "pref_name": "十勝地方"
+    },
+    "鹿追": {
+        "prec_no": 20,
+        "block_no": 114,
+        "pref_name": "十勝地方"
+    },
+    "芽室": {
+        "prec_no": 20,
+        "block_no": 115,
+        "pref_name": "十勝地方"
+    },
+    "帯広": {
+        "prec_no": 20,
+        "block_no": 47417,
+        "pref_name": "十勝地方"
+    },
+    "池田": {
+        "prec_no": 71,
+        "block_no": 720,
+        "pref_name": "徳島県"
+    },
+    "浦幌": {
+        "prec_no": 20,
+        "block_no": 118,
+        "pref_name": "十勝地方"
+    },
+    "帯広岳": {
+        "prec_no": 20,
+        "block_no": 119,
+        "pref_name": "十勝地方"
+    },
+    "ひょうたん沢": {
+        "prec_no": 20,
+        "block_no": 120,
+        "pref_name": "十勝地方"
+    },
+    "大樹": {
+        "prec_no": 20,
+        "block_no": 121,
+        "pref_name": "十勝地方"
+    },
+    "広尾": {
+        "prec_no": 20,
+        "block_no": 47440,
+        "pref_name": "十勝地方"
+    },
+    "三国山": {
+        "prec_no": 20,
+        "block_no": 1099,
+        "pref_name": "十勝地方"
+    },
+    "駒場": {
+        "prec_no": 20,
+        "block_no": 1204,
+        "pref_name": "十勝地方"
+    },
+    "上札内": {
+        "prec_no": 20,
+        "block_no": 1210,
+        "pref_name": "十勝地方"
+    },
+    "更別": {
+        "prec_no": 20,
+        "block_no": 1211,
+        "pref_name": "十勝地方"
+    },
+    "大津": {
+        "prec_no": 60,
+        "block_no": 586,
+        "pref_name": "滋賀県"
+    },
+    "糠内": {
+        "prec_no": 20,
+        "block_no": 1286,
+        "pref_name": "十勝地方"
+    },
+    "小利別": {
+        "prec_no": 20,
+        "block_no": 1404,
+        "pref_name": "十勝地方"
+    },
+    "押帯": {
+        "prec_no": 20,
+        "block_no": 1405,
+        "pref_name": "十勝地方"
+    },
+    "柏倉": {
+        "prec_no": 20,
+        "block_no": 1409,
+        "pref_name": "十勝地方"
+    },
+    "上螺湾": {
+        "prec_no": 20,
+        "block_no": 1410,
+        "pref_name": "十勝地方"
+    },
+    "留真": {
+        "prec_no": 20,
+        "block_no": 1418,
+        "pref_name": "十勝地方"
+    },
+    "帯広泉": {
+        "prec_no": 20,
+        "block_no": 1510,
+        "pref_name": "十勝地方"
+    },
+    "三股": {
+        "prec_no": 20,
+        "block_no": 1571,
+        "pref_name": "十勝地方"
+    },
+    "十勝地方全地点": {
+        "prec_no": 20,
+        "block_no": 0,
+        "pref_name": "十勝地方"
+    },
+    "香住": {
+        "prec_no": 63,
+        "block_no": 607,
+        "pref_name": "兵庫県"
+    },
+    "温泉": {
+        "prec_no": 63,
+        "block_no": 608,
+        "pref_name": "兵庫県"
+    },
+    "三川山": {
+        "prec_no": 63,
+        "block_no": 609,
+        "pref_name": "兵庫県"
+    },
+    "豊岡": {
+        "prec_no": 63,
+        "block_no": 47747,
+        "pref_name": "兵庫県"
+    },
+    "八鹿": {
+        "prec_no": 63,
+        "block_no": 611,
+        "pref_name": "兵庫県"
+    },
+    "和田山": {
+        "prec_no": 63,
+        "block_no": 612,
+        "pref_name": "兵庫県"
+    },
+    "生野": {
+        "prec_no": 63,
+        "block_no": 613,
+        "pref_name": "兵庫県"
+    },
+    "柏原": {
+        "prec_no": 63,
+        "block_no": 614,
+        "pref_name": "兵庫県"
+    },
+    "笠形山": {
+        "prec_no": 63,
+        "block_no": 616,
+        "pref_name": "兵庫県"
+    },
+    "佐用": {
+        "prec_no": 63,
+        "block_no": 617,
+        "pref_name": "兵庫県"
+    },
+    "後川": {
+        "prec_no": 63,
+        "block_no": 618,
+        "pref_name": "兵庫県"
+    },
+    "上郡": {
+        "prec_no": 63,
+        "block_no": 619,
+        "pref_name": "兵庫県"
+    },
+    "的場山": {
+        "prec_no": 63,
+        "block_no": 620,
+        "pref_name": "兵庫県"
+    },
+    "姫路": {
+        "prec_no": 63,
+        "block_no": 47769,
+        "pref_name": "兵庫県"
+    },
+    "名塩": {
+        "prec_no": 63,
+        "block_no": 622,
+        "pref_name": "兵庫県"
+    },
+    "六甲山": {
+        "prec_no": 63,
+        "block_no": 623,
+        "pref_name": "兵庫県"
+    },
+    "家島": {
+        "prec_no": 63,
+        "block_no": 624,
+        "pref_name": "兵庫県"
+    },
+    "明石": {
+        "prec_no": 63,
+        "block_no": 625,
+        "pref_name": "兵庫県"
+    },
+    "神戸": {
+        "prec_no": 63,
+        "block_no": 47770,
+        "pref_name": "兵庫県"
+    },
+    "洲本": {
+        "prec_no": 63,
+        "block_no": 47776,
+        "pref_name": "兵庫県"
+    },
+    "福良": {
+        "prec_no": 63,
+        "block_no": 628,
+        "pref_name": "兵庫県"
+    },
+    "西脇": {
+        "prec_no": 63,
+        "block_no": 956,
+        "pref_name": "兵庫県"
+    },
+    "大屋": {
+        "prec_no": 63,
+        "block_no": 967,
+        "pref_name": "兵庫県"
+    },
+    "福崎": {
+        "prec_no": 63,
+        "block_no": 968,
+        "pref_name": "兵庫県"
+    },
+    "三田": {
+        "prec_no": 63,
+        "block_no": 969,
+        "pref_name": "兵庫県"
+    },
+    "郡家": {
+        "prec_no": 63,
+        "block_no": 970,
+        "pref_name": "兵庫県"
+    },
+    "兎和野高原": {
+        "prec_no": 63,
+        "block_no": 977,
+        "pref_name": "兵庫県"
+    },
+    "三木": {
+        "prec_no": 63,
+        "block_no": 1227,
+        "pref_name": "兵庫県"
+    },
+    "南淡": {
+        "prec_no": 63,
+        "block_no": 1337,
+        "pref_name": "兵庫県"
+    },
+    "淡路町": {
+        "prec_no": 63,
+        "block_no": 1448,
+        "pref_name": "兵庫県"
+    },
+    "芦屋": {
+        "prec_no": 63,
+        "block_no": 1449,
+        "pref_name": "兵庫県"
+    },
+    "神戸塩屋": {
+        "prec_no": 63,
+        "block_no": 1450,
+        "pref_name": "兵庫県"
+    },
+    "神戸空港": {
+        "prec_no": 63,
+        "block_no": 1587,
+        "pref_name": "兵庫県"
+    },
+    "西宮": {
+        "prec_no": 63,
+        "block_no": 1588,
+        "pref_name": "兵庫県"
+    },
+    "兵庫県全地点": {
+        "prec_no": 63,
+        "block_no": 0,
+        "pref_name": "兵庫県"
+    },
+    "神岡": {
+        "prec_no": 52,
+        "block_no": 473,
+        "pref_name": "岐阜県"
+    },
+    "流葉山": {
+        "prec_no": 52,
+        "block_no": 474,
+        "pref_name": "岐阜県"
+    },
+    "森茂": {
+        "prec_no": 52,
+        "block_no": 475,
+        "pref_name": "岐阜県"
+    },
+    "高山": {
+        "prec_no": 52,
+        "block_no": 47617,
+        "pref_name": "岐阜県"
+    },
+    "乗鞍岳": {
+        "prec_no": 52,
+        "block_no": 477,
+        "pref_name": "岐阜県"
+    },
+    "大日岳": {
+        "prec_no": 52,
+        "block_no": 478,
+        "pref_name": "岐阜県"
+    },
+    "新渕山": {
+        "prec_no": 52,
+        "block_no": 479,
+        "pref_name": "岐阜県"
+    },
+    "船山": {
+        "prec_no": 52,
+        "block_no": 480,
+        "pref_name": "岐阜県"
+    },
+    "白尾山": {
+        "prec_no": 52,
+        "block_no": 481,
+        "pref_name": "岐阜県"
+    },
+    "白鳥": {
+        "prec_no": 52,
+        "block_no": 482,
+        "pref_name": "岐阜県"
+    },
+    "萩原": {
+        "prec_no": 52,
+        "block_no": 483,
+        "pref_name": "岐阜県"
+    },
+    "蕪山": {
+        "prec_no": 52,
+        "block_no": 484,
+        "pref_name": "岐阜県"
+    },
+    "樽見": {
+        "prec_no": 52,
+        "block_no": 486,
+        "pref_name": "岐阜県"
+    },
+    "三界山": {
+        "prec_no": 52,
+        "block_no": 488,
+        "pref_name": "岐阜県"
+    },
+    "伽藍": {
+        "prec_no": 52,
+        "block_no": 490,
+        "pref_name": "岐阜県"
+    },
+    "美濃加茂": {
+        "prec_no": 52,
+        "block_no": 491,
+        "pref_name": "岐阜県"
+    },
+    "柄石峠": {
+        "prec_no": 52,
+        "block_no": 492,
+        "pref_name": "岐阜県"
+    },
+    "恵那": {
+        "prec_no": 52,
+        "block_no": 493,
+        "pref_name": "岐阜県"
+    },
+    "中津川": {
+        "prec_no": 35,
+        "block_no": 1372,
+        "pref_name": "山形県"
+    },
+    "関ケ原": {
+        "prec_no": 52,
+        "block_no": 495,
+        "pref_name": "岐阜県"
+    },
+    "大垣": {
+        "prec_no": 52,
+        "block_no": 496,
+        "pref_name": "岐阜県"
+    },
+    "岐阜": {
+        "prec_no": 52,
+        "block_no": 47632,
+        "pref_name": "岐阜県"
+    },
+    "美濃": {
+        "prec_no": 52,
+        "block_no": 1057,
+        "pref_name": "岐阜県"
+    },
+    "多治見": {
+        "prec_no": 52,
+        "block_no": 1058,
+        "pref_name": "岐阜県"
+    },
+    "上石津": {
+        "prec_no": 52,
+        "block_no": 1059,
+        "pref_name": "岐阜県"
+    },
+    "栃尾": {
+        "prec_no": 54,
+        "block_no": 530,
+        "pref_name": "新潟県"
+    },
+    "宮地": {
+        "prec_no": 52,
+        "block_no": 1066,
+        "pref_name": "岐阜県"
+    },
+    "平井": {
+        "prec_no": 52,
+        "block_no": 1153,
+        "pref_name": "岐阜県"
+    },
+    "長滝": {
+        "prec_no": 52,
+        "block_no": 1299,
+        "pref_name": "岐阜県"
+    },
+    "揖斐川": {
+        "prec_no": 52,
+        "block_no": 1301,
+        "pref_name": "岐阜県"
+    },
+    "六厩": {
+        "prec_no": 52,
+        "block_no": 1305,
+        "pref_name": "岐阜県"
+    },
+    "白川": {
+        "prec_no": 52,
+        "block_no": 1306,
+        "pref_name": "岐阜県"
+    },
+    "河合": {
+        "prec_no": 52,
+        "block_no": 1308,
+        "pref_name": "岐阜県"
+    },
+    "宮之前": {
+        "prec_no": 52,
+        "block_no": 1311,
+        "pref_name": "岐阜県"
+    },
+    "黒川": {
+        "prec_no": 52,
+        "block_no": 1313,
+        "pref_name": "岐阜県"
+    },
+    "大日": {
+        "prec_no": 52,
+        "block_no": 1363,
+        "pref_name": "岐阜県"
+    },
+    "付知": {
+        "prec_no": 52,
+        "block_no": 1384,
+        "pref_name": "岐阜県"
+    },
+    "御母衣": {
+        "prec_no": 52,
+        "block_no": 1387,
+        "pref_name": "岐阜県"
+    },
+    "小津": {
+        "prec_no": 52,
+        "block_no": 1390,
+        "pref_name": "岐阜県"
+    },
+    "十二岳": {
+        "prec_no": 52,
+        "block_no": 1396,
+        "pref_name": "岐阜県"
+    },
+    "ひるがの": {
+        "prec_no": 52,
+        "block_no": 1436,
+        "pref_name": "岐阜県"
+    },
+    "清見": {
+        "prec_no": 52,
+        "block_no": 1437,
+        "pref_name": "岐阜県"
+    },
+    "丹生川": {
+        "prec_no": 52,
+        "block_no": 1438,
+        "pref_name": "岐阜県"
+    },
+    "関市板取": {
+        "prec_no": 52,
+        "block_no": 1577,
+        "pref_name": "岐阜県"
+    },
+    "岐阜県全地点": {
+        "prec_no": 52,
+        "block_no": 0,
+        "pref_name": "岐阜県"
+    },
+    "中津": {
+        "prec_no": 83,
+        "block_no": 794,
+        "pref_name": "大分県"
+    },
+    "豊後高田": {
+        "prec_no": 83,
+        "block_no": 795,
+        "pref_name": "大分県"
+    },
+    "武蔵": {
+        "prec_no": 83,
+        "block_no": 796,
+        "pref_name": "大分県"
+    },
+    "日田": {
+        "prec_no": 83,
+        "block_no": 47814,
+        "pref_name": "大分県"
+    },
+    "湯布院": {
+        "prec_no": 83,
+        "block_no": 799,
+        "pref_name": "大分県"
+    },
+    "大分": {
+        "prec_no": 83,
+        "block_no": 47815,
+        "pref_name": "大分県"
+    },
+    "佐賀関": {
+        "prec_no": 83,
+        "block_no": 801,
+        "pref_name": "大分県"
+    },
+    "釈迦岳": {
+        "prec_no": 83,
+        "block_no": 802,
+        "pref_name": "大分県"
+    },
+    "湯平": {
+        "prec_no": 83,
+        "block_no": 803,
+        "pref_name": "大分県"
+    },
+    "温見": {
+        "prec_no": 83,
+        "block_no": 804,
+        "pref_name": "大分県"
+    },
+    "犬飼": {
+        "prec_no": 83,
+        "block_no": 805,
+        "pref_name": "大分県"
+    },
+    "竹田": {
+        "prec_no": 83,
+        "block_no": 806,
+        "pref_name": "大分県"
+    },
+    "出羽": {
+        "prec_no": 83,
+        "block_no": 807,
+        "pref_name": "大分県"
+    },
+    "佐伯": {
+        "prec_no": 83,
+        "block_no": 808,
+        "pref_name": "大分県"
+    },
+    "倉木": {
+        "prec_no": 83,
+        "block_no": 809,
+        "pref_name": "大分県"
+    },
+    "蒲江": {
+        "prec_no": 83,
+        "block_no": 810,
+        "pref_name": "大分県"
+    },
+    "院内": {
+        "prec_no": 83,
+        "block_no": 931,
+        "pref_name": "大分県"
+    },
+    "玖珠": {
+        "prec_no": 83,
+        "block_no": 932,
+        "pref_name": "大分県"
+    },
+    "臼杵": {
+        "prec_no": 83,
+        "block_no": 933,
+        "pref_name": "大分県"
+    },
+    "耶馬渓": {
+        "prec_no": 83,
+        "block_no": 979,
+        "pref_name": "大分県"
+    },
+    "国見": {
+        "prec_no": 83,
+        "block_no": 1137,
+        "pref_name": "大分県"
+    },
+    "宇目": {
+        "prec_no": 83,
+        "block_no": 1142,
+        "pref_name": "大分県"
+    },
+    "別府": {
+        "prec_no": 83,
+        "block_no": 1157,
+        "pref_name": "大分県"
+    },
+    "杵築": {
+        "prec_no": 83,
+        "block_no": 1237,
+        "pref_name": "大分県"
+    },
+    "椿ヶ鼻": {
+        "prec_no": 83,
+        "block_no": 1554,
+        "pref_name": "大分県"
+    },
+    "大分県全地点": {
+        "prec_no": 83,
+        "block_no": 0,
+        "pref_name": "大分県"
+    },
+    "峰山": {
+        "prec_no": 61,
+        "block_no": 588,
+        "pref_name": "京都府"
+    },
+    "宮津": {
+        "prec_no": 61,
+        "block_no": 589,
+        "pref_name": "京都府"
+    },
+    "舞鶴": {
+        "prec_no": 61,
+        "block_no": 47750,
+        "pref_name": "京都府"
+    },
+    "仏坂": {
+        "prec_no": 61,
+        "block_no": 591,
+        "pref_name": "京都府"
+    },
+    "浅原山": {
+        "prec_no": 61,
+        "block_no": 592,
+        "pref_name": "京都府"
+    },
+    "福知山": {
+        "prec_no": 61,
+        "block_no": 593,
+        "pref_name": "京都府"
+    },
+    "胡麻": {
+        "prec_no": 61,
+        "block_no": 594,
+        "pref_name": "京都府"
+    },
+    "妙高山": {
+        "prec_no": 61,
+        "block_no": 595,
+        "pref_name": "京都府"
+    },
+    "園部": {
+        "prec_no": 61,
+        "block_no": 596,
+        "pref_name": "京都府"
+    },
+    "京都": {
+        "prec_no": 61,
+        "block_no": 47759,
+        "pref_name": "京都府"
+    },
+    "京田辺": {
+        "prec_no": 61,
+        "block_no": 598,
+        "pref_name": "京都府"
+    },
+    "鷲峰山": {
+        "prec_no": 61,
+        "block_no": 599,
+        "pref_name": "京都府"
+    },
+    "花背峠": {
+        "prec_no": 61,
+        "block_no": 920,
+        "pref_name": "京都府"
+    },
+    "知井": {
+        "prec_no": 61,
+        "block_no": 927,
+        "pref_name": "京都府"
+    },
+    "京北": {
+        "prec_no": 61,
+        "block_no": 928,
+        "pref_name": "京都府"
+    },
+    "間人": {
+        "prec_no": 61,
+        "block_no": 965,
+        "pref_name": "京都府"
+    },
+    "本庄": {
+        "prec_no": 61,
+        "block_no": 966,
+        "pref_name": "京都府"
+    },
+    "長岡京": {
+        "prec_no": 61,
+        "block_no": 1025,
+        "pref_name": "京都府"
+    },
+    "睦寄": {
+        "prec_no": 61,
+        "block_no": 1160,
+        "pref_name": "京都府"
+    },
+    "美山": {
+        "prec_no": 57,
+        "block_no": 974,
+        "pref_name": "福井県"
+    },
+    "須知": {
+        "prec_no": 61,
+        "block_no": 1378,
+        "pref_name": "京都府"
+    },
+    "三岳": {
+        "prec_no": 61,
+        "block_no": 1379,
+        "pref_name": "京都府"
+    },
+    "綾部": {
+        "prec_no": 61,
+        "block_no": 1380,
+        "pref_name": "京都府"
+    },
+    "三和": {
+        "prec_no": 61,
+        "block_no": 1383,
+        "pref_name": "京都府"
+    },
+    "京都府全地点": {
+        "prec_no": 61,
+        "block_no": 0,
+        "pref_name": "京都府"
+    },
+    "坂浦": {
+        "prec_no": 61,
+        "block_no": 1641,
+        "pref_name": "京都府"
+    },
+    "綾部山家": {
+        "prec_no": 61,
+        "block_no": 1671,
+        "pref_name": "京都府"
+    },
+    "昭和": {
+        "prec_no": 99,
+        "block_no": 89532,
+        "pref_name": "南極"
+    },
+    "大空山": {
+        "prec_no": 66,
+        "block_no": 653,
+        "pref_name": "岡山県"
+    },
+    "那岐山": {
+        "prec_no": 66,
+        "block_no": 654,
+        "pref_name": "岡山県"
+    },
+    "今岡": {
+        "prec_no": 66,
+        "block_no": 655,
+        "pref_name": "岡山県"
+    },
+    "久世": {
+        "prec_no": 66,
+        "block_no": 656,
+        "pref_name": "岡山県"
+    },
+    "津山": {
+        "prec_no": 66,
+        "block_no": 47756,
+        "pref_name": "岡山県"
+    },
+    "新見": {
+        "prec_no": 66,
+        "block_no": 658,
+        "pref_name": "岡山県"
+    },
+    "天子山": {
+        "prec_no": 66,
+        "block_no": 659,
+        "pref_name": "岡山県"
+    },
+    "赤磐": {
+        "prec_no": 66,
+        "block_no": 660,
+        "pref_name": "岡山県"
+    },
+    "陣山": {
+        "prec_no": 66,
+        "block_no": 661,
+        "pref_name": "岡山県"
+    },
+    "大平山": {
+        "prec_no": 66,
+        "block_no": 662,
+        "pref_name": "岡山県"
+    },
+    "福渡": {
+        "prec_no": 66,
+        "block_no": 663,
+        "pref_name": "岡山県"
+    },
+    "和気": {
+        "prec_no": 66,
+        "block_no": 664,
+        "pref_name": "岡山県"
+    },
+    "佐屋": {
+        "prec_no": 66,
+        "block_no": 665,
+        "pref_name": "岡山県"
+    },
+    "矢掛": {
+        "prec_no": 66,
+        "block_no": 666,
+        "pref_name": "岡山県"
+    },
+    "岡山": {
+        "prec_no": 66,
+        "block_no": 47768,
+        "pref_name": "岡山県"
+    },
+    "虫明": {
+        "prec_no": 66,
+        "block_no": 668,
+        "pref_name": "岡山県"
+    },
+    "倉敷": {
+        "prec_no": 66,
+        "block_no": 669,
+        "pref_name": "岡山県"
+    },
+    "玉野": {
+        "prec_no": 66,
+        "block_no": 670,
+        "pref_name": "岡山県"
+    },
+    "笠岡": {
+        "prec_no": 66,
+        "block_no": 919,
+        "pref_name": "岡山県"
+    },
+    "下呰部": {
+        "prec_no": 66,
+        "block_no": 929,
+        "pref_name": "岡山県"
+    },
+    "高梁": {
+        "prec_no": 66,
+        "block_no": 930,
+        "pref_name": "岡山県"
+    },
+    "奈義": {
+        "prec_no": 66,
+        "block_no": 1140,
+        "pref_name": "岡山県"
+    },
+    "上長田": {
+        "prec_no": 66,
+        "block_no": 1328,
+        "pref_name": "岡山県"
+    },
+    "千屋": {
+        "prec_no": 66,
+        "block_no": 1330,
+        "pref_name": "岡山県"
+    },
+    "恩原": {
+        "prec_no": 66,
+        "block_no": 1371,
+        "pref_name": "岡山県"
+    },
+    "日応寺": {
+        "prec_no": 66,
+        "block_no": 1531,
+        "pref_name": "岡山県"
+    },
+    "富": {
+        "prec_no": 66,
+        "block_no": 1584,
+        "pref_name": "岡山県"
+    },
+    "吉備中央": {
+        "prec_no": 66,
+        "block_no": 1585,
+        "pref_name": "岡山県"
+    },
+    "岡山県全地点": {
+        "prec_no": 66,
+        "block_no": 0,
+        "pref_name": "岡山県"
+    },
+    "旭西": {
+        "prec_no": 66,
+        "block_no": 1618,
+        "pref_name": "岡山県"
+    },
+    "前武尊": {
+        "prec_no": 42,
+        "block_no": 342,
+        "pref_name": "群馬県"
+    },
+    "草津": {
+        "prec_no": 42,
+        "block_no": 343,
+        "pref_name": "群馬県"
+    },
+    "野反湖": {
+        "prec_no": 42,
+        "block_no": 344,
+        "pref_name": "群馬県"
+    },
+    "雨見山": {
+        "prec_no": 42,
+        "block_no": 345,
+        "pref_name": "群馬県"
+    },
+    "沼田": {
+        "prec_no": 42,
+        "block_no": 346,
+        "pref_name": "群馬県"
+    },
+    "赤城山": {
+        "prec_no": 42,
+        "block_no": 347,
+        "pref_name": "群馬県"
+    },
+    "榛名山": {
+        "prec_no": 42,
+        "block_no": 349,
+        "pref_name": "群馬県"
+    },
+    "前橋": {
+        "prec_no": 42,
+        "block_no": 47624,
+        "pref_name": "群馬県"
+    },
+    "桐生": {
+        "prec_no": 42,
+        "block_no": 351,
+        "pref_name": "群馬県"
+    },
+    "一の字山": {
+        "prec_no": 42,
+        "block_no": 352,
+        "pref_name": "群馬県"
+    },
+    "上里見": {
+        "prec_no": 42,
+        "block_no": 353,
+        "pref_name": "群馬県"
+    },
+    "西野牧": {
+        "prec_no": 42,
+        "block_no": 354,
+        "pref_name": "群馬県"
+    },
+    "藤岡": {
+        "prec_no": 42,
+        "block_no": 355,
+        "pref_name": "群馬県"
+    },
+    "館林": {
+        "prec_no": 42,
+        "block_no": 356,
+        "pref_name": "群馬県"
+    },
+    "稲含山": {
+        "prec_no": 42,
+        "block_no": 357,
+        "pref_name": "群馬県"
+    },
+    "みなかみ": {
+        "prec_no": 42,
+        "block_no": 1019,
+        "pref_name": "群馬県"
+    },
+    "中之条": {
+        "prec_no": 42,
+        "block_no": 1020,
+        "pref_name": "群馬県"
+    },
+    "伊勢崎": {
+        "prec_no": 42,
+        "block_no": 1021,
+        "pref_name": "群馬県"
+    },
+    "片品": {
+        "prec_no": 42,
+        "block_no": 1174,
+        "pref_name": "群馬県"
+    },
+    "神流": {
+        "prec_no": 42,
+        "block_no": 1223,
+        "pref_name": "群馬県"
+    },
+    "黒保根": {
+        "prec_no": 42,
+        "block_no": 1259,
+        "pref_name": "群馬県"
+    },
+    "高手山": {
+        "prec_no": 42,
+        "block_no": 1375,
+        "pref_name": "群馬県"
+    },
+    "群馬県全地点": {
+        "prec_no": 42,
+        "block_no": 0,
+        "pref_name": "群馬県"
+    },
+    "大山寺": {
+        "prec_no": 71,
+        "block_no": 719,
+        "pref_name": "徳島県"
+    },
+    "徳島": {
+        "prec_no": 71,
+        "block_no": 47895,
+        "pref_name": "徳島県"
+    },
+    "江田山": {
+        "prec_no": 71,
+        "block_no": 722,
+        "pref_name": "徳島県"
+    },
+    "太竜寺山": {
+        "prec_no": 71,
+        "block_no": 723,
+        "pref_name": "徳島県"
+    },
+    "日和佐": {
+        "prec_no": 71,
+        "block_no": 724,
+        "pref_name": "徳島県"
+    },
+    "宍喰": {
+        "prec_no": 71,
+        "block_no": 725,
+        "pref_name": "徳島県"
+    },
+    "穴吹": {
+        "prec_no": 71,
+        "block_no": 972,
+        "pref_name": "徳島県"
+    },
+    "福原旭": {
+        "prec_no": 71,
+        "block_no": 1098,
+        "pref_name": "徳島県"
+    },
+    "蒲生田": {
+        "prec_no": 71,
+        "block_no": 1242,
+        "pref_name": "徳島県"
+    },
+    "京上": {
+        "prec_no": 71,
+        "block_no": 1252,
+        "pref_name": "徳島県"
+    },
+    "半田": {
+        "prec_no": 71,
+        "block_no": 1327,
+        "pref_name": "徳島県"
+    },
+    "木頭": {
+        "prec_no": 71,
+        "block_no": 1352,
+        "pref_name": "徳島県"
+    },
+    "旭丸": {
+        "prec_no": 71,
+        "block_no": 1358,
+        "pref_name": "徳島県"
+    },
+    "剣山": {
+        "prec_no": 71,
+        "block_no": 47894,
+        "pref_name": "徳島県"
+    },
+    "徳島県全地点": {
+        "prec_no": 71,
+        "block_no": 0,
+        "pref_name": "徳島県"
+    },
+    "海陽": {
+        "prec_no": 71,
+        "block_no": 1604,
+        "pref_name": "徳島県"
+    },
+    "東祖谷": {
+        "prec_no": 71,
+        "block_no": 1677,
+        "pref_name": "徳島県"
+    },
+    "羅臼": {
+        "prec_no": 18,
+        "block_no": 84,
+        "pref_name": "根室地方"
+    },
+    "標津": {
+        "prec_no": 18,
+        "block_no": 85,
+        "pref_name": "根室地方"
+    },
+    "中標津": {
+        "prec_no": 18,
+        "block_no": 86,
+        "pref_name": "根室地方"
+    },
+    "計根別": {
+        "prec_no": 18,
+        "block_no": 87,
+        "pref_name": "根室地方"
+    },
+    "別海": {
+        "prec_no": 18,
+        "block_no": 88,
+        "pref_name": "根室地方"
+    },
+    "根室": {
+        "prec_no": 18,
+        "block_no": 47420,
+        "pref_name": "根室地方"
+    },
+    "納沙布": {
+        "prec_no": 18,
+        "block_no": 1056,
+        "pref_name": "根室地方"
+    },
+    "厚床": {
+        "prec_no": 18,
+        "block_no": 1196,
+        "pref_name": "根室地方"
+    },
+    "糸櫛別": {
+        "prec_no": 18,
+        "block_no": 1266,
+        "pref_name": "根室地方"
+    },
+    "根室中標津": {
+        "prec_no": 18,
+        "block_no": 1489,
+        "pref_name": "根室地方"
+    },
+    "上標津": {
+        "prec_no": 18,
+        "block_no": 1547,
+        "pref_name": "根室地方"
+    },
+    "根室地方全地点": {
+        "prec_no": 18,
+        "block_no": 0,
+        "pref_name": "根室地方"
+    },
+    "相模湖": {
+        "prec_no": 46,
+        "block_no": 387,
+        "pref_name": "神奈川県"
+    },
+    "海老名": {
+        "prec_no": 46,
+        "block_no": 388,
+        "pref_name": "神奈川県"
+    },
+    "横浜": {
+        "prec_no": 46,
+        "block_no": 47670,
+        "pref_name": "神奈川県"
+    },
+    "箱根": {
+        "prec_no": 46,
+        "block_no": 390,
+        "pref_name": "神奈川県"
+    },
+    "江ノ島": {
+        "prec_no": 34,
+        "block_no": 1290,
+        "pref_name": "宮城県"
+    },
+    "三浦": {
+        "prec_no": 46,
+        "block_no": 392,
+        "pref_name": "神奈川県"
+    },
+    "相模原中央": {
+        "prec_no": 46,
+        "block_no": 1005,
+        "pref_name": "神奈川県"
+    },
+    "日吉": {
+        "prec_no": 46,
+        "block_no": 1006,
+        "pref_name": "神奈川県"
+    },
+    "平塚": {
+        "prec_no": 46,
+        "block_no": 1007,
+        "pref_name": "神奈川県"
+    },
+    "小田原": {
+        "prec_no": 46,
+        "block_no": 1008,
+        "pref_name": "神奈川県"
+    },
+    "丹沢湖": {
+        "prec_no": 46,
+        "block_no": 1096,
+        "pref_name": "神奈川県"
+    },
+    "辻堂": {
+        "prec_no": 46,
+        "block_no": 1443,
+        "pref_name": "神奈川県"
+    },
+    "神奈川県全地点": {
+        "prec_no": 46,
+        "block_no": 0,
+        "pref_name": "神奈川県"
+    },
+    "日高門別": {
+        "prec_no": 22,
+        "block_no": 136,
+        "pref_name": "日高地方"
+    },
+    "新和": {
+        "prec_no": 22,
+        "block_no": 137,
+        "pref_name": "日高地方"
+    },
+    "ヌモトル山": {
+        "prec_no": 22,
+        "block_no": 138,
+        "pref_name": "日高地方"
+    },
+    "静内": {
+        "prec_no": 22,
+        "block_no": 140,
+        "pref_name": "日高地方"
+    },
+    "ピセナイ山": {
+        "prec_no": 22,
+        "block_no": 141,
+        "pref_name": "日高地方"
+    },
+    "浦河": {
+        "prec_no": 22,
+        "block_no": 47426,
+        "pref_name": "日高地方"
+    },
+    "仁世宇": {
+        "prec_no": 22,
+        "block_no": 1097,
+        "pref_name": "日高地方"
+    },
+    "三石": {
+        "prec_no": 22,
+        "block_no": 1198,
+        "pref_name": "日高地方"
+    },
+    "日高": {
+        "prec_no": 22,
+        "block_no": 1202,
+        "pref_name": "日高地方"
+    },
+    "幌満": {
+        "prec_no": 22,
+        "block_no": 1264,
+        "pref_name": "日高地方"
+    },
+    "目黒": {
+        "prec_no": 22,
+        "block_no": 1276,
+        "pref_name": "日高地方"
+    },
+    "中杵臼": {
+        "prec_no": 22,
+        "block_no": 1288,
+        "pref_name": "日高地方"
+    },
+    "えりも岬": {
+        "prec_no": 22,
+        "block_no": 1340,
+        "pref_name": "日高地方"
+    },
+    "旭": {
+        "prec_no": 22,
+        "block_no": 1430,
+        "pref_name": "日高地方"
+    },
+    "平取": {
+        "prec_no": 22,
+        "block_no": 1594,
+        "pref_name": "日高地方"
+    },
+    "日高地方全地点": {
+        "prec_no": 22,
+        "block_no": 0,
+        "pref_name": "日高地方"
+    },
+    "花園": {
+        "prec_no": 40,
+        "block_no": 314,
+        "pref_name": "茨城県"
+    },
+    "北茨城": {
+        "prec_no": 40,
+        "block_no": 315,
+        "pref_name": "茨城県"
+    },
+    "大子": {
+        "prec_no": 40,
+        "block_no": 316,
+        "pref_name": "茨城県"
+    },
+    "神峰山": {
+        "prec_no": 40,
+        "block_no": 317,
+        "pref_name": "茨城県"
+    },
+    "笠間": {
+        "prec_no": 40,
+        "block_no": 318,
+        "pref_name": "茨城県"
+    },
+    "水戸": {
+        "prec_no": 40,
+        "block_no": 47629,
+        "pref_name": "茨城県"
+    },
+    "古河": {
+        "prec_no": 40,
+        "block_no": 320,
+        "pref_name": "茨城県"
+    },
+    "愛宕山": {
+        "prec_no": 40,
+        "block_no": 321,
+        "pref_name": "茨城県"
+    },
+    "下妻": {
+        "prec_no": 40,
+        "block_no": 322,
+        "pref_name": "茨城県"
+    },
+    "坂東": {
+        "prec_no": 40,
+        "block_no": 323,
+        "pref_name": "茨城県"
+    },
+    "土浦": {
+        "prec_no": 40,
+        "block_no": 324,
+        "pref_name": "茨城県"
+    },
+    "鹿嶋": {
+        "prec_no": 40,
+        "block_no": 325,
+        "pref_name": "茨城県"
+    },
+    "江戸崎": {
+        "prec_no": 40,
+        "block_no": 911,
+        "pref_name": "茨城県"
+    },
+    "日立": {
+        "prec_no": 40,
+        "block_no": 1011,
+        "pref_name": "茨城県"
+    },
+    "柿岡": {
+        "prec_no": 40,
+        "block_no": 1012,
+        "pref_name": "茨城県"
+    },
+    "美野里": {
+        "prec_no": 40,
+        "block_no": 1013,
+        "pref_name": "茨城県"
+    },
+    "龍ケ崎": {
+        "prec_no": 40,
+        "block_no": 1014,
+        "pref_name": "茨城県"
+    },
+    "筑波山": {
+        "prec_no": 40,
+        "block_no": 1082,
+        "pref_name": "茨城県"
+    },
+    "中野": {
+        "prec_no": 40,
+        "block_no": 1170,
+        "pref_name": "茨城県"
+    },
+    "徳田": {
+        "prec_no": 40,
+        "block_no": 1173,
+        "pref_name": "茨城県"
+    },
+    "鉾田": {
+        "prec_no": 40,
+        "block_no": 1245,
+        "pref_name": "茨城県"
+    },
+    "常陸大宮": {
+        "prec_no": 40,
+        "block_no": 1331,
+        "pref_name": "茨城県"
+    },
+    "門井": {
+        "prec_no": 40,
+        "block_no": 1388,
+        "pref_name": "茨城県"
+    },
+    "大能": {
+        "prec_no": 40,
+        "block_no": 1421,
+        "pref_name": "茨城県"
+    },
+    "つくば（館野）": {
+        "prec_no": 40,
+        "block_no": 47646,
+        "pref_name": "茨城県"
+    },
+    "下館": {
+        "prec_no": 40,
+        "block_no": 1530,
+        "pref_name": "茨城県"
+    },
+    "茨城県全地点": {
+        "prec_no": 40,
+        "block_no": 0,
+        "pref_name": "茨城県"
+    },
+    "高萩": {
+        "prec_no": 40,
+        "block_no": 1635,
+        "pref_name": "茨城県"
+    },
+    "常総": {
+        "prec_no": 40,
+        "block_no": 1661,
+        "pref_name": "茨城県"
+    },
+    "葛城山": {
+        "prec_no": 65,
+        "block_no": 642,
+        "pref_name": "和歌山県"
+    },
+    "和歌山": {
+        "prec_no": 65,
+        "block_no": 47777,
+        "pref_name": "和歌山県"
+    },
+    "岩出": {
+        "prec_no": 65,
+        "block_no": 644,
+        "pref_name": "和歌山県"
+    },
+    "高野山": {
+        "prec_no": 65,
+        "block_no": 645,
+        "pref_name": "和歌山県"
+    },
+    "護摩壇山": {
+        "prec_no": 65,
+        "block_no": 646,
+        "pref_name": "和歌山県"
+    },
+    "御坊": {
+        "prec_no": 65,
+        "block_no": 647,
+        "pref_name": "和歌山県"
+    },
+    "虎ケ峰峠": {
+        "prec_no": 65,
+        "block_no": 648,
+        "pref_name": "和歌山県"
+    },
+    "新宮": {
+        "prec_no": 65,
+        "block_no": 649,
+        "pref_name": "和歌山県"
+    },
+    "白浜": {
+        "prec_no": 65,
+        "block_no": 650,
+        "pref_name": "和歌山県"
+    },
+    "日置川": {
+        "prec_no": 65,
+        "block_no": 651,
+        "pref_name": "和歌山県"
+    },
+    "潮岬": {
+        "prec_no": 65,
+        "block_no": 47778,
+        "pref_name": "和歌山県"
+    },
+    "栗栖川": {
+        "prec_no": 65,
+        "block_no": 971,
+        "pref_name": "和歌山県"
+    },
+    "湯浅": {
+        "prec_no": 65,
+        "block_no": 978,
+        "pref_name": "和歌山県"
+    },
+    "本宮": {
+        "prec_no": 65,
+        "block_no": 1074,
+        "pref_name": "和歌山県"
+    },
+    "龍神": {
+        "prec_no": 65,
+        "block_no": 1089,
+        "pref_name": "和歌山県"
+    },
+    "色川": {
+        "prec_no": 65,
+        "block_no": 1172,
+        "pref_name": "和歌山県"
+    },
+    "かつらぎ": {
+        "prec_no": 65,
+        "block_no": 1342,
+        "pref_name": "和歌山県"
+    },
+    "西川": {
+        "prec_no": 65,
+        "block_no": 1347,
+        "pref_name": "和歌山県"
+    },
+    "友ケ島": {
+        "prec_no": 65,
+        "block_no": 1457,
+        "pref_name": "和歌山県"
+    },
+    "川辺": {
+        "prec_no": 65,
+        "block_no": 1485,
+        "pref_name": "和歌山県"
+    },
+    "南紀白浜": {
+        "prec_no": 65,
+        "block_no": 1589,
+        "pref_name": "和歌山県"
+    },
+    "和歌山県全地点": {
+        "prec_no": 65,
+        "block_no": 0,
+        "pref_name": "和歌山県"
+    },
+    "道後山": {
+        "prec_no": 67,
+        "block_no": 671,
+        "pref_name": "広島県"
+    },
+    "安田山": {
+        "prec_no": 67,
+        "block_no": 672,
+        "pref_name": "広島県"
+    },
+    "犬伏山": {
+        "prec_no": 67,
+        "block_no": 673,
+        "pref_name": "広島県"
+    },
+    "三次": {
+        "prec_no": 67,
+        "block_no": 674,
+        "pref_name": "広島県"
+    },
+    "庄原": {
+        "prec_no": 67,
+        "block_no": 675,
+        "pref_name": "広島県"
+    },
+    "大朝": {
+        "prec_no": 67,
+        "block_no": 676,
+        "pref_name": "広島県"
+    },
+    "加計": {
+        "prec_no": 67,
+        "block_no": 677,
+        "pref_name": "広島県"
+    },
+    "海見山": {
+        "prec_no": 67,
+        "block_no": 678,
+        "pref_name": "広島県"
+    },
+    "上下": {
+        "prec_no": 67,
+        "block_no": 679,
+        "pref_name": "広島県"
+    },
+    "内黒山": {
+        "prec_no": 67,
+        "block_no": 680,
+        "pref_name": "広島県"
+    },
+    "世羅": {
+        "prec_no": 67,
+        "block_no": 681,
+        "pref_name": "広島県"
+    },
+    "恵下谷山": {
+        "prec_no": 67,
+        "block_no": 682,
+        "pref_name": "広島県"
+    },
+    "東広島": {
+        "prec_no": 67,
+        "block_no": 683,
+        "pref_name": "広島県"
+    },
+    "福山": {
+        "prec_no": 67,
+        "block_no": 47767,
+        "pref_name": "広島県"
+    },
+    "広島": {
+        "prec_no": 67,
+        "block_no": 47765,
+        "pref_name": "広島県"
+    },
+    "竹原": {
+        "prec_no": 67,
+        "block_no": 686,
+        "pref_name": "広島県"
+    },
+    "生口島": {
+        "prec_no": 67,
+        "block_no": 687,
+        "pref_name": "広島県"
+    },
+    "大竹": {
+        "prec_no": 67,
+        "block_no": 688,
+        "pref_name": "広島県"
+    },
+    "呉": {
+        "prec_no": 67,
+        "block_no": 47766,
+        "pref_name": "広島県"
+    },
+    "倉橋": {
+        "prec_no": 67,
+        "block_no": 690,
+        "pref_name": "広島県"
+    },
+    "高野": {
+        "prec_no": 67,
+        "block_no": 947,
+        "pref_name": "広島県"
+    },
+    "東城": {
+        "prec_no": 67,
+        "block_no": 948,
+        "pref_name": "広島県"
+    },
+    "甲田": {
+        "prec_no": 67,
+        "block_no": 949,
+        "pref_name": "広島県"
+    },
+    "三入": {
+        "prec_no": 67,
+        "block_no": 950,
+        "pref_name": "広島県"
+    },
+    "府中": {
+        "prec_no": 44,
+        "block_no": 1133,
+        "pref_name": "東京都"
+    },
+    "河内": {
+        "prec_no": 67,
+        "block_no": 952,
+        "pref_name": "広島県"
+    },
+    "久比": {
+        "prec_no": 67,
+        "block_no": 953,
+        "pref_name": "広島県"
+    },
+    "志和": {
+        "prec_no": 67,
+        "block_no": 1163,
+        "pref_name": "広島県"
+    },
+    "王泊": {
+        "prec_no": 67,
+        "block_no": 1257,
+        "pref_name": "広島県"
+    },
+    "油木": {
+        "prec_no": 67,
+        "block_no": 1325,
+        "pref_name": "広島県"
+    },
+    "廿日市津田": {
+        "prec_no": 67,
+        "block_no": 1326,
+        "pref_name": "広島県"
+    },
+    "本郷": {
+        "prec_no": 67,
+        "block_no": 1472,
+        "pref_name": "広島県"
+    },
+    "佐伯湯来": {
+        "prec_no": 67,
+        "block_no": 1575,
+        "pref_name": "広島県"
+    },
+    "都志見": {
+        "prec_no": 67,
+        "block_no": 1579,
+        "pref_name": "広島県"
+    },
+    "君田": {
+        "prec_no": 67,
+        "block_no": 1582,
+        "pref_name": "広島県"
+    },
+    "美土里": {
+        "prec_no": 67,
+        "block_no": 1583,
+        "pref_name": "広島県"
+    },
+    "広島県全地点": {
+        "prec_no": 67,
+        "block_no": 0,
+        "pref_name": "広島県"
+    },
+    "安宿": {
+        "prec_no": 67,
+        "block_no": 1603,
+        "pref_name": "広島県"
+    },
+    "呉市蒲刈": {
+        "prec_no": 67,
+        "block_no": 1606,
+        "pref_name": "広島県"
+    },
+    "障子山": {
+        "prec_no": 31,
+        "block_no": 158,
+        "pref_name": "青森県"
+    },
+    "むつ": {
+        "prec_no": 31,
+        "block_no": 47576,
+        "pref_name": "青森県"
+    },
+    "蟹田": {
+        "prec_no": 31,
+        "block_no": 160,
+        "pref_name": "青森県"
+    },
+    "青森": {
+        "prec_no": 31,
+        "block_no": 47575,
+        "pref_name": "青森県"
+    },
+    "野辺地": {
+        "prec_no": 31,
+        "block_no": 162,
+        "pref_name": "青森県"
+    },
+    "鰺ケ沢": {
+        "prec_no": 31,
+        "block_no": 163,
+        "pref_name": "青森県"
+    },
+    "五所川原": {
+        "prec_no": 31,
+        "block_no": 164,
+        "pref_name": "青森県"
+    },
+    "深浦": {
+        "prec_no": 31,
+        "block_no": 47574,
+        "pref_name": "青森県"
+    },
+    "弘前": {
+        "prec_no": 31,
+        "block_no": 166,
+        "pref_name": "青森県"
+    },
+    "黒石": {
+        "prec_no": 31,
+        "block_no": 167,
+        "pref_name": "青森県"
+    },
+    "八甲田山": {
+        "prec_no": 31,
+        "block_no": 168,
+        "pref_name": "青森県"
+    },
+    "三沢": {
+        "prec_no": 31,
+        "block_no": 169,
+        "pref_name": "青森県"
+    },
+    "四兵衛森": {
+        "prec_no": 31,
+        "block_no": 170,
+        "pref_name": "青森県"
+    },
+    "毛無山": {
+        "prec_no": 31,
+        "block_no": 171,
+        "pref_name": "青森県"
+    },
+    "十和田": {
+        "prec_no": 31,
+        "block_no": 172,
+        "pref_name": "青森県"
+    },
+    "八戸": {
+        "prec_no": 31,
+        "block_no": 47581,
+        "pref_name": "青森県"
+    },
+    "大鰐": {
+        "prec_no": 31,
+        "block_no": 174,
+        "pref_name": "青森県"
+    },
+    "碇ケ関": {
+        "prec_no": 31,
+        "block_no": 175,
+        "pref_name": "青森県"
+    },
+    "空岱山": {
+        "prec_no": 31,
+        "block_no": 176,
+        "pref_name": "青森県"
+    },
+    "休屋": {
+        "prec_no": 31,
+        "block_no": 177,
+        "pref_name": "青森県"
+    },
+    "朝日奈岳": {
+        "prec_no": 31,
+        "block_no": 178,
+        "pref_name": "青森県"
+    },
+    "三戸": {
+        "prec_no": 31,
+        "block_no": 179,
+        "pref_name": "青森県"
+    },
+    "今別": {
+        "prec_no": 31,
+        "block_no": 1026,
+        "pref_name": "青森県"
+    },
+    "六ケ所": {
+        "prec_no": 31,
+        "block_no": 1027,
+        "pref_name": "青森県"
+    },
+    "大間": {
+        "prec_no": 31,
+        "block_no": 1041,
+        "pref_name": "青森県"
+    },
+    "大和山": {
+        "prec_no": 31,
+        "block_no": 1042,
+        "pref_name": "青森県"
+    },
+    "酸ケ湯": {
+        "prec_no": 31,
+        "block_no": 1079,
+        "pref_name": "青森県"
+    },
+    "岳": {
+        "prec_no": 31,
+        "block_no": 1108,
+        "pref_name": "青森県"
+    },
+    "長慶平": {
+        "prec_no": 31,
+        "block_no": 1110,
+        "pref_name": "青森県"
+    },
+    "市浦": {
+        "prec_no": 31,
+        "block_no": 1119,
+        "pref_name": "青森県"
+    },
+    "小田野沢": {
+        "prec_no": 31,
+        "block_no": 1122,
+        "pref_name": "青森県"
+    },
+    "脇野沢": {
+        "prec_no": 31,
+        "block_no": 1124,
+        "pref_name": "青森県"
+    },
+    "七戸": {
+        "prec_no": 31,
+        "block_no": 1183,
+        "pref_name": "青森県"
+    },
+    "戸来": {
+        "prec_no": 31,
+        "block_no": 1272,
+        "pref_name": "青森県"
+    },
+    "温川": {
+        "prec_no": 31,
+        "block_no": 1406,
+        "pref_name": "青森県"
+    },
+    "青森大谷": {
+        "prec_no": 31,
+        "block_no": 1495,
+        "pref_name": "青森県"
+    },
+    "湯野川": {
+        "prec_no": 31,
+        "block_no": 1559,
+        "pref_name": "青森県"
+    },
+    "青森県全地点": {
+        "prec_no": 31,
+        "block_no": 0,
+        "pref_name": "青森県"
+    },
+    "白糸": {
+        "prec_no": 50,
+        "block_no": 440,
+        "pref_name": "静岡県"
+    },
+    "御殿場": {
+        "prec_no": 50,
+        "block_no": 441,
+        "pref_name": "静岡県"
+    },
+    "富士": {
+        "prec_no": 50,
+        "block_no": 442,
+        "pref_name": "静岡県"
+    },
+    "三島": {
+        "prec_no": 50,
+        "block_no": 47657,
+        "pref_name": "静岡県"
+    },
+    "越木平": {
+        "prec_no": 50,
+        "block_no": 444,
+        "pref_name": "静岡県"
+    },
+    "川根本町": {
+        "prec_no": 50,
+        "block_no": 445,
+        "pref_name": "静岡県"
+    },
+    "網代": {
+        "prec_no": 50,
+        "block_no": 47668,
+        "pref_name": "静岡県"
+    },
+    "高根山": {
+        "prec_no": 50,
+        "block_no": 448,
+        "pref_name": "静岡県"
+    },
+    "静岡": {
+        "prec_no": 50,
+        "block_no": 47656,
+        "pref_name": "静岡県"
+    },
+    "霧山": {
+        "prec_no": 50,
+        "block_no": 450,
+        "pref_name": "静岡県"
+    },
+    "天竜": {
+        "prec_no": 50,
+        "block_no": 451,
+        "pref_name": "静岡県"
+    },
+    "島田": {
+        "prec_no": 50,
+        "block_no": 452,
+        "pref_name": "静岡県"
+    },
+    "湯ケ島": {
+        "prec_no": 50,
+        "block_no": 453,
+        "pref_name": "静岡県"
+    },
+    "天城山": {
+        "prec_no": 50,
+        "block_no": 454,
+        "pref_name": "静岡県"
+    },
+    "浜松": {
+        "prec_no": 50,
+        "block_no": 47654,
+        "pref_name": "静岡県"
+    },
+    "松崎": {
+        "prec_no": 50,
+        "block_no": 456,
+        "pref_name": "静岡県"
+    },
+    "稲取": {
+        "prec_no": 50,
+        "block_no": 457,
+        "pref_name": "静岡県"
+    },
+    "御前崎": {
+        "prec_no": 50,
+        "block_no": 47655,
+        "pref_name": "静岡県"
+    },
+    "石廊崎": {
+        "prec_no": 50,
+        "block_no": 47666,
+        "pref_name": "静岡県"
+    },
+    "佐久間": {
+        "prec_no": 50,
+        "block_no": 986,
+        "pref_name": "静岡県"
+    },
+    "土肥": {
+        "prec_no": 50,
+        "block_no": 987,
+        "pref_name": "静岡県"
+    },
+    "三ヶ日": {
+        "prec_no": 50,
+        "block_no": 988,
+        "pref_name": "静岡県"
+    },
+    "掛川": {
+        "prec_no": 50,
+        "block_no": 989,
+        "pref_name": "静岡県"
+    },
+    "熊": {
+        "prec_no": 50,
+        "block_no": 1105,
+        "pref_name": "静岡県"
+    },
+    "三倉": {
+        "prec_no": 50,
+        "block_no": 1393,
+        "pref_name": "静岡県"
+    },
+    "梅ケ島": {
+        "prec_no": 50,
+        "block_no": 1114,
+        "pref_name": "静岡県"
+    },
+    "磐田": {
+        "prec_no": 50,
+        "block_no": 1244,
+        "pref_name": "静岡県"
+    },
+    "菊川牧之原": {
+        "prec_no": 50,
+        "block_no": 1335,
+        "pref_name": "静岡県"
+    },
+    "井川": {
+        "prec_no": 50,
+        "block_no": 1338,
+        "pref_name": "静岡県"
+    },
+    "鍵穴": {
+        "prec_no": 50,
+        "block_no": 1440,
+        "pref_name": "静岡県"
+    },
+    "静岡県全地点": {
+        "prec_no": 50,
+        "block_no": 0,
+        "pref_name": "静岡県"
+    },
+    "静岡空港": {
+        "prec_no": 50,
+        "block_no": 1601,
+        "pref_name": "静岡県"
+    },
+    "春野": {
+        "prec_no": 50,
+        "block_no": 1662,
+        "pref_name": "静岡県"
+    },
+    "有東木": {
+        "prec_no": 50,
+        "block_no": 1668,
+        "pref_name": "静岡県"
+    },
+    "熱海伊豆山": {
+        "prec_no": 50,
+        "block_no": 1673,
+        "pref_name": "静岡県"
+    },
+    "大三島": {
+        "prec_no": 73,
+        "block_no": 732,
+        "pref_name": "愛媛県"
+    },
+    "玉川": {
+        "prec_no": 36,
+        "block_no": 1466,
+        "pref_name": "福島県"
+    },
+    "新居浜": {
+        "prec_no": 73,
+        "block_no": 734,
+        "pref_name": "愛媛県"
+    },
+    "四国中央": {
+        "prec_no": 73,
+        "block_no": 735,
+        "pref_name": "愛媛県"
+    },
+    "松山": {
+        "prec_no": 73,
+        "block_no": 47887,
+        "pref_name": "愛媛県"
+    },
+    "上林": {
+        "prec_no": 73,
+        "block_no": 737,
+        "pref_name": "愛媛県"
+    },
+    "成就社": {
+        "prec_no": 73,
+        "block_no": 738,
+        "pref_name": "愛媛県"
+    },
+    "長浜": {
+        "prec_no": 60,
+        "block_no": 976,
+        "pref_name": "滋賀県"
+    },
+    "中山": {
+        "prec_no": 73,
+        "block_no": 740,
+        "pref_name": "愛媛県"
+    },
+    "久万": {
+        "prec_no": 73,
+        "block_no": 741,
+        "pref_name": "愛媛県"
+    },
+    "獅子越峠": {
+        "prec_no": 73,
+        "block_no": 742,
+        "pref_name": "愛媛県"
+    },
+    "八幡浜": {
+        "prec_no": 73,
+        "block_no": 743,
+        "pref_name": "愛媛県"
+    },
+    "宇和島": {
+        "prec_no": 73,
+        "block_no": 47892,
+        "pref_name": "愛媛県"
+    },
+    "御荘": {
+        "prec_no": 73,
+        "block_no": 745,
+        "pref_name": "愛媛県"
+    },
+    "西条": {
+        "prec_no": 73,
+        "block_no": 958,
+        "pref_name": "愛媛県"
+    },
+    "大洲": {
+        "prec_no": 73,
+        "block_no": 959,
+        "pref_name": "愛媛県"
+    },
+    "宇和": {
+        "prec_no": 73,
+        "block_no": 961,
+        "pref_name": "愛媛県"
+    },
+    "今治": {
+        "prec_no": 73,
+        "block_no": 1077,
+        "pref_name": "愛媛県"
+    },
+    "富郷": {
+        "prec_no": 73,
+        "block_no": 1260,
+        "pref_name": "愛媛県"
+    },
+    "近永": {
+        "prec_no": 73,
+        "block_no": 1350,
+        "pref_name": "愛媛県"
+    },
+    "瀬戸": {
+        "prec_no": 73,
+        "block_no": 1456,
+        "pref_name": "愛媛県"
+    },
+    "松山南吉田": {
+        "prec_no": 73,
+        "block_no": 1521,
+        "pref_name": "愛媛県"
+    },
+    "愛媛県全地点": {
+        "prec_no": 73,
+        "block_no": 0,
+        "pref_name": "愛媛県"
+    },
+    "那須高原": {
+        "prec_no": 41,
+        "block_no": 326,
+        "pref_name": "栃木県"
+    },
+    "黒田原": {
+        "prec_no": 41,
+        "block_no": 327,
+        "pref_name": "栃木県"
+    },
+    "八方が原": {
+        "prec_no": 41,
+        "block_no": 328,
+        "pref_name": "栃木県"
+    },
+    "黒磯": {
+        "prec_no": 41,
+        "block_no": 329,
+        "pref_name": "栃木県"
+    },
+    "八溝山": {
+        "prec_no": 41,
+        "block_no": 330,
+        "pref_name": "栃木県"
+    },
+    "大田原": {
+        "prec_no": 41,
+        "block_no": 331,
+        "pref_name": "栃木県"
+    },
+    "奥日光（日光）": {
+        "prec_no": 41,
+        "block_no": 47690,
+        "pref_name": "栃木県"
+    },
+    "方塞山": {
+        "prec_no": 41,
+        "block_no": 333,
+        "pref_name": "栃木県"
+    },
+    "高根沢": {
+        "prec_no": 41,
+        "block_no": 334,
+        "pref_name": "栃木県"
+    },
+    "鹿沼": {
+        "prec_no": 41,
+        "block_no": 335,
+        "pref_name": "栃木県"
+    },
+    "宇都宮": {
+        "prec_no": 41,
+        "block_no": 47615,
+        "pref_name": "栃木県"
+    },
+    "葛生": {
+        "prec_no": 41,
+        "block_no": 337,
+        "pref_name": "栃木県"
+    },
+    "真岡": {
+        "prec_no": 41,
+        "block_no": 338,
+        "pref_name": "栃木県"
+    },
+    "足利": {
+        "prec_no": 41,
+        "block_no": 339,
+        "pref_name": "栃木県"
+    },
+    "栃木": {
+        "prec_no": 41,
+        "block_no": 340,
+        "pref_name": "栃木県"
+    },
+    "小山": {
+        "prec_no": 41,
+        "block_no": 341,
+        "pref_name": "栃木県"
+    },
+    "五十里": {
+        "prec_no": 41,
+        "block_no": 1015,
+        "pref_name": "栃木県"
+    },
+    "足尾": {
+        "prec_no": 41,
+        "block_no": 1016,
+        "pref_name": "栃木県"
+    },
+    "烏山": {
+        "prec_no": 41,
+        "block_no": 1017,
+        "pref_name": "栃木県"
+    },
+    "佐野": {
+        "prec_no": 41,
+        "block_no": 1018,
+        "pref_name": "栃木県"
+    },
+    "土呂部": {
+        "prec_no": 41,
+        "block_no": 1221,
+        "pref_name": "栃木県"
+    },
+    "今市": {
+        "prec_no": 41,
+        "block_no": 1333,
+        "pref_name": "栃木県"
+    },
+    "塩谷": {
+        "prec_no": 41,
+        "block_no": 1334,
+        "pref_name": "栃木県"
+    },
+    "栃木県全地点": {
+        "prec_no": 41,
+        "block_no": 0,
+        "pref_name": "栃木県"
+    },
+    "那須烏山": {
+        "prec_no": 41,
+        "block_no": 1605,
+        "pref_name": "栃木県"
+    },
+    "日光東町": {
+        "prec_no": 41,
+        "block_no": 1675,
+        "pref_name": "栃木県"
+    },
+    "浪江": {
+        "prec_no": 36,
+        "block_no": 295,
+        "pref_name": "福島県"
+    },
+    "小野新町": {
+        "prec_no": 36,
+        "block_no": 304,
+        "pref_name": "福島県"
+    },
+    "広野": {
+        "prec_no": 36,
+        "block_no": 1034,
+        "pref_name": "福島県"
+    },
+    "相馬": {
+        "prec_no": 36,
+        "block_no": 285,
+        "pref_name": "福島県"
+    },
+    "郡山": {
+        "prec_no": 36,
+        "block_no": 299,
+        "pref_name": "福島県"
+    },
+    "福島県全地点": {
+        "prec_no": 36,
+        "block_no": 0,
+        "pref_name": "福島県"
+    },
+    "梁川": {
+        "prec_no": 36,
+        "block_no": 281,
+        "pref_name": "福島県"
+    },
+    "稲荷峠": {
+        "prec_no": 36,
+        "block_no": 282,
+        "pref_name": "福島県"
+    },
+    "福島": {
+        "prec_no": 36,
+        "block_no": 47595,
+        "pref_name": "福島県"
+    },
+    "喜多方": {
+        "prec_no": 36,
+        "block_no": 286,
+        "pref_name": "福島県"
+    },
+    "八木沢": {
+        "prec_no": 36,
+        "block_no": 287,
+        "pref_name": "福島県"
+    },
+    "原町": {
+        "prec_no": 36,
+        "block_no": 288,
+        "pref_name": "福島県"
+    },
+    "飯谷山": {
+        "prec_no": 36,
+        "block_no": 289,
+        "pref_name": "福島県"
+    },
+    "猪苗代": {
+        "prec_no": 36,
+        "block_no": 290,
+        "pref_name": "福島県"
+    },
+    "二本松": {
+        "prec_no": 36,
+        "block_no": 291,
+        "pref_name": "福島県"
+    },
+    "白馬石山": {
+        "prec_no": 36,
+        "block_no": 292,
+        "pref_name": "福島県"
+    },
+    "若松": {
+        "prec_no": 36,
+        "block_no": 47570,
+        "pref_name": "福島県"
+    },
+    "船引": {
+        "prec_no": 36,
+        "block_no": 294,
+        "pref_name": "福島県"
+    },
+    "浅草岳": {
+        "prec_no": 36,
+        "block_no": 296,
+        "pref_name": "福島県"
+    },
+    "只見": {
+        "prec_no": 36,
+        "block_no": 297,
+        "pref_name": "福島県"
+    },
+    "博士峠": {
+        "prec_no": 36,
+        "block_no": 298,
+        "pref_name": "福島県"
+    },
+    "富岡": {
+        "prec_no": 36,
+        "block_no": 300,
+        "pref_name": "福島県"
+    },
+    "南郷": {
+        "prec_no": 36,
+        "block_no": 301,
+        "pref_name": "福島県"
+    },
+    "駒止峠": {
+        "prec_no": 36,
+        "block_no": 302,
+        "pref_name": "福島県"
+    },
+    "田島": {
+        "prec_no": 36,
+        "block_no": 303,
+        "pref_name": "福島県"
+    },
+    "観音山": {
+        "prec_no": 36,
+        "block_no": 305,
+        "pref_name": "福島県"
+    },
+    "白河": {
+        "prec_no": 36,
+        "block_no": 47597,
+        "pref_name": "福島県"
+    },
+    "石川": {
+        "prec_no": 36,
+        "block_no": 307,
+        "pref_name": "福島県"
+    },
+    "山王峠": {
+        "prec_no": 36,
+        "block_no": 308,
+        "pref_name": "福島県"
+    },
+    "大辷山": {
+        "prec_no": 36,
+        "block_no": 309,
+        "pref_name": "福島県"
+    },
+    "田代山": {
+        "prec_no": 36,
+        "block_no": 311,
+        "pref_name": "福島県"
+    },
+    "東白川": {
+        "prec_no": 36,
+        "block_no": 312,
+        "pref_name": "福島県"
+    },
+    "小名浜": {
+        "prec_no": 36,
+        "block_no": 47598,
+        "pref_name": "福島県"
+    },
+    "西会津": {
+        "prec_no": 36,
+        "block_no": 1031,
+        "pref_name": "福島県"
+    },
+    "鷲倉": {
+        "prec_no": 36,
+        "block_no": 1116,
+        "pref_name": "福島県"
+    },
+    "上遠野": {
+        "prec_no": 36,
+        "block_no": 1127,
+        "pref_name": "福島県"
+    },
+    "飯舘": {
+        "prec_no": 36,
+        "block_no": 1130,
+        "pref_name": "福島県"
+    },
+    "津島": {
+        "prec_no": 36,
+        "block_no": 1150,
+        "pref_name": "福島県"
+    },
+    "長沼": {
+        "prec_no": 15,
+        "block_no": 47,
+        "pref_name": "空知地方"
+    },
+    "舘岩": {
+        "prec_no": 36,
+        "block_no": 1269,
+        "pref_name": "福島県"
+    },
+    "川前": {
+        "prec_no": 36,
+        "block_no": 1274,
+        "pref_name": "福島県"
+    },
+    "桧原": {
+        "prec_no": 36,
+        "block_no": 1282,
+        "pref_name": "福島県"
+    },
+    "茂庭": {
+        "prec_no": 36,
+        "block_no": 1293,
+        "pref_name": "福島県"
+    },
+    "湯本": {
+        "prec_no": 36,
+        "block_no": 1294,
+        "pref_name": "福島県"
+    },
+    "桧枝岐": {
+        "prec_no": 36,
+        "block_no": 1295,
+        "pref_name": "福島県"
+    },
+    "吉尾峠": {
+        "prec_no": 36,
+        "block_no": 1359,
+        "pref_name": "福島県"
+    },
+    "六十里越": {
+        "prec_no": 36,
+        "block_no": 1364,
+        "pref_name": "福島県"
+    },
+    "湖南": {
+        "prec_no": 36,
+        "block_no": 1386,
+        "pref_name": "福島県"
+    },
+    "新地": {
+        "prec_no": 36,
+        "block_no": 1633,
+        "pref_name": "福島県"
+    },
+    "古殿": {
+        "prec_no": 36,
+        "block_no": 1634,
+        "pref_name": "福島県"
+    },
+    "村上": {
+        "prec_no": 54,
+        "block_no": 515,
+        "pref_name": "新潟県"
+    },
+    "鷲ケ巣山": {
+        "prec_no": 54,
+        "block_no": 516,
+        "pref_name": "新潟県"
+    },
+    "相川": {
+        "prec_no": 54,
+        "block_no": 47602,
+        "pref_name": "新潟県"
+    },
+    "両津": {
+        "prec_no": 54,
+        "block_no": 518,
+        "pref_name": "新潟県"
+    },
+    "新潟": {
+        "prec_no": 54,
+        "block_no": 47604,
+        "pref_name": "新潟県"
+    },
+    "二王子岳": {
+        "prec_no": 54,
+        "block_no": 520,
+        "pref_name": "新潟県"
+    },
+    "新津": {
+        "prec_no": 54,
+        "block_no": 521,
+        "pref_name": "新潟県"
+    },
+    "巻": {
+        "prec_no": 54,
+        "block_no": 522,
+        "pref_name": "新潟県"
+    },
+    "宝珠山": {
+        "prec_no": 54,
+        "block_no": 523,
+        "pref_name": "新潟県"
+    },
+    "寺泊": {
+        "prec_no": 54,
+        "block_no": 524,
+        "pref_name": "新潟県"
+    },
+    "三条": {
+        "prec_no": 54,
+        "block_no": 525,
+        "pref_name": "新潟県"
+    },
+    "村松": {
+        "prec_no": 54,
+        "block_no": 526,
+        "pref_name": "新潟県"
+    },
+    "津川": {
+        "prec_no": 54,
+        "block_no": 527,
+        "pref_name": "新潟県"
+    },
+    "粟ヶ岳": {
+        "prec_no": 54,
+        "block_no": 528,
+        "pref_name": "新潟県"
+    },
+    "長岡": {
+        "prec_no": 54,
+        "block_no": 529,
+        "pref_name": "新潟県"
+    },
+    "守門岳": {
+        "prec_no": 54,
+        "block_no": 531,
+        "pref_name": "新潟県"
+    },
+    "柏崎": {
+        "prec_no": 54,
+        "block_no": 532,
+        "pref_name": "新潟県"
+    },
+    "桜坂峠": {
+        "prec_no": 54,
+        "block_no": 533,
+        "pref_name": "新潟県"
+    },
+    "小出": {
+        "prec_no": 54,
+        "block_no": 534,
+        "pref_name": "新潟県"
+    },
+    "高田": {
+        "prec_no": 54,
+        "block_no": 47612,
+        "pref_name": "新潟県"
+    },
+    "安塚": {
+        "prec_no": 54,
+        "block_no": 536,
+        "pref_name": "新潟県"
+    },
+    "十日町": {
+        "prec_no": 54,
+        "block_no": 537,
+        "pref_name": "新潟県"
+    },
+    "枝折峠": {
+        "prec_no": 54,
+        "block_no": 538,
+        "pref_name": "新潟県"
+    },
+    "糸魚川": {
+        "prec_no": 54,
+        "block_no": 539,
+        "pref_name": "新潟県"
+    },
+    "能生": {
+        "prec_no": 54,
+        "block_no": 540,
+        "pref_name": "新潟県"
+    },
+    "光ケ原": {
+        "prec_no": 54,
+        "block_no": 541,
+        "pref_name": "新潟県"
+    },
+    "大沢峠": {
+        "prec_no": 54,
+        "block_no": 542,
+        "pref_name": "新潟県"
+    },
+    "津南": {
+        "prec_no": 54,
+        "block_no": 543,
+        "pref_name": "新潟県"
+    },
+    "袴岳": {
+        "prec_no": 54,
+        "block_no": 545,
+        "pref_name": "新潟県"
+    },
+    "粟島": {
+        "prec_no": 54,
+        "block_no": 995,
+        "pref_name": "新潟県"
+    },
+    "羽茂": {
+        "prec_no": 54,
+        "block_no": 996,
+        "pref_name": "新潟県"
+    },
+    "守門": {
+        "prec_no": 54,
+        "block_no": 997,
+        "pref_name": "新潟県"
+    },
+    "関山": {
+        "prec_no": 54,
+        "block_no": 998,
+        "pref_name": "新潟県"
+    },
+    "鍵取": {
+        "prec_no": 54,
+        "block_no": 1102,
+        "pref_name": "新潟県"
+    },
+    "赤谷": {
+        "prec_no": 54,
+        "block_no": 1111,
+        "pref_name": "新潟県"
+    },
+    "小国": {
+        "prec_no": 35,
+        "block_no": 277,
+        "pref_name": "山形県"
+    },
+    "松代": {
+        "prec_no": 54,
+        "block_no": 1155,
+        "pref_name": "新潟県"
+    },
+    "高根": {
+        "prec_no": 54,
+        "block_no": 1256,
+        "pref_name": "新潟県"
+    },
+    "平岩": {
+        "prec_no": 54,
+        "block_no": 1297,
+        "pref_name": "新潟県"
+    },
+    "弾崎": {
+        "prec_no": 54,
+        "block_no": 1315,
+        "pref_name": "新潟県"
+    },
+    "中条": {
+        "prec_no": 54,
+        "block_no": 1318,
+        "pref_name": "新潟県"
+    },
+    "三面": {
+        "prec_no": 54,
+        "block_no": 1369,
+        "pref_name": "新潟県"
+    },
+    "大湯": {
+        "prec_no": 54,
+        "block_no": 1370,
+        "pref_name": "新潟県"
+    },
+    "塩沢": {
+        "prec_no": 54,
+        "block_no": 1395,
+        "pref_name": "新潟県"
+    },
+    "宮寄上": {
+        "prec_no": 54,
+        "block_no": 1398,
+        "pref_name": "新潟県"
+    },
+    "樽本": {
+        "prec_no": 54,
+        "block_no": 1424,
+        "pref_name": "新潟県"
+    },
+    "川谷": {
+        "prec_no": 54,
+        "block_no": 1426,
+        "pref_name": "新潟県"
+    },
+    "筒方": {
+        "prec_no": 54,
+        "block_no": 1427,
+        "pref_name": "新潟県"
+    },
+    "室谷": {
+        "prec_no": 54,
+        "block_no": 1444,
+        "pref_name": "新潟県"
+    },
+    "松浜": {
+        "prec_no": 54,
+        "block_no": 1469,
+        "pref_name": "新潟県"
+    },
+    "秋津": {
+        "prec_no": 54,
+        "block_no": 1514,
+        "pref_name": "新潟県"
+    },
+    "新潟県全地点": {
+        "prec_no": 54,
+        "block_no": 0,
+        "pref_name": "新潟県"
+    },
+    "瓢湖": {
+        "prec_no": 54,
+        "block_no": 1645,
+        "pref_name": "新潟県"
+    },
+    "今津": {
+        "prec_no": 60,
+        "block_no": 580,
+        "pref_name": "滋賀県"
+    },
+    "荒川": {
+        "prec_no": 60,
+        "block_no": 581,
+        "pref_name": "滋賀県"
+    },
+    "春照": {
+        "prec_no": 60,
+        "block_no": 582,
+        "pref_name": "滋賀県"
+    },
+    "彦根": {
+        "prec_no": 60,
+        "block_no": 47761,
+        "pref_name": "滋賀県"
+    },
+    "近江八幡": {
+        "prec_no": 60,
+        "block_no": 584,
+        "pref_name": "滋賀県"
+    },
+    "君ケ畑台地": {
+        "prec_no": 60,
+        "block_no": 585,
+        "pref_name": "滋賀県"
+    },
+    "土山": {
+        "prec_no": 60,
+        "block_no": 587,
+        "pref_name": "滋賀県"
+    },
+    "東近江": {
+        "prec_no": 60,
+        "block_no": 963,
+        "pref_name": "滋賀県"
+    },
+    "信楽": {
+        "prec_no": 60,
+        "block_no": 964,
+        "pref_name": "滋賀県"
+    },
+    "南小松": {
+        "prec_no": 60,
+        "block_no": 1083,
+        "pref_name": "滋賀県"
+    },
+    "柳ケ瀬": {
+        "prec_no": 60,
+        "block_no": 1087,
+        "pref_name": "滋賀県"
+    },
+    "霜ケ原": {
+        "prec_no": 60,
+        "block_no": 1361,
+        "pref_name": "滋賀県"
+    },
+    "米原": {
+        "prec_no": 60,
+        "block_no": 1524,
+        "pref_name": "滋賀県"
+    },
+    "朽木平良": {
+        "prec_no": 60,
+        "block_no": 1578,
+        "pref_name": "滋賀県"
+    },
+    "伊吹山": {
+        "prec_no": 60,
+        "block_no": 47751,
+        "pref_name": "滋賀県"
+    },
+    "滋賀県全地点": {
+        "prec_no": 60,
+        "block_no": 0,
+        "pref_name": "滋賀県"
+    },
+    "栗駒山": {
+        "prec_no": 34,
+        "block_no": 241,
+        "pref_name": "宮城県"
+    },
+    "気仙沼": {
+        "prec_no": 34,
+        "block_no": 242,
+        "pref_name": "宮城県"
+    },
+    "川渡": {
+        "prec_no": 34,
+        "block_no": 243,
+        "pref_name": "宮城県"
+    },
+    "築館": {
+        "prec_no": 34,
+        "block_no": 244,
+        "pref_name": "宮城県"
+    },
+    "箕輪山": {
+        "prec_no": 34,
+        "block_no": 245,
+        "pref_name": "宮城県"
+    },
+    "志津川": {
+        "prec_no": 34,
+        "block_no": 246,
+        "pref_name": "宮城県"
+    },
+    "古川": {
+        "prec_no": 34,
+        "block_no": 247,
+        "pref_name": "宮城県"
+    },
+    "大衡": {
+        "prec_no": 34,
+        "block_no": 248,
+        "pref_name": "宮城県"
+    },
+    "鹿島台": {
+        "prec_no": 34,
+        "block_no": 249,
+        "pref_name": "宮城県"
+    },
+    "石巻": {
+        "prec_no": 34,
+        "block_no": 47592,
+        "pref_name": "宮城県"
+    },
+    "新川": {
+        "prec_no": 34,
+        "block_no": 251,
+        "pref_name": "宮城県"
+    },
+    "鷹巣山": {
+        "prec_no": 34,
+        "block_no": 252,
+        "pref_name": "宮城県"
+    },
+    "仙台": {
+        "prec_no": 34,
+        "block_no": 47590,
+        "pref_name": "宮城県"
+    },
+    "川崎": {
+        "prec_no": 34,
+        "block_no": 254,
+        "pref_name": "宮城県"
+    },
+    "不忘山": {
+        "prec_no": 34,
+        "block_no": 255,
+        "pref_name": "宮城県"
+    },
+    "亘理": {
+        "prec_no": 34,
+        "block_no": 257,
+        "pref_name": "宮城県"
+    },
+    "雄勝": {
+        "prec_no": 34,
+        "block_no": 985,
+        "pref_name": "宮城県"
+    },
+    "米山": {
+        "prec_no": 34,
+        "block_no": 1029,
+        "pref_name": "宮城県"
+    },
+    "塩釜": {
+        "prec_no": 34,
+        "block_no": 1030,
+        "pref_name": "宮城県"
+    },
+    "駒ノ湯": {
+        "prec_no": 34,
+        "block_no": 1126,
+        "pref_name": "宮城県"
+    },
+    "丸森": {
+        "prec_no": 34,
+        "block_no": 1220,
+        "pref_name": "宮城県"
+    },
+    "花山": {
+        "prec_no": 34,
+        "block_no": 1267,
+        "pref_name": "宮城県"
+    },
+    "筆甫": {
+        "prec_no": 34,
+        "block_no": 1298,
+        "pref_name": "宮城県"
+    },
+    "泉ケ岳": {
+        "prec_no": 34,
+        "block_no": 1365,
+        "pref_name": "宮城県"
+    },
+    "名取": {
+        "prec_no": 34,
+        "block_no": 1464,
+        "pref_name": "宮城県"
+    },
+    "鴬沢": {
+        "prec_no": 34,
+        "block_no": 1526,
+        "pref_name": "宮城県"
+    },
+    "加美": {
+        "prec_no": 34,
+        "block_no": 1561,
+        "pref_name": "宮城県"
+    },
+    "蔵王": {
+        "prec_no": 34,
+        "block_no": 1564,
+        "pref_name": "宮城県"
+    },
+    "宮城県全地点": {
+        "prec_no": 34,
+        "block_no": 0,
+        "pref_name": "宮城県"
+    },
+    "栗駒深山": {
+        "prec_no": 34,
+        "block_no": 1597,
+        "pref_name": "宮城県"
+    },
+    "栗駒": {
+        "prec_no": 34,
+        "block_no": 1600,
+        "pref_name": "宮城県"
+    },
+    "女川": {
+        "prec_no": 34,
+        "block_no": 1626,
+        "pref_name": "宮城県"
+    },
+    "桃生": {
+        "prec_no": 34,
+        "block_no": 1630,
+        "pref_name": "宮城県"
+    },
+    "東松島": {
+        "prec_no": 34,
+        "block_no": 1631,
+        "pref_name": "宮城県"
+    },
+    "岩沼": {
+        "prec_no": 34,
+        "block_no": 1632,
+        "pref_name": "宮城県"
+    },
+    "福井": {
+        "prec_no": 57,
+        "block_no": 47616,
+        "pref_name": "福井県"
+    },
+    "タイラ山": {
+        "prec_no": 57,
+        "block_no": 574,
+        "pref_name": "福井県"
+    },
+    "春日野": {
+        "prec_no": 57,
+        "block_no": 575,
+        "pref_name": "福井県"
+    },
+    "板垣": {
+        "prec_no": 57,
+        "block_no": 576,
+        "pref_name": "福井県"
+    },
+    "今庄": {
+        "prec_no": 57,
+        "block_no": 577,
+        "pref_name": "福井県"
+    },
+    "敦賀": {
+        "prec_no": 57,
+        "block_no": 47631,
+        "pref_name": "福井県"
+    },
+    "小浜": {
+        "prec_no": 57,
+        "block_no": 579,
+        "pref_name": "福井県"
+    },
+    "川上": {
+        "prec_no": 57,
+        "block_no": 975,
+        "pref_name": "福井県"
+    },
+    "美浜": {
+        "prec_no": 57,
+        "block_no": 1010,
+        "pref_name": "福井県"
+    },
+    "三国": {
+        "prec_no": 57,
+        "block_no": 1071,
+        "pref_name": "福井県"
+    },
+    "勝山": {
+        "prec_no": 57,
+        "block_no": 1226,
+        "pref_name": "福井県"
+    },
+    "越廼": {
+        "prec_no": 57,
+        "block_no": 1316,
+        "pref_name": "福井県"
+    },
+    "九頭竜": {
+        "prec_no": 57,
+        "block_no": 1382,
+        "pref_name": "福井県"
+    },
+    "大飯": {
+        "prec_no": 57,
+        "block_no": 1454,
+        "pref_name": "福井県"
+    },
+    "春江": {
+        "prec_no": 57,
+        "block_no": 1537,
+        "pref_name": "福井県"
+    },
+    "武生": {
+        "prec_no": 57,
+        "block_no": 1565,
+        "pref_name": "福井県"
+    },
+    "福井県全地点": {
+        "prec_no": 57,
+        "block_no": 0,
+        "pref_name": "福井県"
+    },
+    "珠洲": {
+        "prec_no": 56,
+        "block_no": 560,
+        "pref_name": "石川県"
+    },
+    "輪島": {
+        "prec_no": 56,
+        "block_no": 47600,
+        "pref_name": "石川県"
+    },
+    "門前": {
+        "prec_no": 56,
+        "block_no": 562,
+        "pref_name": "石川県"
+    },
+    "木原岳": {
+        "prec_no": 56,
+        "block_no": 563,
+        "pref_name": "石川県"
+    },
+    "志賀": {
+        "prec_no": 56,
+        "block_no": 564,
+        "pref_name": "石川県"
+    },
+    "七尾": {
+        "prec_no": 56,
+        "block_no": 565,
+        "pref_name": "石川県"
+    },
+    "羽咋": {
+        "prec_no": 56,
+        "block_no": 566,
+        "pref_name": "石川県"
+    },
+    "かほく": {
+        "prec_no": 56,
+        "block_no": 567,
+        "pref_name": "石川県"
+    },
+    "宝達山": {
+        "prec_no": 56,
+        "block_no": 568,
+        "pref_name": "石川県"
+    },
+    "金沢": {
+        "prec_no": 56,
+        "block_no": 47605,
+        "pref_name": "石川県"
+    },
+    "医王山": {
+        "prec_no": 56,
+        "block_no": 570,
+        "pref_name": "石川県"
+    },
+    "加賀中津原": {
+        "prec_no": 56,
+        "block_no": 571,
+        "pref_name": "石川県"
+    },
+    "白山河内": {
+        "prec_no": 56,
+        "block_no": 973,
+        "pref_name": "石川県"
+    },
+    "白山白峰": {
+        "prec_no": 56,
+        "block_no": 1171,
+        "pref_name": "石川県"
+    },
+    "小松": {
+        "prec_no": 56,
+        "block_no": 1324,
+        "pref_name": "石川県"
+    },
+    "穴水": {
+        "prec_no": 56,
+        "block_no": 1486,
+        "pref_name": "石川県"
+    },
+    "三井": {
+        "prec_no": 56,
+        "block_no": 1544,
+        "pref_name": "石川県"
+    },
+    "宝達志水": {
+        "prec_no": 56,
+        "block_no": 1545,
+        "pref_name": "石川県"
+    },
+    "石川県全地点": {
+        "prec_no": 56,
+        "block_no": 0,
+        "pref_name": "石川県"
+    },
+    "舳倉島": {
+        "prec_no": 56,
+        "block_no": 1650,
+        "pref_name": "石川県"
+    },
+    "稚内": {
+        "prec_no": 11,
+        "block_no": 47401,
+        "pref_name": "宗谷地方"
+    },
+    "沓形": {
+        "prec_no": 11,
+        "block_no": 2,
+        "pref_name": "宗谷地方"
+    },
+    "浜頓別": {
+        "prec_no": 11,
+        "block_no": 3,
+        "pref_name": "宗谷地方"
+    },
+    "北見枝幸": {
+        "prec_no": 11,
+        "block_no": 47402,
+        "pref_name": "宗谷地方"
+    },
+    "歌登": {
+        "prec_no": 11,
+        "block_no": 5,
+        "pref_name": "宗谷地方"
+    },
+    "中頓別": {
+        "prec_no": 11,
+        "block_no": 1051,
+        "pref_name": "宗谷地方"
+    },
+    "豊富": {
+        "prec_no": 11,
+        "block_no": 1054,
+        "pref_name": "宗谷地方"
+    },
+    "沼川": {
+        "prec_no": 11,
+        "block_no": 1203,
+        "pref_name": "宗谷地方"
+    },
+    "船泊": {
+        "prec_no": 11,
+        "block_no": 1207,
+        "pref_name": "宗谷地方"
+    },
+    "宗谷岬": {
+        "prec_no": 11,
+        "block_no": 1284,
+        "pref_name": "宗谷地方"
+    },
+    "浜鬼志別": {
+        "prec_no": 11,
+        "block_no": 1285,
+        "pref_name": "宗谷地方"
+    },
+    "本泊": {
+        "prec_no": 11,
+        "block_no": 1512,
+        "pref_name": "宗谷地方"
+    },
+    "声問": {
+        "prec_no": 11,
+        "block_no": 1528,
+        "pref_name": "宗谷地方"
+    },
+    "礼文": {
+        "prec_no": 11,
+        "block_no": 1546,
+        "pref_name": "宗谷地方"
+    },
+    "幌泊": {
+        "prec_no": 11,
+        "block_no": 1593,
+        "pref_name": "宗谷地方"
+    },
+    "宗谷地方全地点": {
+        "prec_no": 11,
+        "block_no": 0,
+        "pref_name": "宗谷地方"
+    },
+    "幌延": {
+        "prec_no": 11,
+        "block_no": 1573,
+        "pref_name": "宗谷地方"
+    },
+    "礼文上泊埼": {
+        "prec_no": 11,
+        "block_no": 1656,
+        "pref_name": "宗谷地方"
+    },
+    "雄武": {
+        "prec_no": 17,
+        "block_no": 47405,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "興部": {
+        "prec_no": 17,
+        "block_no": 63,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "紋別": {
+        "prec_no": 17,
+        "block_no": 47435,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "湧別": {
+        "prec_no": 17,
+        "block_no": 65,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "滝上": {
+        "prec_no": 17,
+        "block_no": 66,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "上藻別": {
+        "prec_no": 17,
+        "block_no": 67,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "常呂": {
+        "prec_no": 17,
+        "block_no": 68,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "遠軽": {
+        "prec_no": 17,
+        "block_no": 69,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "佐呂間": {
+        "prec_no": 17,
+        "block_no": 70,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "網走": {
+        "prec_no": 17,
+        "block_no": 47409,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "生田原": {
+        "prec_no": 17,
+        "block_no": 72,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "仁頃山": {
+        "prec_no": 17,
+        "block_no": 73,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "北見": {
+        "prec_no": 17,
+        "block_no": 74,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "小清水": {
+        "prec_no": 17,
+        "block_no": 75,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "斜里": {
+        "prec_no": 17,
+        "block_no": 76,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "留辺蘂": {
+        "prec_no": 17,
+        "block_no": 77,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "留辺蘂山": {
+        "prec_no": 17,
+        "block_no": 78,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "美幌": {
+        "prec_no": 17,
+        "block_no": 79,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "藻琴山": {
+        "prec_no": 17,
+        "block_no": 80,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "チミケップ山": {
+        "prec_no": 17,
+        "block_no": 81,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "津別": {
+        "prec_no": 17,
+        "block_no": 82,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "北見中山": {
+        "prec_no": 17,
+        "block_no": 83,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "宇登呂": {
+        "prec_no": 17,
+        "block_no": 981,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "西興部": {
+        "prec_no": 17,
+        "block_no": 1073,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "白滝": {
+        "prec_no": 17,
+        "block_no": 1092,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "境野": {
+        "prec_no": 17,
+        "block_no": 1209,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "東藻琴": {
+        "prec_no": 17,
+        "block_no": 1263,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "丸瀬布": {
+        "prec_no": 17,
+        "block_no": 1420,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "女満別": {
+        "prec_no": 17,
+        "block_no": 1460,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "紋別小向": {
+        "prec_no": 17,
+        "block_no": 1487,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "津別二又": {
+        "prec_no": 17,
+        "block_no": 1568,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "置戸常元": {
+        "prec_no": 17,
+        "block_no": 1569,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "網走・北見・紋別地方全地点": {
+        "prec_no": 17,
+        "block_no": 0,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "山園": {
+        "prec_no": 17,
+        "block_no": 1617,
+        "pref_name": "網走・北見・紋別地方"
+    },
+    "石狩沼田": {
+        "prec_no": 15,
+        "block_no": 38,
+        "pref_name": "空知地方"
+    },
+    "深川": {
+        "prec_no": 15,
+        "block_no": 39,
+        "pref_name": "空知地方"
+    },
+    "常盤山": {
+        "prec_no": 15,
+        "block_no": 40,
+        "pref_name": "空知地方"
+    },
+    "滝川": {
+        "prec_no": 15,
+        "block_no": 41,
+        "pref_name": "空知地方"
+    },
+    "神威岳": {
+        "prec_no": 15,
+        "block_no": 42,
+        "pref_name": "空知地方"
+    },
+    "芦別": {
+        "prec_no": 15,
+        "block_no": 43,
+        "pref_name": "空知地方"
+    },
+    "美唄": {
+        "prec_no": 15,
+        "block_no": 44,
+        "pref_name": "空知地方"
+    },
+    "岩見沢": {
+        "prec_no": 15,
+        "block_no": 47413,
+        "pref_name": "空知地方"
+    },
+    "下桂沢": {
+        "prec_no": 15,
+        "block_no": 46,
+        "pref_name": "空知地方"
+    },
+    "丁未山": {
+        "prec_no": 15,
+        "block_no": 48,
+        "pref_name": "空知地方"
+    },
+    "夕張": {
+        "prec_no": 15,
+        "block_no": 49,
+        "pref_name": "空知地方"
+    },
+    "登川山": {
+        "prec_no": 15,
+        "block_no": 50,
+        "pref_name": "空知地方"
+    },
+    "月形": {
+        "prec_no": 15,
+        "block_no": 999,
+        "pref_name": "空知地方"
+    },
+    "栗沢": {
+        "prec_no": 15,
+        "block_no": 1068,
+        "pref_name": "空知地方"
+    },
+    "晩生内": {
+        "prec_no": 15,
+        "block_no": 1270,
+        "pref_name": "空知地方"
+    },
+    "空知吉野": {
+        "prec_no": 15,
+        "block_no": 1287,
+        "pref_name": "空知地方"
+    },
+    "浦臼": {
+        "prec_no": 15,
+        "block_no": 1400,
+        "pref_name": "空知地方"
+    },
+    "沼の沢": {
+        "prec_no": 15,
+        "block_no": 1402,
+        "pref_name": "空知地方"
+    },
+    "赤平": {
+        "prec_no": 15,
+        "block_no": 1566,
+        "pref_name": "空知地方"
+    },
+    "雨竜": {
+        "prec_no": 15,
+        "block_no": 1567,
+        "pref_name": "空知地方"
+    },
+    "空知地方全地点": {
+        "prec_no": 15,
+        "block_no": 0,
+        "pref_name": "空知地方"
+    },
+    "秩父別": {
+        "prec_no": 15,
+        "block_no": 1674,
+        "pref_name": "空知地方"
+    },
+    "小河内": {
+        "prec_no": 44,
+        "block_no": 365,
+        "pref_name": "東京都"
+    },
+    "八王子": {
+        "prec_no": 44,
+        "block_no": 366,
+        "pref_name": "東京都"
+    },
+    "調布": {
+        "prec_no": 44,
+        "block_no": 367,
+        "pref_name": "東京都"
+    },
+    "世田谷": {
+        "prec_no": 44,
+        "block_no": 368,
+        "pref_name": "東京都"
+    },
+    "東京": {
+        "prec_no": 44,
+        "block_no": 47662,
+        "pref_name": "東京都"
+    },
+    "江戸川臨海": {
+        "prec_no": 44,
+        "block_no": 370,
+        "pref_name": "東京都"
+    },
+    "羽田": {
+        "prec_no": 44,
+        "block_no": 371,
+        "pref_name": "東京都"
+    },
+    "大島": {
+        "prec_no": 44,
+        "block_no": 47675,
+        "pref_name": "東京都"
+    },
+    "三宅島": {
+        "prec_no": 44,
+        "block_no": 47677,
+        "pref_name": "東京都"
+    },
+    "八丈島": {
+        "prec_no": 44,
+        "block_no": 47678,
+        "pref_name": "東京都"
+    },
+    "青梅": {
+        "prec_no": 44,
+        "block_no": 1001,
+        "pref_name": "東京都"
+    },
+    "練馬": {
+        "prec_no": 44,
+        "block_no": 1002,
+        "pref_name": "東京都"
+    },
+    "新島": {
+        "prec_no": 44,
+        "block_no": 1522,
+        "pref_name": "東京都"
+    },
+    "小沢": {
+        "prec_no": 44,
+        "block_no": 1180,
+        "pref_name": "東京都"
+    },
+    "父島": {
+        "prec_no": 44,
+        "block_no": 47971,
+        "pref_name": "東京都"
+    },
+    "大島北ノ山": {
+        "prec_no": 44,
+        "block_no": 1467,
+        "pref_name": "東京都"
+    },
+    "八重見ヶ原": {
+        "prec_no": 44,
+        "block_no": 1468,
+        "pref_name": "東京都"
+    },
+    "神津島": {
+        "prec_no": 44,
+        "block_no": 1523,
+        "pref_name": "東京都"
+    },
+    "三宅坪田": {
+        "prec_no": 44,
+        "block_no": 1506,
+        "pref_name": "東京都"
+    },
+    "三宅島阿古": {
+        "prec_no": 44,
+        "block_no": 1509,
+        "pref_name": "東京都"
+    },
+    "三宅伊豆": {
+        "prec_no": 44,
+        "block_no": 1525,
+        "pref_name": "東京都"
+    },
+    "南鳥島": {
+        "prec_no": 44,
+        "block_no": 47991,
+        "pref_name": "東京都"
+    },
+    "東京都全地点": {
+        "prec_no": 44,
+        "block_no": 0,
+        "pref_name": "東京都"
+    },
+    "母島": {
+        "prec_no": 44,
+        "block_no": 1595,
+        "pref_name": "東京都"
+    },
+    "大島臨時": {
+        "prec_no": 44,
+        "block_no": 1642,
+        "pref_name": "東京都"
+    },
+    "大島泉津": {
+        "prec_no": 44,
+        "block_no": 1643,
+        "pref_name": "東京都"
+    },
+    "大島差木地": {
+        "prec_no": 44,
+        "block_no": 1644,
+        "pref_name": "東京都"
+    },
+    "利島": {
+        "prec_no": 44,
+        "block_no": 1646,
+        "pref_name": "東京都"
+    },
+    "青ヶ島": {
+        "prec_no": 44,
+        "block_no": 1648,
+        "pref_name": "東京都"
+    },
+    "川湯": {
+        "prec_no": 19,
+        "block_no": 90,
+        "pref_name": "釧路地方"
+    },
+    "阿寒湖畔": {
+        "prec_no": 19,
+        "block_no": 91,
+        "pref_name": "釧路地方"
+    },
+    "弟子屈": {
+        "prec_no": 19,
+        "block_no": 1187,
+        "pref_name": "釧路地方"
+    },
+    "標茶": {
+        "prec_no": 19,
+        "block_no": 93,
+        "pref_name": "釧路地方"
+    },
+    "幌呂台地": {
+        "prec_no": 19,
+        "block_no": 94,
+        "pref_name": "釧路地方"
+    },
+    "中徹別": {
+        "prec_no": 19,
+        "block_no": 95,
+        "pref_name": "釧路地方"
+    },
+    "阿寒": {
+        "prec_no": 19,
+        "block_no": 96,
+        "pref_name": "釧路地方"
+    },
+    "霧多布": {
+        "prec_no": 19,
+        "block_no": 97,
+        "pref_name": "釧路地方"
+    },
+    "白糠": {
+        "prec_no": 19,
+        "block_no": 98,
+        "pref_name": "釧路地方"
+    },
+    "釧路": {
+        "prec_no": 19,
+        "block_no": 47418,
+        "pref_name": "釧路地方"
+    },
+    "二俣": {
+        "prec_no": 19,
+        "block_no": 1107,
+        "pref_name": "釧路地方"
+    },
+    "鶴居": {
+        "prec_no": 19,
+        "block_no": 1186,
+        "pref_name": "釧路地方"
+    },
+    "太田": {
+        "prec_no": 19,
+        "block_no": 1192,
+        "pref_name": "釧路地方"
+    },
+    "榊町": {
+        "prec_no": 19,
+        "block_no": 1195,
+        "pref_name": "釧路地方"
+    },
+    "知方学": {
+        "prec_no": 19,
+        "block_no": 1283,
+        "pref_name": "釧路地方"
+    },
+    "塘路": {
+        "prec_no": 19,
+        "block_no": 1403,
+        "pref_name": "釧路地方"
+    },
+    "茶内原野": {
+        "prec_no": 19,
+        "block_no": 1417,
+        "pref_name": "釧路地方"
+    },
+    "鶴丘": {
+        "prec_no": 19,
+        "block_no": 1461,
+        "pref_name": "釧路地方"
+    },
+    "釧路地方全地点": {
+        "prec_no": 19,
+        "block_no": 0,
+        "pref_name": "釧路地方"
+    },
+    "鳥海山": {
+        "prec_no": 35,
+        "block_no": 258,
+        "pref_name": "山形県"
+    },
+    "酒田": {
+        "prec_no": 35,
+        "block_no": 47587,
+        "pref_name": "山形県"
+    },
+    "差首鍋": {
+        "prec_no": 35,
+        "block_no": 260,
+        "pref_name": "山形県"
+    },
+    "鶴岡": {
+        "prec_no": 35,
+        "block_no": 263,
+        "pref_name": "山形県"
+    },
+    "狩川": {
+        "prec_no": 35,
+        "block_no": 264,
+        "pref_name": "山形県"
+    },
+    "新庄": {
+        "prec_no": 35,
+        "block_no": 47520,
+        "pref_name": "山形県"
+    },
+    "瀬見": {
+        "prec_no": 35,
+        "block_no": 266,
+        "pref_name": "山形県"
+    },
+    "温海岳": {
+        "prec_no": 35,
+        "block_no": 267,
+        "pref_name": "山形県"
+    },
+    "櫛引": {
+        "prec_no": 35,
+        "block_no": 268,
+        "pref_name": "山形県"
+    },
+    "月山": {
+        "prec_no": 35,
+        "block_no": 269,
+        "pref_name": "山形県"
+    },
+    "銀山": {
+        "prec_no": 35,
+        "block_no": 270,
+        "pref_name": "山形県"
+    },
+    "楯岡": {
+        "prec_no": 35,
+        "block_no": 271,
+        "pref_name": "山形県"
+    },
+    "左沢": {
+        "prec_no": 35,
+        "block_no": 272,
+        "pref_name": "山形県"
+    },
+    "葉山": {
+        "prec_no": 35,
+        "block_no": 274,
+        "pref_name": "山形県"
+    },
+    "長井": {
+        "prec_no": 35,
+        "block_no": 275,
+        "pref_name": "山形県"
+    },
+    "蔵王山": {
+        "prec_no": 35,
+        "block_no": 276,
+        "pref_name": "山形県"
+    },
+    "高峰": {
+        "prec_no": 35,
+        "block_no": 278,
+        "pref_name": "山形県"
+    },
+    "米沢": {
+        "prec_no": 35,
+        "block_no": 279,
+        "pref_name": "山形県"
+    },
+    "西吾妻山": {
+        "prec_no": 35,
+        "block_no": 280,
+        "pref_name": "山形県"
+    },
+    "向町": {
+        "prec_no": 35,
+        "block_no": 910,
+        "pref_name": "山形県"
+    },
+    "上草津": {
+        "prec_no": 35,
+        "block_no": 1038,
+        "pref_name": "山形県"
+    },
+    "尾花沢": {
+        "prec_no": 35,
+        "block_no": 1039,
+        "pref_name": "山形県"
+    },
+    "鼠ケ関": {
+        "prec_no": 35,
+        "block_no": 1040,
+        "pref_name": "山形県"
+    },
+    "山毛欅潰山": {
+        "prec_no": 35,
+        "block_no": 1103,
+        "pref_name": "山形県"
+    },
+    "肘折": {
+        "prec_no": 35,
+        "block_no": 1125,
+        "pref_name": "山形県"
+    },
+    "高畠": {
+        "prec_no": 35,
+        "block_no": 1132,
+        "pref_name": "山形県"
+    },
+    "落合": {
+        "prec_no": 35,
+        "block_no": 1169,
+        "pref_name": "山形県"
+    },
+    "飛島": {
+        "prec_no": 35,
+        "block_no": 1291,
+        "pref_name": "山形県"
+    },
+    "大井沢": {
+        "prec_no": 35,
+        "block_no": 1292,
+        "pref_name": "山形県"
+    },
+    "荒沢": {
+        "prec_no": 35,
+        "block_no": 1357,
+        "pref_name": "山形県"
+    },
+    "白鷹山": {
+        "prec_no": 35,
+        "block_no": 1428,
+        "pref_name": "山形県"
+    },
+    "浜中": {
+        "prec_no": 35,
+        "block_no": 1465,
+        "pref_name": "山形県"
+    },
+    "東根": {
+        "prec_no": 35,
+        "block_no": 1488,
+        "pref_name": "山形県"
+    },
+    "村山": {
+        "prec_no": 35,
+        "block_no": 1539,
+        "pref_name": "山形県"
+    },
+    "上山中山": {
+        "prec_no": 35,
+        "block_no": 1562,
+        "pref_name": "山形県"
+    },
+    "山形県全地点": {
+        "prec_no": 35,
+        "block_no": 0,
+        "pref_name": "山形県"
+    },
+    "酒田大沢": {
+        "prec_no": 35,
+        "block_no": 1664,
+        "pref_name": "山形県"
+    },
+    "上田沢": {
+        "prec_no": 35,
+        "block_no": 1678,
+        "pref_name": "山形県"
+    }
+}
